@@ -1,0 +1,1407 @@
+﻿Statement,Header,Field Name,Field Value
+Statement,Data,BrokerName,"Interactive Brokers Singapore Pte. Ltd., GST 201915420Z"
+Statement,Data,BrokerAddress,"1 Harbourfront Place #12-01, Harbourfront Tower 1, Singapore 098633"
+Statement,Data,Title,Activity Statement
+Statement,Data,Period,"November 10, 2025 - April 17, 2026"
+Statement,Data,WhenGenerated,"2026-04-20, 04:36:23 EDT"
+Account Information,Header,Field Name,Field Value
+Account Information,Data,Name,EASWARAN JAYARAMAN and VAIKUNTAM JAYANTHI
+Account Information,Data,Account,U18076010
+Account Information,Data,Address of Account Holder(s),"285A TOH GUAN ROAD,#14-52,Singapore, SG-01 601285,Singapore"
+Account Information,Data,Account Type,Individual
+Account Information,Data,Customer Type,Joint
+Account Information,Data,Account Capabilities,Margin
+Account Information,Data,Base Currency,USD
+Net Asset Value,Header,Asset Class,Prior Total,Current Long,Current Short,Current Total,Change
+Net Asset Value,Data,Cash ,1.53694,93091.53342939,0,93091.53342939,93089.99648939
+Net Asset Value,Data,Stock,0,79709,0,79709,79709
+Net Asset Value,Data,Options,0,0,-15011.66,-15011.66,-15011.66
+Net Asset Value,Data,Interest Accruals,0,99.8,0,99.8,99.8
+Net Asset Value,Data,Total,1.53694,172900.33342939,-15011.66,157888.67342939,157887.13648939
+Net Asset Value,Header,Time Weighted Rate of Return
+Net Asset Value,Data,1.301994766%
+Change in NAV,Header,Field Name,Field Value
+Change in NAV,Data,Starting Value,1.53694
+Change in NAV,Data,Mark-to-Market,5243.15338857
+Change in NAV,Data,Deposits & Withdrawals,152466.12
+Change in NAV,Data,Dividends,89
+Change in NAV,Data,Withholding Tax,-26.7
+Change in NAV,Data,Interest,280.4803844
+Change in NAV,Data,Change in Interest Accruals,99.8005876
+Change in NAV,Data,Other Fees,-31.5
+Change in NAV,Data,Commissions,-211.3598934
+Change in NAV,Data,Sales Tax,-21.85739041
+Change in NAV,Data,Other FX Translations,-0.0005876
+Change in NAV,Data,Ending Value,157888.67342939
+Mark-to-Market Performance Summary,Header,Asset Category,Symbol,Prior Quantity,Current Quantity,Prior Price,Current Price,Mark-to-Market P/L Position,Mark-to-Market P/L Transaction,Mark-to-Market P/L Commissions,Mark-to-Market P/L Other,Mark-to-Market P/L Total,Code
+Mark-to-Market Performance Summary,Data,Stocks,AMZN,0,100,--,250.5600,2787,-231,0,0,2556,
+Mark-to-Market Performance Summary,Data,Stocks,LULU,0,100,--,167.2800,-2379,-143,0,0,-2522,
+Mark-to-Market Performance Summary,Data,Stocks,NOW,0,100,--,96.6600,-1884.3,-2511.7,-3.291255,0,-4399.291255,
+Mark-to-Market Performance Summary,Data,Stocks,ORCL,0,0,--,--,488,-688,-0.021255,0,-200.021255,
+Mark-to-Market Performance Summary,Data,Stocks,PLTR,0,100,--,146.3900,-547,-2814,0,0,-3361,
+Mark-to-Market Performance Summary,Data,Stocks,QCOM,0,100,--,136.2000,-10,-2870,0,62.3,-2817.7,
+Mark-to-Market Performance Summary,Data,Total,,,,,,-1545.3,-9257.7,-3.31251,62.3,-10744.01251,
+Mark-to-Market Performance Summary,Data,Equity and Index Options,AAPL 17APR26 235 P,0,0,--,--,221,15,-2.2881171,0,233.7118829,
+Mark-to-Market Performance Summary,Data,Equity and Index Options,ADBE 17APR26 230 P,0,0,--,--,390.49,115.51,-2.0183421,0,503.9816579,
+Mark-to-Market Performance Summary,Data,Equity and Index Options,AMZN 06FEB26 222.5 P,0,0,--,--,-878,-622,-2.2898611,0,-1502.2898611,
+Mark-to-Market Performance Summary,Data,Equity and Index Options,AMZN 09FEB26 225 P,0,0,--,--,-866.99,1102.99,-1.1467236,0,234.8532764,
+Mark-to-Market Performance Summary,Data,Equity and Index Options,AMZN 18FEB26 225 C,0,0,--,--,91.5,-51.5,-1.1467236,0,38.8532764,
+Mark-to-Market Performance Summary,Data,Equity and Index Options,AMZN 27FEB26 230 C,0,0,--,--,40.36,-44.36,-1.9083611,0,-5.9083611,
+Mark-to-Market Performance Summary,Data,Equity and Index Options,AMZN 06MAR26 225 C,0,0,--,--,62,-92,-1.9083611,0,-31.9083611,
+Mark-to-Market Performance Summary,Data,Equity and Index Options,AMZN 06MAR26 225 P,0,0,--,--,37.38,148.62,-2.2917141,0,183.7082859,
+Mark-to-Market Performance Summary,Data,Equity and Index Options,AMZN 13MAR26 215 C,0,0,--,--,440,-147,-0.6889236,0,292.3110764,
+Mark-to-Market Performance Summary,Data,Equity and Index Options,AMZN 17APR26 195 P,0,0,--,--,408,117,-2.2908421,0,522.7091579,
+Mark-to-Market Performance Summary,Data,Equity and Index Options,AMZN 17APR26 225 C,0,0,--,--,205.5,-41.5,-1.8303171,0,162.1696829,
+Mark-to-Market Performance Summary,Data,Equity and Index Options,AMZN 01MAY26 200 P,0,0,--,--,755.98,-16.98,-2.2881171,0,736.7118829,
+Mark-to-Market Performance Summary,Data,Equity and Index Options,AMZN 01MAY26 225 C,0,-1,--,27.5673,-2339.23,-77.5,-1.1458516,0,-2417.8758516,
+Mark-to-Market Performance Summary,Data,Equity and Index Options,AMZN 15MAY26 215 P,0,-1,--,1.5350,179,37.5,-1.15415958,0,215.34584042,
+Mark-to-Market Performance Summary,Data,Equity and Index Options,ARM 27FEB26 123 P,0,0,--,--,255.22,-92.22,-1.1467236,0,161.8532764,
+Mark-to-Market Performance Summary,Data,Equity and Index Options,ARM 08MAY26 135 P,0,-1,--,1.5778,416.11,59.11,-0.9278516,0,474.2921484,
+Mark-to-Market Performance Summary,Data,Equity and Index Options,CRDO 13FEB26 128 P,0,0,--,--,-408.8,-227.2,-2.2898611,0,-638.2898611,
+Mark-to-Market Performance Summary,Data,Equity and Index Options,CRDO 13MAR26 119 P,0,0,--,--,-951.16,-230.84,-2.2889891,0,-1184.2889891,
+Mark-to-Market Performance Summary,Data,Equity and Index Options,CRDO 08MAY26 135 P,0,-1,--,3.4500,60,47,-1.15600081,0,105.84399919,
+Mark-to-Market Performance Summary,Data,Equity and Index Options,CROX 12DEC25 70 P,0,0,--,--,68.56,61.44,-0.3211031,0,129.6788969,
+Mark-to-Market Performance Summary,Data,Equity and Index Options,CRWV 20MAR26 60 P,0,0,--,--,489.59,36.41,-2.2235891,0,523.7764109,
+Mark-to-Market Performance Summary,Data,Equity and Index Options,CRWV 02APR26 65 P,0,0,--,--,300.35,78.65,-2.0156171,0,376.9843829,
+Mark-to-Market Performance Summary,Data,Equity and Index Options,LULU 12DEC25 170 P,0,0,--,--,580,-11,-1.1430721,0,567.8569279,
+Mark-to-Market Performance Summary,Data,Equity and Index Options,LULU 02JAN26 190 P,0,0,--,--,153.49,74.51,-1.1084101,0,226.8915899,
+Mark-to-Market Performance Summary,Data,Equity and Index Options,LULU 23JAN26 192.5 P,0,0,--,--,121.56,88.44,-1.1494486,0,208.8505514,
+Mark-to-Market Performance Summary,Data,Equity and Index Options,LULU 06FEB26 197.5 C,0,0,--,--,313,-22,-1.1494486,0,289.8505514,
+Mark-to-Market Performance Summary,Data,Equity and Index Options,LULU 20FEB26 190 C,0,0,--,--,0,4,-2.2925861,0,1.7074139,
+Mark-to-Market Performance Summary,Data,Equity and Index Options,LULU 27FEB26 190 C,0,0,--,--,256.5,-28.5,-1.1494486,0,226.8505514,
+Mark-to-Market Performance Summary,Data,Equity and Index Options,LULU 27FEB26 200 C,0,0,--,--,5.75,24.25,-2.0200861,0,27.9799139,
+Mark-to-Market Performance Summary,Data,Equity and Index Options,LULU 13MAR26 180 P,0,0,--,--,0,53,-2.0200861,0,50.9799139,
+Mark-to-Market Performance Summary,Data,Equity and Index Options,LULU 20MAR26 180 P,0,0,--,--,-396.28,8.28,-2.2944391,0,-390.2944391,
+Mark-to-Market Performance Summary,Data,Equity and Index Options,LULU 20MAR26 187.5 C,0,0,--,--,511.69,-37.69,-2.2881171,0,471.7118829,
+Mark-to-Market Performance Summary,Data,Equity and Index Options,LULU 24APR26 180 C,0,0,--,--,144.28,97.72,-2.2935671,0,239.7064329,
+Mark-to-Market Performance Summary,Data,Equity and Index Options,LULU 08MAY26 165 C,0,-1,--,8.2252,-375.02,-57.5,-0.8733516,0,-433.3933516,
+Mark-to-Market Performance Summary,Data,Equity and Index Options,LULU 18JUN26 150 P,0,0,--,--,-253.21,-8.79,-1.7976171,0,-263.7976171,
+Mark-to-Market Performance Summary,Data,Equity and Index Options,LULU 18JUN26 170 P,0,-1,--,14.8971,297.79,-2.5,-1.1485766,0,294.1414234,
+Mark-to-Market Performance Summary,Data,Equity and Index Options,MDB 13MAR26 247.5 P,0,0,--,--,405,19,-1.1458516,0,422.8541484,
+Mark-to-Market Performance Summary,Data,Equity and Index Options,MDB 27MAR26 260 P,0,0,--,--,-826.93,392.93,-2.0728421,0,-436.0728421,
+Mark-to-Market Performance Summary,Data,Equity and Index Options,MDB 02APR26 240 P,0,0,--,--,0,-386,-2.0156171,0,-388.0156171,
+Mark-to-Market Performance Summary,Data,Equity and Index Options,MDB 18JUN26 220 P,0,-1,--,13.5501,577.49,222.5,-1.1458516,0,798.8441484,
+Mark-to-Market Performance Summary,Data,Equity and Index Options,MDB 18JUN26 230 P,0,-1,--,17.1829,586.71,-244,-1.1485766,0,341.5614234,
+Mark-to-Market Performance Summary,Data,Equity and Index Options,META 25MAR26 587.5 P,0,0,--,--,0,19,-1.9066171,0,17.0933829,
+Mark-to-Market Performance Summary,Data,Equity and Index Options,META 25MAR26 667.5 P,0,0,--,--,0,-212,-1.9829171,0,-213.9829171,
+Mark-to-Market Performance Summary,Data,Equity and Index Options,META 27MAR26 587.5 P,0,0,--,--,0,22,-1.9066171,0,20.0933829,
+Mark-to-Market Performance Summary,Data,Equity and Index Options,META 17APR26 555 P,0,0,--,--,-1834.26,736.26,-1.9093421,0,-1099.9093421,
+Mark-to-Market Performance Summary,Data,Equity and Index Options,META 01MAY26 535 P,0,0,--,--,2432.89,-585.89,-2.2908421,0,1844.7091579,
+Mark-to-Market Performance Summary,Data,Equity and Index Options,MRK 26DEC25 89 P,0,0,--,--,82.36,17.64,-2.2831031,0,97.7168969,
+Mark-to-Market Performance Summary,Data,Equity and Index Options,MRK 26DEC25 101 P,0,0,--,--,127.12,35.88,-3.4289002,0,159.5710998,
+Mark-to-Market Performance Summary,Data,Equity and Index Options,MRK 27FEB26 115 P,0,0,--,--,98,21,-1.1467236,0,117.8532764,
+Mark-to-Market Performance Summary,Data,Equity and Index Options,MRK 20MAR26 120 P,0,0,--,--,-172.15,11.15,-2.2944391,0,-163.2944391,
+Mark-to-Market Performance Summary,Data,Equity and Index Options,MRK 27MAR26 117 P,0,0,--,--,163.05,1.95,-2.0156171,0,162.9843829,
+Mark-to-Market Performance Summary,Data,Equity and Index Options,MRK 17APR26 118 P,0,0,--,--,241.84,-72.84,-2.2908421,0,166.7091579,
+Mark-to-Market Performance Summary,Data,Equity and Index Options,MRK 17APR26 120 P,0,0,--,--,278.42,21.58,-2.2935671,0,297.7064329,
+Mark-to-Market Performance Summary,Data,Equity and Index Options,MS 23JAN26 175 P,0,0,--,--,175.5,-3.5,-1.1467236,0,170.8532764,
+Mark-to-Market Performance Summary,Data,Equity and Index Options,MS 24APR26 145 P,0,0,--,--,296.01,-18.01,-2.2908421,0,275.7091579,
+Mark-to-Market Performance Summary,Data,Equity and Index Options,MSFT 13MAR26 390 P,0,0,--,--,430,-51,-1.1494486,0,377.8505514,
+Mark-to-Market Performance Summary,Data,Equity and Index Options,MSFT 24APR26 370 P,0,0,--,--,438.99,39.01,-2.0156171,0,475.9843829,
+Mark-to-Market Performance Summary,Data,Equity and Index Options,MU 06MAR26 357.5 P,0,0,--,--,108,155,-1.1458516,0,261.8541484,
+Mark-to-Market Performance Summary,Data,Equity and Index Options,MU 10APR26 390 P,0,0,--,--,345,89,-1.15559664,0,432.84440336,
+Mark-to-Market Performance Summary,Data,Equity and Index Options,MU 17APR26 397.5 P,0,0,--,--,355.51,264.49,-2.02996521,0,617.97003479,
+Mark-to-Market Performance Summary,Data,Equity and Index Options,MU 24APR26 430 P,0,-1,--,6.8500,132.06,70.94,-1.16579075,0,201.83420925,
+Mark-to-Market Performance Summary,Data,Equity and Index Options,NOW 30JAN26 141 P,0,0,--,--,-2047.41,2369.41,-1.1467236,0,320.8532764,
+Mark-to-Market Performance Summary,Data,Equity and Index Options,NOW 13FEB26 98 P,0,0,--,--,95.09,49.91,-2.0732236,0,142.9267764,
+Mark-to-Market Performance Summary,Data,Equity and Index Options,NOW 13FEB26 100 P,0,0,--,--,84.98,62.02,-1.1467236,0,145.8532764,
+Mark-to-Market Performance Summary,Data,Equity and Index Options,NOW 27FEB26 135 C,0,0,--,--,90,0,-1.1467236,0,88.8532764,
+Mark-to-Market Performance Summary,Data,Equity and Index Options,NOW 20MAR26 125 C,0,0,--,--,130.19,-17.19,-2.2881171,0,110.7118829,
+Mark-to-Market Performance Summary,Data,Equity and Index Options,NOW 02APR26 122 C,0,0,--,--,255.54,0.46,-1.6332342,0,254.3667658,
+Mark-to-Market Performance Summary,Data,Equity and Index Options,NOW 17APR26 99 P,0,0,--,--,-821.61,212.61,-0.5441171,0,-609.5441171,
+Mark-to-Market Performance Summary,Data,Equity and Index Options,NOW 17APR26 105 P,0,0,--,--,-337.52,20.52,-1.4161171,0,-318.4161171,
+Mark-to-Market Performance Summary,Data,Equity and Index Options,NOW 18JUN26 88 P,0,-1,--,5.4272,342.28,-109,-0.2912759,0,232.9887241,
+Mark-to-Market Performance Summary,Data,Equity and Index Options,NOW 18JUN26 124 C,0,-1,--,2.1032,178.82,-14.14,-0.0013516,0,164.6786484,
+Mark-to-Market Performance Summary,Data,Equity and Index Options,NVDA 02JAN26 160 P,0,0,--,--,-167,11,-1.108094,0,-157.108094,
+Mark-to-Market Performance Summary,Data,Equity and Index Options,NVDA 02JAN26 170 P,0,0,--,--,203.5,3.5,-1.1084101,0,205.8915899,
+Mark-to-Market Performance Summary,Data,Equity and Index Options,NVDA 30JAN26 175 P,0,0,--,--,275,-38,-1.1494486,0,235.8505514,
+Mark-to-Market Performance Summary,Data,Equity and Index Options,NVDA 06FEB26 175 P,0,0,--,--,0,-61,-2.2925861,0,-63.2925861,
+Mark-to-Market Performance Summary,Data,Equity and Index Options,NVDA 06FEB26 177.5 P,0,0,--,--,-449.26,64.26,-1.8347861,0,-386.8347861,
+Mark-to-Market Performance Summary,Data,Equity and Index Options,NVDA 13FEB26 177.5 P,0,0,--,--,829.3,-72.3,-1.1494486,0,755.8505514,
+Mark-to-Market Performance Summary,Data,Equity and Index Options,NVDA 20FEB26 177.5 P,0,0,--,--,252,-17,-1.1467236,0,233.8532764,
+Mark-to-Market Performance Summary,Data,Equity and Index Options,NVDA 27FEB26 182.5 P,0,0,--,--,-265.5,322.5,-1.7693861,0,55.2306139,
+Mark-to-Market Performance Summary,Data,Equity and Index Options,NVDA 04MAR26 180 P,0,0,--,--,0,31,-2.2925861,0,28.7074139,
+Mark-to-Market Performance Summary,Data,Equity and Index Options,NVDA 20MAR26 165 P,0,0,--,--,225.5,65.5,-2.7159421,0,288.2840579,
+Mark-to-Market Performance Summary,Data,Equity and Index Options,ON 21NOV25 46 P,0,0,--,--,53,-110,-2.2885531,0,-59.2885531,
+Mark-to-Market Performance Summary,Data,Equity and Index Options,ON 02JAN26 44 P,0,0,--,--,197.91,50.09,-2.2511661,0,245.7488339,
+Mark-to-Market Performance Summary,Data,Equity and Index Options,ON 09JAN26 50 P,0,0,--,--,72.92,-0.92,-1.1084101,0,70.8915899,
+Mark-to-Market Performance Summary,Data,Equity and Index Options,ON 30JAN26 56 P,0,0,--,--,82.03,19.97,-1.1467236,0,100.8532764,
+Mark-to-Market Performance Summary,Data,Equity and Index Options,ORCL 20FEB26 149 P,0,0,--,--,142.53,71.47,-1.1467236,0,212.8532764,
+Mark-to-Market Performance Summary,Data,Equity and Index Options,ORCL 27FEB26 150 C,0,0,--,--,146.28,28.72,-1.1494486,0,173.8505514,
+Mark-to-Market Performance Summary,Data,Equity and Index Options,ORCL 06MAR26 147 C,0,0,--,--,-104.57,419.57,-1.1485766,0,313.8514234,
+Mark-to-Market Performance Summary,Data,Equity and Index Options,ORCL 06MAR26 147 P,0,0,--,--,106.46,-318.46,-2.2889891,0,-214.2889891,
+Mark-to-Market Performance Summary,Data,Equity and Index Options,ORCL 20MAR26 137 P,0,0,--,--,580.49,194.51,-2.2881171,0,772.7118829,
+Mark-to-Market Performance Summary,Data,Equity and Index Options,PANW 06MAR26 149 P,0,0,--,--,490.74,-283.74,-1.1467236,0,205.8532764,
+Mark-to-Market Performance Summary,Data,Equity and Index Options,PANW 15MAY26 150 P,0,-1,--,2.0750,40,-0.5,-1.15139774,0,38.34860226,
+Mark-to-Market Performance Summary,Data,Equity and Index Options,PLTR 12DEC25 180 P,0,0,--,--,51,239,-2.2168202,0,287.7831798,
+Mark-to-Market Performance Summary,Data,Equity and Index Options,PLTR 09JAN26 185 P,0,0,--,--,-577.66,156.66,-1.8322791,0,-422.8322791,
+Mark-to-Market Performance Summary,Data,Equity and Index Options,PLTR 30JAN26 180 P,0,0,--,--,-1878.92,2708.92,-0.7269101,0,829.2730899,
+Mark-to-Market Performance Summary,Data,Equity and Index Options,PLTR 06MAR26 185 C,0,0,--,--,169.49,31.51,-1.1467236,0,199.8532764,
+Mark-to-Market Performance Summary,Data,Equity and Index Options,PLTR 20MAR26 147 P,0,0,--,--,268.5,64.5,-1.1458516,0,331.8541484,
+Mark-to-Market Performance Summary,Data,Equity and Index Options,PLTR 17APR26 170 C,0,0,--,--,356,39,-1.6014171,0,393.3985829,
+Mark-to-Market Performance Summary,Data,Equity and Index Options,PLTR 24APR26 155 C,0,-1,--,1.0000,285,-97,-0.8406516,0,187.1593484,
+Mark-to-Market Performance Summary,Data,Equity and Index Options,QCOM 06FEB26 165 P,0,0,--,--,-2536.07,2848.07,-1.1467236,0,310.8532764,
+Mark-to-Market Performance Summary,Data,Equity and Index Options,QCOM 13MAR26 160 C,0,0,--,--,6,-4,-2.0200861,0,-0.0200861,
+Mark-to-Market Performance Summary,Data,Equity and Index Options,QCOM 20MAR26 165 C,0,0,--,--,-1.5,3.5,-2.2925861,0,-0.2925861,
+Mark-to-Market Performance Summary,Data,Equity and Index Options,QCOM 27MAR26 165 C,0,0,--,--,65.3,18.7,-2.2944391,0,81.7055609,
+Mark-to-Market Performance Summary,Data,Equity and Index Options,QCOM 17APR26 140 C,0,0,--,--,185.15,6.85,-1.7431171,0,190.2568829,
+Mark-to-Market Performance Summary,Data,Equity and Index Options,QCOM 01MAY26 131 C,0,-1,--,8.5685,-425.5,-21.35,-0.88255774,0,-447.73255774,
+Mark-to-Market Performance Summary,Data,Equity and Index Options,SMCI 21NOV25 35 P,0,0,--,--,-292.46,252.46,-2.2858281,0,-42.2858281,
+Mark-to-Market Performance Summary,Data,Equity and Index Options,SMCI 12DEC25 33 P,0,0,--,--,253.42,-107.42,-2.2511661,0,143.7488339,
+Mark-to-Market Performance Summary,Data,Equity and Index Options,SNPS 17APR26 400 P,0,0,--,--,1034.92,-162.92,-0.5441171,0,871.4558829,
+Mark-to-Market Performance Summary,Data,Equity and Index Options,TSLA 30JAN26 417.5 P,0,0,--,--,685,-150,-0.7652236,0,534.2347764,
+Mark-to-Market Performance Summary,Data,Equity and Index Options,TSLA 06FEB26 407.5 P,0,0,--,--,-881.64,-701.36,-2.2925861,0,-1585.2925861,
+Mark-to-Market Performance Summary,Data,Equity and Index Options,TSLA 13FEB26 407.5 P,0,0,--,--,1766.06,560.94,-1.1494486,0,2325.8505514,
+Mark-to-Market Performance Summary,Data,Equity and Index Options,TSLA 18FEB26 397.5 P,0,0,--,--,49.5,-245.5,-2.2925861,0,-198.2925861,
+Mark-to-Market Performance Summary,Data,Equity and Index Options,TSLA 25FEB26 397.5 P,0,0,--,--,552.5,421.5,-1.1494486,0,972.8505514,
+Mark-to-Market Performance Summary,Data,Equity and Index Options,TSLA 04MAR26 392.5 P,0,0,--,--,-32.88,40.88,-2.2889891,0,5.7110109,
+Mark-to-Market Performance Summary,Data,Equity and Index Options,TSLA 13MAR26 377.5 P,0,0,--,--,365,180,-1.1458516,0,543.8541484,
+Mark-to-Market Performance Summary,Data,Equity and Index Options,TSLA 27MAR26 370 P,0,0,--,--,683,-40,-2.2881171,0,640.7118829,
+Mark-to-Market Performance Summary,Data,Equity and Index Options,TSLA 01MAY26 340 P,0,-1,--,1.1500,665,-22,-1.1458516,0,641.8541484,
+Mark-to-Market Performance Summary,Data,Equity and Index Options,WDAY 02APR26 135 P,0,0,--,--,-499.39,41.39,-1.4188421,0,-459.4188421,
+Mark-to-Market Performance Summary,Data,Equity and Index Options,WDAY 18JUN26 115 P,0,-1,--,8.1000,20,-20,-0.0558516,0,-0.0558516,
+Mark-to-Market Performance Summary,Data,Equity and Index Options,WDAY 18SEP26 120 P,0,-1,--,15.9500,-80,6,-0.2738516,0,-74.2738516,
+Mark-to-Market Performance Summary,Data,Equity and Index Options,XOM 27MAR26 147 P,0,0,--,--,288.3,-11.3,-1.4924171,0,275.5075829,
+Mark-to-Market Performance Summary,Data,Equity and Index Options,ZS 20MAR26 145 P,0,0,--,--,308.5,-2.5,-2.2908421,0,303.7091579,
+Mark-to-Market Performance Summary,Data,Equity and Index Options,ZS 17APR26 140 P,0,0,--,--,-172,1,-2.2935671,0,-173.2935671,
+Mark-to-Market Performance Summary,Data,Equity and Index Options,ZS 29MAY26 131 P,0,-1,--,10.9073,0,-17.73,-1.17266974,0,-18.90266974,
+Mark-to-Market Performance Summary,Data,Total,,,,,,6138.33,9897.01,-198.72977381,0,15836.61022619,
+Mark-to-Market Performance Summary,Data,Forex,SGD,2,0.00116015,0.76847,0.78714,5.35309557,5.460293,-26,0,-15.18661143,
+Mark-to-Market Performance Summary,Data,Forex,USD,0,93091.53251619,1.0000,1.0000,0,0,0,0,0,
+Mark-to-Market Performance Summary,Data,Total,,,,,,5.35309557,5.460293,-26,0,-15.18661143,
+Mark-to-Market Performance Summary,Data,Total (All Assets),,,,,,4598.38309557,644.770293,-228.04228381,62.3,5077.41110476,
+Mark-to-Market Performance Summary,Data,Broker Interest Paid and Received,,,,,,,,,,280.4803844,
+Mark-to-Market Performance Summary,Data,Other Fees,,,,,,,,,,-31.5,
+Total P/L for Statement Period,,,,,,,,,,,,5326.39148916,
+Realized & Unrealized Performance Summary,Header,Asset Category,Symbol,Cost Adj.,Realized S/T Profit,Realized S/T Loss,Realized L/T Profit,Realized L/T Loss,Realized Total,Unrealized S/T Profit,Unrealized S/T Loss,Unrealized L/T Profit,Unrealized L/T Loss,Unrealized Total,Total,Code
+Realized & Unrealized Performance Summary,Data,Stocks,AMZN,0,0,0,0,0,0,2790.853276,0,0,0,2790.853276,2790.853276,
+Realized & Unrealized Performance Summary,Data,Stocks,LULU,0,0,0,0,0,0,0,-2313.149449,0,0,-2313.149449,-2313.149449,
+Realized & Unrealized Performance Summary,Data,Stocks,NOW,0,0,-2360.257979,0,0,-2360.257979,0,-1718.18,0,0,-1718.18,-4078.437979,
+Realized & Unrealized Performance Summary,Data,Stocks,ORCL,0,326.683444,0,0,0,326.683444,0,0,0,0,0,326.683444,
+Realized & Unrealized Performance Summary,Data,Stocks,PLTR,0,0,0,0,0,0,0,-2531.72691,0,0,-2531.72691,-2531.72691,
+Realized & Unrealized Performance Summary,Data,Stocks,QCOM,0,0,0,0,0,0,0,-2569.146724,0,0,-2569.146724,-2569.146724,
+Realized & Unrealized Performance Summary,Data,Total,,0,326.683444,-2360.257979,0,0,-2033.574535,2790.853276,-9132.203083,0,0,-6341.349807,-8374.924342,
+Realized & Unrealized Performance Summary,Data,Equity and Index Options,AAPL 17APR26 235 P,0,233.7118825,0,0,0,233.7118825,0,0,0,0,0,233.7118825,
+Realized & Unrealized Performance Summary,Data,Equity and Index Options,ADBE 17APR26 230 P,0,503.9816575,0,0,0,503.9816575,0,0,0,0,0,503.9816575,
+Realized & Unrealized Performance Summary,Data,Equity and Index Options,AMZN 06FEB26 222.5 P,0,0,-1502.2898615,0,0,-1502.2898615,0,0,0,0,0,-1502.2898615,
+Realized & Unrealized Performance Summary,Data,Equity and Index Options,AMZN 18FEB26 225 C,0,38.853276,0,0,0,38.853276,0,0,0,0,0,38.853276,
+Realized & Unrealized Performance Summary,Data,Equity and Index Options,AMZN 27FEB26 230 C,0,0,-5.9083615,0,0,-5.9083615,0,0,0,0,0,-5.9083615,
+Realized & Unrealized Performance Summary,Data,Equity and Index Options,AMZN 06MAR26 225 C,0,0,-31.9083615,0,0,-31.9083615,0,0,0,0,0,-31.9083615,
+Realized & Unrealized Performance Summary,Data,Equity and Index Options,AMZN 06MAR26 225 P,0,183.7082855,0,0,0,183.7082855,0,0,0,0,0,183.7082855,
+Realized & Unrealized Performance Summary,Data,Equity and Index Options,AMZN 13MAR26 215 C,0,292.311076,0,0,0,292.311076,0,0,0,0,0,292.311076,
+Realized & Unrealized Performance Summary,Data,Equity and Index Options,AMZN 17APR26 195 P,0,522.7091575,0,0,0,522.7091575,0,0,0,0,0,522.7091575,
+Realized & Unrealized Performance Summary,Data,Equity and Index Options,AMZN 17APR26 225 C,0,162.1696825,0,0,0,162.1696825,0,0,0,0,0,162.1696825,
+Realized & Unrealized Performance Summary,Data,Equity and Index Options,AMZN 01MAY26 200 P,0,736.7118825,0,0,0,736.7118825,0,0,0,0,0,736.7118825,
+Realized & Unrealized Performance Summary,Data,Equity and Index Options,AMZN 01MAY26 225 C,0,0,0,0,0,0,0,-2417.875852,0,0,-2417.875852,-2417.875852,
+Realized & Unrealized Performance Summary,Data,Equity and Index Options,AMZN 15MAY26 215 P,0,0,0,0,0,0,215.34584,0,0,0,215.34584,215.34584,
+Realized & Unrealized Performance Summary,Data,Equity and Index Options,ARM 27FEB26 123 P,0,161.853276,0,0,0,161.853276,0,0,0,0,0,161.853276,
+Realized & Unrealized Performance Summary,Data,Equity and Index Options,ARM 08MAY26 135 P,0,0,0,0,0,0,474.292148,0,0,0,474.292148,474.292148,
+Realized & Unrealized Performance Summary,Data,Equity and Index Options,CRDO 13FEB26 128 P,0,0,-638.2898615,0,0,-638.2898615,0,0,0,0,0,-638.2898615,
+Realized & Unrealized Performance Summary,Data,Equity and Index Options,CRDO 13MAR26 119 P,0,0,-1184.2889895,0,0,-1184.2889895,0,0,0,0,0,-1184.2889895,
+Realized & Unrealized Performance Summary,Data,Equity and Index Options,CRDO 08MAY26 135 P,0,0,0,0,0,0,105.843999,0,0,0,105.843999,105.843999,
+Realized & Unrealized Performance Summary,Data,Equity and Index Options,CROX 12DEC25 70 P,0,129.678897,0,0,0,129.678897,0,0,0,0,0,129.678897,
+Realized & Unrealized Performance Summary,Data,Equity and Index Options,CRWV 20MAR26 60 P,0,523.7764105,0,0,0,523.7764105,0,0,0,0,0,523.7764105,
+Realized & Unrealized Performance Summary,Data,Equity and Index Options,CRWV 02APR26 65 P,0,376.9843825,0,0,0,376.9843825,0,0,0,0,0,376.9843825,
+Realized & Unrealized Performance Summary,Data,Equity and Index Options,LULU 12DEC25 170 P,0,567.856928,0,0,0,567.856928,0,0,0,0,0,567.856928,
+Realized & Unrealized Performance Summary,Data,Equity and Index Options,LULU 02JAN26 190 P,0,226.89159,0,0,0,226.89159,0,0,0,0,0,226.89159,
+Realized & Unrealized Performance Summary,Data,Equity and Index Options,LULU 06FEB26 197.5 C,0,289.850551,0,0,0,289.850551,0,0,0,0,0,289.850551,
+Realized & Unrealized Performance Summary,Data,Equity and Index Options,LULU 20FEB26 190 C,0,1.7074139,0,0,0,1.7074139,0,0,0,0,0,1.7074139,
+Realized & Unrealized Performance Summary,Data,Equity and Index Options,LULU 27FEB26 190 C,0,226.850551,0,0,0,226.850551,0,0,0,0,0,226.850551,
+Realized & Unrealized Performance Summary,Data,Equity and Index Options,LULU 27FEB26 200 C,0,27.9799135,0,0,0,27.9799135,0,0,0,0,0,27.9799135,
+Realized & Unrealized Performance Summary,Data,Equity and Index Options,LULU 13MAR26 180 P,0,50.9799139,0,0,0,50.9799139,0,0,0,0,0,50.9799139,
+Realized & Unrealized Performance Summary,Data,Equity and Index Options,LULU 20MAR26 180 P,0,0,-390.2944395,0,0,-390.2944395,0,0,0,0,0,-390.2944395,
+Realized & Unrealized Performance Summary,Data,Equity and Index Options,LULU 20MAR26 187.5 C,0,471.7118825,0,0,0,471.7118825,0,0,0,0,0,471.7118825,
+Realized & Unrealized Performance Summary,Data,Equity and Index Options,LULU 24APR26 180 C,0,239.7064325,0,0,0,239.7064325,0,0,0,0,0,239.7064325,
+Realized & Unrealized Performance Summary,Data,Equity and Index Options,LULU 08MAY26 165 C,0,0,0,0,0,0,0,-433.393352,0,0,-433.393352,-433.393352,
+Realized & Unrealized Performance Summary,Data,Equity and Index Options,LULU 18JUN26 150 P,0,0,-263.7976166,0,0,-263.7976166,0,0,0,0,0,-263.7976166,
+Realized & Unrealized Performance Summary,Data,Equity and Index Options,LULU 18JUN26 170 P,0,0,0,0,0,0,294.141423,0,0,0,294.141423,294.141423,
+Realized & Unrealized Performance Summary,Data,Equity and Index Options,MDB 13MAR26 247.5 P,0,422.854148,0,0,0,422.854148,0,0,0,0,0,422.854148,
+Realized & Unrealized Performance Summary,Data,Equity and Index Options,MDB 27MAR26 260 P,0,0,-436.0728425,0,0,-436.0728425,0,0,0,0,0,-436.0728425,
+Realized & Unrealized Performance Summary,Data,Equity and Index Options,MDB 02APR26 240 P,0,0,-388.0156171,0,0,-388.0156171,0,0,0,0,0,-388.0156171,
+Realized & Unrealized Performance Summary,Data,Equity and Index Options,MDB 18JUN26 220 P,0,0,0,0,0,0,798.844148,0,0,0,798.844148,798.844148,
+Realized & Unrealized Performance Summary,Data,Equity and Index Options,MDB 18JUN26 230 P,0,0,0,0,0,0,341.561423,0,0,0,341.561423,341.561423,
+Realized & Unrealized Performance Summary,Data,Equity and Index Options,META 25MAR26 587.5 P,0,17.0933829,0,0,0,17.0933829,0,0,0,0,0,17.0933829,
+Realized & Unrealized Performance Summary,Data,Equity and Index Options,META 25MAR26 667.5 P,0,0,-213.9829171,0,0,-213.9829171,0,0,0,0,0,-213.9829171,
+Realized & Unrealized Performance Summary,Data,Equity and Index Options,META 27MAR26 587.5 P,0,20.0933829,0,0,0,20.0933829,0,0,0,0,0,20.0933829,
+Realized & Unrealized Performance Summary,Data,Equity and Index Options,META 17APR26 555 P,0,0,-1099.9093425,0,0,-1099.9093425,0,0,0,0,0,-1099.9093425,
+Realized & Unrealized Performance Summary,Data,Equity and Index Options,META 01MAY26 535 P,0,1844.7091575,0,0,0,1844.7091575,0,0,0,0,0,1844.7091575,
+Realized & Unrealized Performance Summary,Data,Equity and Index Options,MRK 26DEC25 89 P,0,97.716897,0,0,0,97.716897,0,0,0,0,0,97.716897,
+Realized & Unrealized Performance Summary,Data,Equity and Index Options,MRK 26DEC25 101 P,0,159.5710999,0,0,0,159.5710999,0,0,0,0,0,159.5710999,
+Realized & Unrealized Performance Summary,Data,Equity and Index Options,MRK 27FEB26 115 P,0,117.853276,0,0,0,117.853276,0,0,0,0,0,117.853276,
+Realized & Unrealized Performance Summary,Data,Equity and Index Options,MRK 20MAR26 120 P,0,0,-163.2944395,0,0,-163.2944395,0,0,0,0,0,-163.2944395,
+Realized & Unrealized Performance Summary,Data,Equity and Index Options,MRK 27MAR26 117 P,0,162.9843825,0,0,0,162.9843825,0,0,0,0,0,162.9843825,
+Realized & Unrealized Performance Summary,Data,Equity and Index Options,MRK 17APR26 118 P,0,166.7091575,0,0,0,166.7091575,0,0,0,0,0,166.7091575,
+Realized & Unrealized Performance Summary,Data,Equity and Index Options,MRK 17APR26 120 P,0,297.7064325,0,0,0,297.7064325,0,0,0,0,0,297.7064325,
+Realized & Unrealized Performance Summary,Data,Equity and Index Options,MS 23JAN26 175 P,0,170.853276,0,0,0,170.853276,0,0,0,0,0,170.853276,
+Realized & Unrealized Performance Summary,Data,Equity and Index Options,MS 24APR26 145 P,0,275.7091575,0,0,0,275.7091575,0,0,0,0,0,275.7091575,
+Realized & Unrealized Performance Summary,Data,Equity and Index Options,MSFT 13MAR26 390 P,0,377.850551,0,0,0,377.850551,0,0,0,0,0,377.850551,
+Realized & Unrealized Performance Summary,Data,Equity and Index Options,MSFT 24APR26 370 P,0,475.9843825,0,0,0,475.9843825,0,0,0,0,0,475.9843825,
+Realized & Unrealized Performance Summary,Data,Equity and Index Options,MU 06MAR26 357.5 P,0,261.854148,0,0,0,261.854148,0,0,0,0,0,261.854148,
+Realized & Unrealized Performance Summary,Data,Equity and Index Options,MU 10APR26 390 P,0,432.844403,0,0,0,432.844403,0,0,0,0,0,432.844403,
+Realized & Unrealized Performance Summary,Data,Equity and Index Options,MU 17APR26 397.5 P,0,617.9700345,0,0,0,617.9700345,0,0,0,0,0,617.9700345,
+Realized & Unrealized Performance Summary,Data,Equity and Index Options,MU 24APR26 430 P,0,0,0,0,0,0,201.834209,0,0,0,201.834209,201.834209,
+Realized & Unrealized Performance Summary,Data,Equity and Index Options,NOW 13FEB26 98 P,0,142.926776,0,0,0,142.926776,0,0,0,0,0,142.926776,
+Realized & Unrealized Performance Summary,Data,Equity and Index Options,NOW 13FEB26 100 P,0,145.853276,0,0,0,145.853276,0,0,0,0,0,145.853276,
+Realized & Unrealized Performance Summary,Data,Equity and Index Options,NOW 27FEB26 135 C,0,88.853276,0,0,0,88.853276,0,0,0,0,0,88.853276,
+Realized & Unrealized Performance Summary,Data,Equity and Index Options,NOW 20MAR26 125 C,0,110.7118825,0,0,0,110.7118825,0,0,0,0,0,110.7118825,
+Realized & Unrealized Performance Summary,Data,Equity and Index Options,NOW 02APR26 122 C,0,254.366765,0,0,0,254.366765,0,0,0,0,0,254.366765,
+Realized & Unrealized Performance Summary,Data,Equity and Index Options,NOW 17APR26 99 P,0,0,-609.5441175,0,0,-609.5441175,0,0,0,0,0,-609.5441175,
+Realized & Unrealized Performance Summary,Data,Equity and Index Options,NOW 17APR26 105 P,0,0,-318.4161175,0,0,-318.4161175,0,0,0,0,0,-318.4161175,
+Realized & Unrealized Performance Summary,Data,Equity and Index Options,NOW 18JUN26 88 P,0,0,0,0,0,0,232.988724,0,0,0,232.988724,232.988724,
+Realized & Unrealized Performance Summary,Data,Equity and Index Options,NOW 18JUN26 124 C,0,0,0,0,0,0,164.678648,0,0,0,164.678648,164.678648,
+Realized & Unrealized Performance Summary,Data,Equity and Index Options,NVDA 02JAN26 160 P,0,0,-157.108094,0,0,-157.108094,0,0,0,0,0,-157.108094,
+Realized & Unrealized Performance Summary,Data,Equity and Index Options,NVDA 02JAN26 170 P,0,205.89159,0,0,0,205.89159,0,0,0,0,0,205.89159,
+Realized & Unrealized Performance Summary,Data,Equity and Index Options,NVDA 30JAN26 175 P,0,235.850551,0,0,0,235.850551,0,0,0,0,0,235.850551,
+Realized & Unrealized Performance Summary,Data,Equity and Index Options,NVDA 06FEB26 175 P,0,0,-63.2925861,0,0,-63.2925861,0,0,0,0,0,-63.2925861,
+Realized & Unrealized Performance Summary,Data,Equity and Index Options,NVDA 06FEB26 177.5 P,0,0,-386.8347865,0,0,-386.8347865,0,0,0,0,0,-386.8347865,
+Realized & Unrealized Performance Summary,Data,Equity and Index Options,NVDA 13FEB26 177.5 P,0,755.850551,0,0,0,755.850551,0,0,0,0,0,755.850551,
+Realized & Unrealized Performance Summary,Data,Equity and Index Options,NVDA 20FEB26 177.5 P,0,233.853276,0,0,0,233.853276,0,0,0,0,0,233.853276,
+Realized & Unrealized Performance Summary,Data,Equity and Index Options,NVDA 27FEB26 182.5 P,0,55.2306135,0,0,0,55.2306135,0,0,0,0,0,55.2306135,
+Realized & Unrealized Performance Summary,Data,Equity and Index Options,NVDA 04MAR26 180 P,0,28.7074139,0,0,0,28.7074139,0,0,0,0,0,28.7074139,
+Realized & Unrealized Performance Summary,Data,Equity and Index Options,NVDA 20MAR26 165 P,0,288.2840575,0,0,0,288.2840575,0,0,0,0,0,288.2840575,
+Realized & Unrealized Performance Summary,Data,Equity and Index Options,ON 21NOV25 46 P,0,0,-59.288553,0,0,-59.288553,0,0,0,0,0,-59.288553,
+Realized & Unrealized Performance Summary,Data,Equity and Index Options,ON 02JAN26 44 P,0,245.748834,0,0,0,245.748834,0,0,0,0,0,245.748834,
+Realized & Unrealized Performance Summary,Data,Equity and Index Options,ON 09JAN26 50 P,0,70.89159,0,0,0,70.89159,0,0,0,0,0,70.89159,
+Realized & Unrealized Performance Summary,Data,Equity and Index Options,ON 30JAN26 56 P,0,100.853276,0,0,0,100.853276,0,0,0,0,0,100.853276,
+Realized & Unrealized Performance Summary,Data,Equity and Index Options,ORCL 27FEB26 150 C,0,173.850551,0,0,0,173.850551,0,0,0,0,0,173.850551,
+Realized & Unrealized Performance Summary,Data,Equity and Index Options,ORCL 06MAR26 147 P,0,0,-214.2889895,0,0,-214.2889895,0,0,0,0,0,-214.2889895,
+Realized & Unrealized Performance Summary,Data,Equity and Index Options,ORCL 20MAR26 137 P,0,772.7118825,0,0,0,772.7118825,0,0,0,0,0,772.7118825,
+Realized & Unrealized Performance Summary,Data,Equity and Index Options,PANW 06MAR26 149 P,0,205.853276,0,0,0,205.853276,0,0,0,0,0,205.853276,
+Realized & Unrealized Performance Summary,Data,Equity and Index Options,PANW 15MAY26 150 P,0,0,0,0,0,0,38.348602,0,0,0,38.348602,38.348602,
+Realized & Unrealized Performance Summary,Data,Equity and Index Options,PLTR 12DEC25 180 P,0,287.7831799,0,0,0,287.7831799,0,0,0,0,0,287.7831799,
+Realized & Unrealized Performance Summary,Data,Equity and Index Options,PLTR 09JAN26 185 P,0,0,-422.832279,0,0,-422.832279,0,0,0,0,0,-422.832279,
+Realized & Unrealized Performance Summary,Data,Equity and Index Options,PLTR 06MAR26 185 C,0,199.853276,0,0,0,199.853276,0,0,0,0,0,199.853276,
+Realized & Unrealized Performance Summary,Data,Equity and Index Options,PLTR 20MAR26 147 P,0,331.854148,0,0,0,331.854148,0,0,0,0,0,331.854148,
+Realized & Unrealized Performance Summary,Data,Equity and Index Options,PLTR 17APR26 170 C,0,393.3985825,0,0,0,393.3985825,0,0,0,0,0,393.3985825,
+Realized & Unrealized Performance Summary,Data,Equity and Index Options,PLTR 24APR26 155 C,0,0,0,0,0,0,187.159348,0,0,0,187.159348,187.159348,
+Realized & Unrealized Performance Summary,Data,Equity and Index Options,QCOM 13MAR26 160 C,0,0,-0.0200865,0,0,-0.0200865,0,0,0,0,0,-0.0200865,
+Realized & Unrealized Performance Summary,Data,Equity and Index Options,QCOM 20MAR26 165 C,0,0,-0.2925865,0,0,-0.2925865,0,0,0,0,0,-0.2925865,
+Realized & Unrealized Performance Summary,Data,Equity and Index Options,QCOM 27MAR26 165 C,0,81.7055605,0,0,0,81.7055605,0,0,0,0,0,81.7055605,
+Realized & Unrealized Performance Summary,Data,Equity and Index Options,QCOM 17APR26 140 C,0,190.2568825,0,0,0,190.2568825,0,0,0,0,0,190.2568825,
+Realized & Unrealized Performance Summary,Data,Equity and Index Options,QCOM 01MAY26 131 C,0,0,0,0,0,0,0,-447.732558,0,0,-447.732558,-447.732558,
+Realized & Unrealized Performance Summary,Data,Equity and Index Options,SMCI 21NOV25 35 P,0,0,-42.285828,0,0,-42.285828,0,0,0,0,0,-42.285828,
+Realized & Unrealized Performance Summary,Data,Equity and Index Options,SMCI 12DEC25 33 P,0,143.748834,0,0,0,143.748834,0,0,0,0,0,143.748834,
+Realized & Unrealized Performance Summary,Data,Equity and Index Options,SNPS 17APR26 400 P,0,871.4558825,0,0,0,871.4558825,0,0,0,0,0,871.4558825,
+Realized & Unrealized Performance Summary,Data,Equity and Index Options,TSLA 30JAN26 417.5 P,0,534.234776,0,0,0,534.234776,0,0,0,0,0,534.234776,
+Realized & Unrealized Performance Summary,Data,Equity and Index Options,TSLA 06FEB26 407.5 P,0,0,-1585.2925865,0,0,-1585.2925865,0,0,0,0,0,-1585.2925865,
+Realized & Unrealized Performance Summary,Data,Equity and Index Options,TSLA 13FEB26 407.5 P,0,2325.850551,0,0,0,2325.850551,0,0,0,0,0,2325.850551,
+Realized & Unrealized Performance Summary,Data,Equity and Index Options,TSLA 18FEB26 397.5 P,0,0,-198.2925865,0,0,-198.2925865,0,0,0,0,0,-198.2925865,
+Realized & Unrealized Performance Summary,Data,Equity and Index Options,TSLA 25FEB26 397.5 P,0,972.850551,0,0,0,972.850551,0,0,0,0,0,972.850551,
+Realized & Unrealized Performance Summary,Data,Equity and Index Options,TSLA 04MAR26 392.5 P,0,5.7110105,0,0,0,5.7110105,0,0,0,0,0,5.7110105,
+Realized & Unrealized Performance Summary,Data,Equity and Index Options,TSLA 13MAR26 377.5 P,0,543.854148,0,0,0,543.854148,0,0,0,0,0,543.854148,
+Realized & Unrealized Performance Summary,Data,Equity and Index Options,TSLA 27MAR26 370 P,0,640.7118825,0,0,0,640.7118825,0,0,0,0,0,640.7118825,
+Realized & Unrealized Performance Summary,Data,Equity and Index Options,TSLA 01MAY26 340 P,0,0,0,0,0,0,641.854148,0,0,0,641.854148,641.854148,
+Realized & Unrealized Performance Summary,Data,Equity and Index Options,WDAY 02APR26 135 P,0,0,-459.4188425,0,0,-459.4188425,0,0,0,0,0,-459.4188425,
+Realized & Unrealized Performance Summary,Data,Equity and Index Options,WDAY 18JUN26 115 P,0,0,0,0,0,0,0,-0.055852,0,0,-0.055852,-0.055852,
+Realized & Unrealized Performance Summary,Data,Equity and Index Options,WDAY 18SEP26 120 P,0,0,0,0,0,0,0,-74.273852,0,0,-74.273852,-74.273852,
+Realized & Unrealized Performance Summary,Data,Equity and Index Options,XOM 27MAR26 147 P,0,275.5075825,0,0,0,275.5075825,0,0,0,0,0,275.5075825,
+Realized & Unrealized Performance Summary,Data,Equity and Index Options,ZS 20MAR26 145 P,0,303.7091575,0,0,0,303.7091575,0,0,0,0,0,303.7091575,
+Realized & Unrealized Performance Summary,Data,Equity and Index Options,ZS 17APR26 140 P,0,0,-173.2935675,0,0,-173.2935675,0,0,0,0,0,-173.2935675,
+Realized & Unrealized Performance Summary,Data,Equity and Index Options,ZS 29MAY26 131 P,0,0,0,0,0,0,0,-18.90267,0,0,-18.90267,-18.90267,
+Realized & Unrealized Performance Summary,Data,Total,,0,24109.1177543,-11008.5542574,0,0,13100.5634969,3696.89266,-3392.234136,0,0,304.658524,13405.2220209,
+Realized & Unrealized Performance Summary,Data,Forex,SGD,0,99.906893,-115.089577,0,0,-15.182684,0.000002,0,0,0,0.000002,-15.182682,
+Realized & Unrealized Performance Summary,Data,Total,,0,99.906893,-115.089577,0,0,-15.182684,0.000002,0,0,0,0.000002,-15.182682,
+Realized & Unrealized Performance Summary,Data,Total (All Assets),,0,24535.7080913,-13483.9018134,0,0,11051.8062779,6487.745938,-12524.437219,0,0,-6036.691281,5015.1149969,
+Month & Year to Date Performance Summary,Header,Asset Category,Symbol,Description,Mark-to-Market MTD,Mark-to-Market YTD,Realized S/T MTD,Realized S/T YTD,Realized L/T MTD,Realized L/T YTD
+Month & Year to Date Performance Summary,Data,Stocks,AMZN,AMAZON.COM INC,4229,2556,0,0,0,0
+Month & Year to Date Performance Summary,Data,Stocks,LULU,LULULEMON ATHLETICA INC,1418,-2522,0,0,0,0
+Month & Year to Date Performance Summary,Data,Stocks,NOW,SERVICENOW INC,-789,-4399.0195,0,-2360.257979,0,0
+Month & Year to Date Performance Summary,Data,Stocks,ORCL,ORACLE CORP,0,-200.0195,0,326.683444,0,0
+Month & Year to Date Performance Summary,Data,Stocks,PLTR,PALANTIR TECHNOLOGIES INC-A,11,-3361,0,0,0,0
+Month & Year to Date Performance Summary,Data,Stocks,QCOM,QUALCOMM INC,742,-2817.7,0,0,0,0
+Month & Year to Date Performance Summary,Data,Total,,,5611,-10743.739,0,-2033.574535,0,0
+Month & Year to Date Performance Summary,Data,Equity and Index Options,AAPL  260417P00235000,AAPL 17APR26 235 P,20.95205,233.90081,233.7118825,233.7118825,0,0
+Month & Year to Date Performance Summary,Data,Equity and Index Options,ADBE  260417P00230000,ADBE 17APR26 230 P,347.52955,504.14831,503.9816575,503.9816575,0,0
+Month & Year to Date Performance Summary,Data,Equity and Index Options,AMZN  260206P00222500,AMZN 06FEB26 222.5 P,0,-1502.10079,0,-1502.2898615,0,0
+Month & Year to Date Performance Summary,Data,Equity and Index Options,AMZN  260209P00225000,AMZN 09FEB26 225 P,0,234.94796,0,0,0,0
+Month & Year to Date Performance Summary,Data,Equity and Index Options,AMZN  260218C00225000,AMZN 18FEB26 225 C,0,38.94796,0,38.853276,0,0
+Month & Year to Date Performance Summary,Data,Equity and Index Options,AMZN  260227C00230000,AMZN 27FEB26 230 C,0,-5.75079,0,-5.9083615,0,0
+Month & Year to Date Performance Summary,Data,Equity and Index Options,AMZN  260306C00225000,AMZN 06MAR26 225 C,0,-31.75079,0,-31.9083615,0,0
+Month & Year to Date Performance Summary,Data,Equity and Index Options,AMZN  260306P00225000,AMZN 06MAR26 225 P,0,183.89751,0,183.7082855,0,0
+Month & Year to Date Performance Summary,Data,Equity and Index Options,AMZN  260313C00215000,AMZN 13MAR26 215 C,0,292.36796,0,292.311076,0,0
+Month & Year to Date Performance Summary,Data,Equity and Index Options,AMZN  260417P00195000,AMZN 17APR26 195 P,123.45205,522.89831,522.7091575,522.7091575,0,0
+Month & Year to Date Performance Summary,Data,Equity and Index Options,AMZN  260417C00225000,AMZN 17APR26 225 C,0,162.32081,0,162.1696825,0,0
+Month & Year to Date Performance Summary,Data,Equity and Index Options,AMZN  260501P00200000,AMZN 01MAY26 200 P,590.45205,736.90081,736.7118825,736.7118825,0,0
+Month & Year to Date Performance Summary,Data,Equity and Index Options,AMZN  260501C00225000,AMZN 01MAY26 225 C,-2339.23,-2417.78124,0,0,0,0
+Month & Year to Date Performance Summary,Data,Equity and Index Options,AMZN  260515P00215000,AMZN 15MAY26 215 P,215.441138,215.441138,0,0,0,0
+Month & Year to Date Performance Summary,Data,Equity and Index Options,ARM   260227P00123000,ARM 27FEB26 123 P,0,161.94796,0,161.853276,0,0
+Month & Year to Date Performance Summary,Data,Equity and Index Options,ARM   260508P00135000,ARM 08MAY26 135 P,416.11,474.36876,0,0,0,0
+Month & Year to Date Performance Summary,Data,Equity and Index Options,CRDO  260213P00128000,CRDO 13FEB26 128 P,0,-638.10079,0,-638.2898615,0,0
+Month & Year to Date Performance Summary,Data,Equity and Index Options,CRDO  260313P00119000,CRDO 13MAR26 119 P,0,-1184.09999,0,-1184.2889895,0,0
+Month & Year to Date Performance Summary,Data,Equity and Index Options,CRDO  260508P00135000,CRDO 08MAY26 135 P,105.9394488,105.9394488,0,0,0,0
+Month & Year to Date Performance Summary,Data,Equity and Index Options,CRWV  260320P00060000,CRWV 20MAR26 60 P,0,523.96001,0,523.7764105,0,0
+Month & Year to Date Performance Summary,Data,Equity and Index Options,CRWV  260402P00065000,CRWV 02APR26 65 P,0,377.15081,0,376.9843825,0,0
+Month & Year to Date Performance Summary,Data,Equity and Index Options,LULU  260102P00190000,LULU 02JAN26 190 P,0,10.15,0,226.89159,0,0
+Month & Year to Date Performance Summary,Data,Equity and Index Options,LULU  260123P00192500,LULU 23JAN26 192.5 P,0,208.94546,0,0,0,0
+Month & Year to Date Performance Summary,Data,Equity and Index Options,LULU  260206C00197500,LULU 06FEB26 197.5 C,0,289.94546,0,289.850551,0,0
+Month & Year to Date Performance Summary,Data,Equity and Index Options,LULU  260220C00190000,LULU 20FEB26 190 C,0,1.89671,0,1.7074139,0,0
+Month & Year to Date Performance Summary,Data,Equity and Index Options,LULU  260227C00190000,LULU 27FEB26 190 C,0,226.94546,0,226.850551,0,0
+Month & Year to Date Performance Summary,Data,Equity and Index Options,LULU  260227C00200000,LULU 27FEB26 200 C,0,28.14671,0,27.9799135,0,0
+Month & Year to Date Performance Summary,Data,Equity and Index Options,LULU  260313P00180000,LULU 13MAR26 180 P,0,51.14671,0,50.9799139,0,0
+Month & Year to Date Performance Summary,Data,Equity and Index Options,LULU  260320P00180000,LULU 20MAR26 180 P,0,-390.10499,0,-390.2944395,0,0
+Month & Year to Date Performance Summary,Data,Equity and Index Options,LULU  260320C00187500,LULU 20MAR26 187.5 C,0,471.90081,0,471.7118825,0,0
+Month & Year to Date Performance Summary,Data,Equity and Index Options,LULU  260424C00180000,LULU 24APR26 180 C,0,239.89581,0,239.7064325,0,0
+Month & Year to Date Performance Summary,Data,Equity and Index Options,LULU  260508C00165000,LULU 08MAY26 165 C,-375.02,-433.32124,0,0,0,0
+Month & Year to Date Performance Summary,Data,Equity and Index Options,LULU  260618P00150000,LULU 18JUN26 150 P,0,-263.64919,0,-263.7976166,0,0
+Month & Year to Date Performance Summary,Data,Equity and Index Options,LULU  260618P00170000,LULU 18JUN26 170 P,916.28,294.23626,0,0,0,0
+Month & Year to Date Performance Summary,Data,Equity and Index Options,MDB   260313P00247500,MDB 13MAR26 247.5 P,0,422.94876,0,422.854148,0,0
+Month & Year to Date Performance Summary,Data,Equity and Index Options,MDB   260327P00260000,MDB 27MAR26 260 P,0,-435.90169,0,-436.0728425,0,0
+Month & Year to Date Performance Summary,Data,Equity and Index Options,MDB   260402P00240000,MDB 02APR26 240 P,0,-387.84919,0,-388.0156171,0,0
+Month & Year to Date Performance Summary,Data,Equity and Index Options,MDB   260618P00220000,MDB 18JUN26 220 P,577.49,798.93876,0,0,0,0
+Month & Year to Date Performance Summary,Data,Equity and Index Options,MDB   260618P00230000,MDB 18JUN26 230 P,614.21,341.65626,0,0,0,0
+Month & Year to Date Performance Summary,Data,Equity and Index Options,META  260325P00587500,META 25MAR26 587.5 P,0,17.25081,0,17.0933829,0,0
+Month & Year to Date Performance Summary,Data,Equity and Index Options,META  260325P00667500,META 25MAR26 667.5 P,0,-213.81919,0,-213.9829171,0,0
+Month & Year to Date Performance Summary,Data,Equity and Index Options,META  260327P00587500,META 27MAR26 587.5 P,0,20.25081,0,20.0933829,0,0
+Month & Year to Date Performance Summary,Data,Equity and Index Options,META  260417P00555000,META 17APR26 555 P,0,-1099.75169,0,-1099.9093425,0,0
+Month & Year to Date Performance Summary,Data,Equity and Index Options,META  260501P00535000,META 01MAY26 535 P,1486.95205,1844.89831,1844.7091575,1844.7091575,0,0
+Month & Year to Date Performance Summary,Data,Equity and Index Options,MRK   260227P00115000,MRK 27FEB26 115 P,0,117.94796,0,117.853276,0,0
+Month & Year to Date Performance Summary,Data,Equity and Index Options,MRK   260320P00120000,MRK 20MAR26 120 P,0,-163.10499,0,-163.2944395,0,0
+Month & Year to Date Performance Summary,Data,Equity and Index Options,MRK   260327P00117000,MRK 27MAR26 117 P,0,163.15081,0,162.9843825,0,0
+Month & Year to Date Performance Summary,Data,Equity and Index Options,MRK   260417P00118000,MRK 17APR26 118 P,105.50205,166.89831,166.7091575,166.7091575,0,0
+Month & Year to Date Performance Summary,Data,Equity and Index Options,MRK   260417P00120000,MRK 17APR26 120 P,0,297.89581,0,297.7064325,0,0
+Month & Year to Date Performance Summary,Data,Equity and Index Options,MS    260123P00175000,MS 23JAN26 175 P,0,170.94796,0,170.853276,0,0
+Month & Year to Date Performance Summary,Data,Equity and Index Options,MS    260424P00145000,MS 24APR26 145 P,72.45205,275.89831,275.7091575,275.7091575,0,0
+Month & Year to Date Performance Summary,Data,Equity and Index Options,MSFT  260313P00390000,MSFT 13MAR26 390 P,0,377.94546,0,377.850551,0,0
+Month & Year to Date Performance Summary,Data,Equity and Index Options,MSFT  260424P00370000,MSFT 24APR26 370 P,1016.45205,476.15081,475.9843825,475.9843825,0,0
+Month & Year to Date Performance Summary,Data,Equity and Index Options,MU    260306P00357500,MU 06MAR26 357.5 P,0,261.94876,0,261.854148,0,0
+Month & Year to Date Performance Summary,Data,Equity and Index Options,MU    260410P00390000,MU 10APR26 390 P,432.9398196,432.9398196,432.844403,432.844403,0,0
+Month & Year to Date Performance Summary,Data,Equity and Index Options,MU    260417P00397500,MU 17APR26 397.5 P,618.1376466,618.1376466,617.9700345,617.9700345,0,0
+Month & Year to Date Performance Summary,Data,Equity and Index Options,MU    260424P00430000,MU 24APR26 430 P,201.9304672,201.9304672,0,0,0,0
+Month & Year to Date Performance Summary,Data,Equity and Index Options,NOW   260130P00141000,NOW 30JAN26 141 P,0,320.94796,0,0,0,0
+Month & Year to Date Performance Summary,Data,Equity and Index Options,NOW   260213P00098000,NOW 13FEB26 98 P,0,143.09796,0,142.926776,0,0
+Month & Year to Date Performance Summary,Data,Equity and Index Options,NOW   260213P00100000,NOW 13FEB26 100 P,0,145.94796,0,145.853276,0,0
+Month & Year to Date Performance Summary,Data,Equity and Index Options,NOW   260227C00135000,NOW 27FEB26 135 C,0,88.94796,0,88.853276,0,0
+Month & Year to Date Performance Summary,Data,Equity and Index Options,NOW   260320C00125000,NOW 20MAR26 125 C,0,110.90081,0,110.7118825,0,0
+Month & Year to Date Performance Summary,Data,Equity and Index Options,NOW   260402C00122000,NOW 02APR26 122 C,0,254.50162,0,254.366765,0,0
+Month & Year to Date Performance Summary,Data,Equity and Index Options,NOW   260417P00099000,NOW 17APR26 99 P,-662.96795,-609.49919,-609.5441175,-609.5441175,0,0
+Month & Year to Date Performance Summary,Data,Equity and Index Options,NOW   260417P00105000,NOW 17APR26 105 P,0,-318.29919,0,-318.4161175,0,0
+Month & Year to Date Performance Summary,Data,Equity and Index Options,NOW   260618P00088000,NOW 18JUN26 88 P,233.0127744,233.0127744,0,0,0,0
+Month & Year to Date Performance Summary,Data,Equity and Index Options,NOW   260618C00124000,NOW 18JUN26 124 C,227.33,164.67876,0,0,0,0
+Month & Year to Date Performance Summary,Data,Equity and Index Options,NVDA  260102P00160000,NVDA 02JAN26 160 P,0,-0.25,0,-157.108094,0,0
+Month & Year to Date Performance Summary,Data,Equity and Index Options,NVDA  260102P00170000,NVDA 02JAN26 170 P,0,2.18,0,205.89159,0,0
+Month & Year to Date Performance Summary,Data,Equity and Index Options,NVDA  260130P00175000,NVDA 30JAN26 175 P,0,235.94546,0,235.850551,0,0
+Month & Year to Date Performance Summary,Data,Equity and Index Options,NVDA  260206P00175000,NVDA 06FEB26 175 P,0,-63.10329,0,-63.2925861,0,0
+Month & Year to Date Performance Summary,Data,Equity and Index Options,NVDA  260206P00177500,NVDA 06FEB26 177.5 P,0,-386.68329,0,-386.8347865,0,0
+Month & Year to Date Performance Summary,Data,Equity and Index Options,NVDA  260213P00177500,NVDA 13FEB26 177.5 P,0,755.94546,0,755.850551,0,0
+Month & Year to Date Performance Summary,Data,Equity and Index Options,NVDA  260220P00177500,NVDA 20FEB26 177.5 P,0,233.94796,0,233.853276,0,0
+Month & Year to Date Performance Summary,Data,Equity and Index Options,NVDA  260227P00182500,NVDA 27FEB26 182.5 P,0,55.37671,0,55.2306135,0,0
+Month & Year to Date Performance Summary,Data,Equity and Index Options,NVDA  260304P00180000,NVDA 04MAR26 180 P,0,28.89671,0,28.7074139,0,0
+Month & Year to Date Performance Summary,Data,Equity and Index Options,NVDA  260320P00165000,NVDA 20MAR26 165 P,0,288.50831,0,288.2840575,0,0
+Month & Year to Date Performance Summary,Data,Equity and Index Options,ON    260109P00050000,ON 09JAN26 50 P,0,18,0,70.89159,0,0
+Month & Year to Date Performance Summary,Data,Equity and Index Options,ON    260130P00056000,ON 30JAN26 56 P,0,100.94796,0,100.853276,0,0
+Month & Year to Date Performance Summary,Data,Equity and Index Options,ORCL  260220P00149000,ORCL 20FEB26 149 P,0,212.94796,0,0,0,0
+Month & Year to Date Performance Summary,Data,Equity and Index Options,ORCL  260227C00150000,ORCL 27FEB26 150 C,0,173.94546,0,173.850551,0,0
+Month & Year to Date Performance Summary,Data,Equity and Index Options,ORCL  260306C00147000,ORCL 06MAR26 147 C,0,313.94626,0,0,0,0
+Month & Year to Date Performance Summary,Data,Equity and Index Options,ORCL  260306P00147000,ORCL 06MAR26 147 P,0,-214.09999,0,-214.2889895,0,0
+Month & Year to Date Performance Summary,Data,Equity and Index Options,ORCL  260320P00137000,ORCL 20MAR26 137 P,0,772.90081,0,772.7118825,0,0
+Month & Year to Date Performance Summary,Data,Equity and Index Options,PANW  260306P00149000,PANW 06MAR26 149 P,0,205.94796,0,205.853276,0,0
+Month & Year to Date Performance Summary,Data,Equity and Index Options,PANW  260515P00150000,PANW 15MAY26 150 P,38.4436718,38.4436718,0,0,0,0
+Month & Year to Date Performance Summary,Data,Equity and Index Options,PLTR  260130P00180000,PLTR 30JAN26 180 P,0,935.08,0,0,0,0
+Month & Year to Date Performance Summary,Data,Equity and Index Options,PLTR  260306C00185000,PLTR 06MAR26 185 C,0,199.94796,0,199.853276,0,0
+Month & Year to Date Performance Summary,Data,Equity and Index Options,PLTR  260320P00147000,PLTR 20MAR26 147 P,0,331.94876,0,331.854148,0,0
+Month & Year to Date Performance Summary,Data,Equity and Index Options,PLTR  260417C00170000,PLTR 17APR26 170 C,0,393.53081,0,393.3985825,0,0
+Month & Year to Date Performance Summary,Data,Equity and Index Options,PLTR  260424C00155000,PLTR 24APR26 155 C,285,187.22876,0,0,0,0
+Month & Year to Date Performance Summary,Data,Equity and Index Options,QCOM  260206P00165000,QCOM 06FEB26 165 P,0,310.94796,0,0,0,0
+Month & Year to Date Performance Summary,Data,Equity and Index Options,QCOM  260313C00160000,QCOM 13MAR26 160 C,0,0.14671,0,-0.0200865,0,0
+Month & Year to Date Performance Summary,Data,Equity and Index Options,QCOM  260320C00165000,QCOM 20MAR26 165 C,0,-0.10329,0,-0.2925865,0,0
+Month & Year to Date Performance Summary,Data,Equity and Index Options,QCOM  260327C00165000,QCOM 27MAR26 165 C,0,81.89501,0,81.7055605,0,0
+Month & Year to Date Performance Summary,Data,Equity and Index Options,QCOM  260417C00140000,QCOM 17APR26 140 C,52.12205,190.40081,190.2568825,190.2568825,0,0
+Month & Year to Date Performance Summary,Data,Equity and Index Options,QCOM  260501C00131000,QCOM 01MAY26 131 C,-447.659686,-447.659686,0,0,0,0
+Month & Year to Date Performance Summary,Data,Equity and Index Options,SNPS  260417P00400000,SNPS 17APR26 400 P,1687.74205,871.50081,871.4558825,871.4558825,0,0
+Month & Year to Date Performance Summary,Data,Equity and Index Options,TSLA  260130P00417500,TSLA 30JAN26 417.5 P,0,534.29796,0,534.234776,0,0
+Month & Year to Date Performance Summary,Data,Equity and Index Options,TSLA  260206P00407500,TSLA 06FEB26 407.5 P,0,-1585.10329,0,-1585.2925865,0,0
+Month & Year to Date Performance Summary,Data,Equity and Index Options,TSLA  260213P00407500,TSLA 13FEB26 407.5 P,0,2325.94546,0,2325.850551,0,0
+Month & Year to Date Performance Summary,Data,Equity and Index Options,TSLA  260218P00397500,TSLA 18FEB26 397.5 P,0,-198.10329,0,-198.2925865,0,0
+Month & Year to Date Performance Summary,Data,Equity and Index Options,TSLA  260225P00397500,TSLA 25FEB26 397.5 P,0,972.94546,0,972.850551,0,0
+Month & Year to Date Performance Summary,Data,Equity and Index Options,TSLA  260304P00392500,TSLA 04MAR26 392.5 P,0,5.90001,0,5.7110105,0,0
+Month & Year to Date Performance Summary,Data,Equity and Index Options,TSLA  260313P00377500,TSLA 13MAR26 377.5 P,0,543.94876,0,543.854148,0,0
+Month & Year to Date Performance Summary,Data,Equity and Index Options,TSLA  260327P00370000,TSLA 27MAR26 370 P,0,640.90081,0,640.7118825,0,0
+Month & Year to Date Performance Summary,Data,Equity and Index Options,TSLA  260501P00340000,TSLA 01MAY26 340 P,750,641.94876,0,0,0,0
+Month & Year to Date Performance Summary,Data,Equity and Index Options,WDAY  260402P00135000,WDAY 02APR26 135 P,0,-459.30169,0,-459.4188425,0,0
+Month & Year to Date Performance Summary,Data,Equity and Index Options,WDAY  260618P00115000,WDAY 18JUN26 115 P,-85,-0.05124,0,0,0,0
+Month & Year to Date Performance Summary,Data,Equity and Index Options,WDAY  260918P00120000,WDAY 18SEP26 120 P,-145,-74.25124,0,0,0,0
+Month & Year to Date Performance Summary,Data,Equity and Index Options,XOM   260327P00147000,XOM 27MAR26 147 P,0,275.63081,0,275.5075825,0,0
+Month & Year to Date Performance Summary,Data,Equity and Index Options,ZS    260320P00145000,ZS 20MAR26 145 P,0,303.89831,0,303.7091575,0,0
+Month & Year to Date Performance Summary,Data,Equity and Index Options,ZS    260417P00140000,ZS 17APR26 140 P,146.49955,-173.10419,-173.2935675,-173.2935675,0,0
+Month & Year to Date Performance Summary,Data,Equity and Index Options,ZS    260529P00131000,ZS 29MAY26 131 P,-18.8058438,-18.8058438,0,0,0,0
+Month & Year to Date Performance Summary,Data,Total,,,7208.6890366,14532.5389466,6089.9159525,11992.8654871,0,0
+Month & Year to Date Performance Summary,Data,Total (All Assets),,,12819.6890366,3788.7999466,6089.9159525,9959.2909521,0,0
+Cash Report,Header,Currency Summary,Currency,Total,Securities,Futures,Month to Date,Year to Date,
+Cash Report,Data,Starting Cash,Base Currency Summary,1.53694,1.53694,0,,,
+Cash Report,Data,Commissions,Base Currency Summary,-211.3598934,-211.3598934,0,-24.0509634,-176.0000534,
+Cash Report,Data,Deposits,Base Currency Summary,152466.12,152466.12,0,15633.5,107765.47,
+Cash Report,Data,Dividends,Base Currency Summary,89,89,0,0,89,
+Cash Report,Data,Broker Interest Paid and Received,Base Currency Summary,280.4803844,280.4803844,0,133.8366998,275.5003844,
+Cash Report,Data,Trades (Sales),Base Currency Summary,242708.1598,242708.1598,0,20904.043,194457.3371,
+Cash Report,Data,Trades (Purchase),Base Currency Summary,-302167.699506796,-302167.699506796,0,-17874.54625502,-256195.16440219,
+Cash Report,Data,Other Fees,Base Currency Summary,-31.5,-31.5,0,-4.5,-21,
+Cash Report,Data,Withholding Tax,Base Currency Summary,-26.7,-26.7,0,0,-26.7,
+Cash Report,Data,Sales Tax,USD,-21.85739041,-21.85739041,0,-2.56958671,-17.73000481,
+Cash Report,Data,Cash FX Translation Gain/Loss,Base Currency Summary,5.35309557,5.35309557,0,,,
+Cash Report,Data,Ending Cash,Base Currency Summary,93091.53342939,93091.53342939,0,,,
+Cash Report,Data,Ending Settled Cash,Base Currency Summary,92559.72479583,92559.72479583,0,,,
+Cash Report,Data,Starting Cash,SGD,2,2,0,,,
+Cash Report,Data,Deposits,SGD,195000,195000,0,20000,137000,
+Cash Report,Data,Broker Interest Paid and Received,SGD,0.88,0.88,0,0.06,0.88,
+Cash Report,Data,Trades (Purchase),SGD,-195002.87883985,-195002.87883985,0,-20000.05880815,-137000.88154977,
+Cash Report,Data,Ending Cash,SGD,0.00116015,0.00116015,0,,,
+Cash Report,Data,Ending Settled Cash,SGD,0.00116015,0.00116015,0,,,
+Cash Report,Data,Starting Cash,USD,0,0,0,,,
+Cash Report,Data,Commissions,USD,-211.3598934,-211.3598934,0,-24.0509634,-176.0000534,
+Cash Report,Data,Dividends,USD,89,89,0,0,89,
+Cash Report,Data,Broker Interest Paid and Received,USD,279.79,279.79,0,133.79,274.81,
+Cash Report,Data,Trades (Sales),USD,242708.1598,242708.1598,0,20904.043,194457.3371,
+Cash Report,Data,Trades (Purchase),USD,-149694,-149694,0,-2241,-148429,
+Cash Report,Data,Other Fees,USD,-31.5,-31.5,0,-4.5,-21,
+Cash Report,Data,Withholding Tax,USD,-26.7,-26.7,0,0,-26.7,
+Cash Report,Data,Sales Tax,USD,-21.85739041,-21.85739041,0,-2.56958671,-17.73000481,
+Cash Report,Data,Ending Cash,USD,93091.53251619,93091.53251619,0,,,
+Cash Report,Data,Ending Settled Cash,USD,92559.72388263,92559.72388263,0,,,
+Open Positions,Header,DataDiscriminator,Asset Category,Currency,Symbol,Quantity,Mult,Cost Price,Cost Basis,Close Price,Value,Unrealized P/L,Code
+Open Positions,Data,Summary,Stocks,USD,AMZN,100,1,222.65146724,22265.146724,250.56,25056,2790.853276,
+Open Positions,Data,Summary,Stocks,USD,LULU,100,1,190.41149449,19041.149449,167.28,16728,-2313.149449,
+Open Positions,Data,Summary,Stocks,USD,NOW,100,1,113.8418,11384.18,96.66,9666,-1718.18,
+Open Positions,Data,Summary,Stocks,USD,PLTR,100,1,171.7072691,17170.72691,146.39,14639,-2531.72691,
+Open Positions,Data,Summary,Stocks,USD,QCOM,100,1,161.89146724,16189.146724,136.2,13620,-2569.146724,
+Open Positions,Total,,Stocks,USD,,,,,86050.349807,,79709,-6341.349807,
+Open Positions,Header,DataDiscriminator,Asset Category,Currency,Symbol,Quantity,Mult,Cost Price,Cost Basis,Close Price,Value,Unrealized P/L,Code
+Open Positions,Data,Summary,Equity and Index Options,USD,AMZN 01MAY26 225 C,-1,100,3.38854148,-338.854148,27.5673,-2756.73,-2417.875852,
+Open Positions,Data,Summary,Equity and Index Options,USD,AMZN 15MAY26 215 P,-1,100,3.6884584,-368.84584,1.535,-153.5,215.34584,
+Open Positions,Data,Summary,Equity and Index Options,USD,ARM 08MAY26 135 P,-1,100,6.32072148,-632.072148,1.5778,-157.78,474.292148,
+Open Positions,Data,Summary,Equity and Index Options,USD,CRDO 08MAY26 135 P,-1,100,4.50843999,-450.843999,3.45,-345,105.843999,
+Open Positions,Data,Summary,Equity and Index Options,USD,LULU 08MAY26 165 C,-1,100,3.89126648,-389.126648,8.2252,-822.52,-433.393352,
+Open Positions,Data,Summary,Equity and Index Options,USD,LULU 18JUN26 170 P,-1,100,17.83851423,-1783.851423,14.8971,-1489.71,294.141423,
+Open Positions,Data,Summary,Equity and Index Options,USD,MDB 18JUN26 220 P,-1,100,21.53854148,-2153.854148,13.5501,-1355.01,798.844148,
+Open Positions,Data,Summary,Equity and Index Options,USD,MDB 18JUN26 230 P,-1,100,20.59851423,-2059.851423,17.1829,-1718.29,341.561423,
+Open Positions,Data,Summary,Equity and Index Options,USD,MU 24APR26 430 P,-1,100,8.86834209,-886.834209,6.85,-685,201.834209,
+Open Positions,Data,Summary,Equity and Index Options,USD,NOW 18JUN26 88 P,-1,100,7.75708724,-775.708724,5.4272,-542.72,232.988724,
+Open Positions,Data,Summary,Equity and Index Options,USD,NOW 18JUN26 124 C,-1,100,3.74998648,-374.998648,2.1032,-210.32,164.678648,
+Open Positions,Data,Summary,Equity and Index Options,USD,PANW 15MAY26 150 P,-1,100,2.45848602,-245.848602,2.075,-207.5,38.348602,
+Open Positions,Data,Summary,Equity and Index Options,USD,PLTR 24APR26 155 C,-1,100,2.87159348,-287.159348,1,-100,187.159348,
+Open Positions,Data,Summary,Equity and Index Options,USD,QCOM 01MAY26 131 C,-1,100,4.09117442,-409.117442,8.5685,-856.85,-447.732558,
+Open Positions,Data,Summary,Equity and Index Options,USD,TSLA 01MAY26 340 P,-1,100,7.56854148,-756.854148,1.15,-115,641.854148,
+Open Positions,Data,Summary,Equity and Index Options,USD,WDAY 18JUN26 115 P,-1,100,8.09944148,-809.944148,8.1,-810,-0.055852,
+Open Positions,Data,Summary,Equity and Index Options,USD,WDAY 18SEP26 120 P,-1,100,15.20726148,-1520.726148,15.95,-1595,-74.273852,
+Open Positions,Data,Summary,Equity and Index Options,USD,ZS 29MAY26 131 P,-1,100,10.7182733,-1071.82733,10.9073,-1090.73,-18.90267,
+Open Positions,Total,,Equity and Index Options,USD,,,,,-15316.318524,,-15011.66,304.658524,
+Trades,Header,DataDiscriminator,Asset Category,Currency,Symbol,Date/Time,Quantity,T. Price,C. Price,Proceeds,Comm/Fee,Basis,Realized P/L,MTM P/L,Code
+Trades,Data,Order,Stocks,USD,AMZN,"2026-02-05, 16:20:00",100,225,222.69,-22500,0,22500,0,-231,A;O
+Trades,SubTotal,,Stocks,USD,AMZN,,100,,,-22500,0,22500,0,-231,
+Trades,Data,Order,Stocks,USD,LULU,"2026-01-23, 16:20:00",100,192.5,191.07,-19250,0,19250,0,-143,A;O
+Trades,SubTotal,,Stocks,USD,LULU,,100,,,-19250,0,19250,0,-143,
+Trades,Data,Order,Stocks,USD,NOW,"2026-01-29, 16:20:00",100,141,116.73,-14100,0,14100,0,-2427,A;O
+Trades,Data,Order,Stocks,USD,NOW,"2026-02-03, 09:30:01",30,113.89,109.77,-3416.7,-1.09,3417.79,0,-123.6,O
+Trades,Data,Order,Stocks,USD,NOW,"2026-03-04, 10:05:10",-100,114.2,113.86,11420,-1.111255,-13779.146724,-2360.257979,34,C
+Trades,Data,Order,Stocks,USD,NOW,"2026-03-04, 10:07:12",70,113.79,113.86,-7965.3,-1.09,7966.39,0,4.9,O
+Trades,SubTotal,,Stocks,USD,NOW,,100,,,-14062,-3.291255,11705.033276,-2360.257979,-2511.7,
+Trades,Data,Order,Stocks,USD,ORCL,"2026-02-20, 16:20:00",100,149,148.08,-14900,0,14900,0,-92,A;O
+Trades,Data,Order,Stocks,USD,ORCL,"2026-03-06, 16:20:00",-100,147,152.96,14700,-0.021255,-14687.146724,326.683444,-596,A;C
+Trades,SubTotal,,Stocks,USD,ORCL,,0,,,-200,-0.021255,212.853276,326.683444,-688,
+Trades,Data,Order,Stocks,USD,PLTR,"2026-01-29, 16:20:00",100,180,151.86,-18000,0,18000,0,-2814,A;O
+Trades,SubTotal,,Stocks,USD,PLTR,,100,,,-18000,0,18000,0,-2814,
+Trades,Data,Order,Stocks,USD,QCOM,"2026-02-05, 16:20:00",100,165,136.3,-16500,0,16500,0,-2870,A;O
+Trades,SubTotal,,Stocks,USD,QCOM,,100,,,-16500,0,16500,0,-2870,
+Trades,Total,,Stocks,USD,,,,,,-90512,-3.31251,88167.886552,-2033.574535,-9257.7, 
+Trades,Header,DataDiscriminator,Asset Category,Currency,Symbol,Date/Time,Quantity,T. Price,C. Price,Proceeds,Comm/Fee,Basis,Realized P/L,MTM P/L,Code
+Trades,Data,Order,Equity and Index Options,USD,AAPL 17APR26 235 P,"2026-03-12, 10:36:51",-1,3.36,3.15,336,-1.1458516,-334.8541484,0,21,O
+Trades,Data,Order,Equity and Index Options,USD,AAPL 17APR26 235 P,"2026-04-01, 11:13:30",1,1,0.94,-100,-1.1422655,334.854148,233.711883,-6,C
+Trades,SubTotal,,Equity and Index Options,USD,AAPL 17APR26 235 P,,0,,,236,-2.2881171,-0.0000004,233.711883,15,
+Trades,Data,Order,Equity and Index Options,USD,ADBE 17APR26 230 P,"2026-03-16, 09:53:11",-1,5.2,3.975,520,-0.8733516,-519.1266484,0,122.5,O
+Trades,Data,Order,Equity and Index Options,USD,ADBE 17APR26 230 P,"2026-04-16, 10:28:53",1,0.14,0.0701,-14,-1.1449905,519.126648,503.981658,-6.99,C
+Trades,SubTotal,,Equity and Index Options,USD,ADBE 17APR26 230 P,,0,,,506,-2.0183421,-0.0000004,503.981658,115.51,
+Trades,Data,Order,Equity and Index Options,USD,AMZN 06FEB26 222.5 P,"2026-02-03, 10:26:27",-1,3.2,3.4,320,-1.1467236,-318.8532764,0,-20,O
+Trades,Data,Order,Equity and Index Options,USD,AMZN 06FEB26 222.5 P,"2026-02-06, 09:48:46",1,18.2,12.18,-1820,-1.1431375,318.853276,-1502.289861,-602,C
+Trades,SubTotal,,Equity and Index Options,USD,AMZN 06FEB26 222.5 P,,0,,,-1500,-2.2898611,-0.0000004,-1502.289861,-622,
+Trades,Data,Order,Equity and Index Options,USD,AMZN 09FEB26 225 P,"2026-02-02, 11:19:49",-1,2.36,2.68,236,-1.1467236,-234.8532764,0,-32,O
+Trades,Data,Order,Equity and Index Options,USD,AMZN 09FEB26 225 P,"2026-02-05, 16:20:00",1,0,11.3499,0,0,234.853276,0,1134.99,A;C
+Trades,SubTotal,,Equity and Index Options,USD,AMZN 09FEB26 225 P,,0,,,236,-1.1467236,-0.0000004,0,1102.99,
+Trades,Data,Order,Equity and Index Options,USD,AMZN 18FEB26 225 C,"2026-02-06, 10:05:49",-1,0.4,0.915,40,-1.1467236,-38.8532764,0,-51.5,O
+Trades,Data,Order,Equity and Index Options,USD,AMZN 18FEB26 225 C,"2026-02-18, 16:20:00",1,0,0,0,0,38.853276,38.853276,0,C;Ep
+Trades,SubTotal,,Equity and Index Options,USD,AMZN 18FEB26 225 C,,0,,,40,-1.1467236,-0.0000004,38.853276,-51.5,
+Trades,Data,Order,Equity and Index Options,USD,AMZN 27FEB26 230 C,"2026-02-06, 10:05:49",-1,0.58,1.1888,58,-1.1467236,-56.8532764,0,-60.88,O
+Trades,Data,Order,Equity and Index Options,USD,AMZN 27FEB26 230 C,"2026-02-09, 09:36:22",1,0.62,0.7852,-62,-0.7616375,56.853276,-5.908361,16.52,C
+Trades,SubTotal,,Equity and Index Options,USD,AMZN 27FEB26 230 C,,0,,,-4,-1.9083611,-0.0000004,-5.908361,-44.36,
+Trades,Data,Order,Equity and Index Options,USD,AMZN 06MAR26 225 C,"2026-02-06, 10:05:49",-1,1.29,2.505,129,-1.1467236,-127.8532764,0,-121.5,O
+Trades,Data,Order,Equity and Index Options,USD,AMZN 06MAR26 225 C,"2026-02-09, 09:47:26",1,1.59,1.885,-159,-0.7616375,127.853276,-31.908361,29.5,C
+Trades,SubTotal,,Equity and Index Options,USD,AMZN 06MAR26 225 C,,0,,,-30,-1.9083611,-0.0000004,-31.908361,-92,
+Trades,Data,Order,Equity and Index Options,USD,AMZN 06MAR26 225 P,"2026-02-06, 09:48:46",-1,21.81,16.6498,2181,-1.1467236,-2179.8532764,0,516.02,O
+Trades,Data,Order,Equity and Index Options,USD,AMZN 06MAR26 225 P,"2026-03-03, 11:07:03",1,19.95,16.276,-1995,-1.1449905,2179.853276,183.708285,-367.4,C
+Trades,SubTotal,,Equity and Index Options,USD,AMZN 06MAR26 225 P,,0,,,186,-2.2917141,-0.0000004,183.708285,148.62,
+Trades,Data,Order,Equity and Index Options,USD,AMZN 13MAR26 215 C,"2026-02-20, 09:57:50",-1,2.93,4.4,293,-0.6889236,-292.3110764,0,-147,O
+Trades,Data,Order,Equity and Index Options,USD,AMZN 13MAR26 215 C,"2026-03-13, 16:20:00",1,0,0,0,0,292.311076,292.311076,0,C;Ep
+Trades,SubTotal,,Equity and Index Options,USD,AMZN 13MAR26 215 C,,0,,,293,-0.6889236,-0.0000004,292.311076,-147,
+Trades,Data,Order,Equity and Index Options,USD,AMZN 17APR26 225 C,"2026-03-16, 10:02:42",-1,2.26,2.91,226,-1.1458516,-224.8541484,0,-65,O
+Trades,Data,Order,Equity and Index Options,USD,AMZN 17APR26 225 C,"2026-03-31, 10:48:11",1,0.62,0.855,-62,-0.6844655,224.854148,162.169683,23.5,C
+Trades,SubTotal,,Equity and Index Options,USD,AMZN 17APR26 225 C,,0,,,164,-1.8303171,-0.0000004,162.169683,-41.5,
+Trades,Data,Order,Equity and Index Options,USD,AMZN 17APR26 195 P,"2026-03-03, 11:07:03",-1,6,4.85,600,-1.1485766,-598.8514234,0,115,O
+Trades,Data,Order,Equity and Index Options,USD,AMZN 17APR26 195 P,"2026-04-06, 10:38:18",1,0.75,0.77,-75,-1.1422655,598.851423,522.709157,2,C
+Trades,SubTotal,,Equity and Index Options,USD,AMZN 17APR26 195 P,,0,,,525,-2.2908421,-0.0000004,522.709157,117,
+Trades,Data,Order,Equity and Index Options,USD,AMZN 01MAY26 225 C,"2026-03-31, 10:53:13",-1,3.4,4.175,340,-1.1458516,-338.8541484,0,-77.5,O
+Trades,SubTotal,,Equity and Index Options,USD,AMZN 01MAY26 225 C,,-1,,,340,-1.1458516,-338.8541484,0,-77.5,
+Trades,Data,Order,Equity and Index Options,USD,AMZN 01MAY26 200 P,"2026-03-13, 10:57:54",-1,8.5,8.5848,850,-1.1458516,-848.8541484,0,-8.48,O
+Trades,Data,Order,Equity and Index Options,USD,AMZN 01MAY26 200 P,"2026-04-13, 11:21:08",1,1.11,1.025,-111,-1.1422655,848.854148,736.711883,-8.5,C
+Trades,SubTotal,,Equity and Index Options,USD,AMZN 01MAY26 200 P,,0,,,739,-2.2881171,-0.0000004,736.711883,-16.98,
+Trades,Data,Order,Equity and Index Options,USD,AMZN 15MAY26 215 P,"2026-04-13, 11:24:39",-1,3.7,3.325,370,-1.15415958,-368.84584042,0,37.5,O
+Trades,SubTotal,,Equity and Index Options,USD,AMZN 15MAY26 215 P,,-1,,,370,-1.15415958,-368.84584042,0,37.5,
+Trades,Data,Order,Equity and Index Options,USD,ARM 27FEB26 123 P,"2026-02-20, 11:31:16",-1,1.63,2.5522,163,-1.1467236,-161.8532764,0,-92.22,O
+Trades,Data,Order,Equity and Index Options,USD,ARM 27FEB26 123 P,"2026-02-27, 16:20:00",1,0,0,0,0,161.853276,161.853276,0,C;Ep
+Trades,SubTotal,,Equity and Index Options,USD,ARM 27FEB26 123 P,,0,,,163,-1.1467236,-0.0000004,161.853276,-92.22,
+Trades,Data,Order,Equity and Index Options,USD,ARM 08MAY26 135 P,"2026-03-31, 13:03:13",-1,6.33,5.7389,633,-0.9278516,-632.0721484,0,59.11,O
+Trades,SubTotal,,Equity and Index Options,USD,ARM 08MAY26 135 P,,-1,,,633,-0.9278516,-632.0721484,0,59.11,
+Trades,Data,Order,Equity and Index Options,USD,CRDO 13FEB26 128 P,"2026-02-10, 11:10:10",-1,1.94,2.472,194,-1.1467236,-192.8532764,0,-53.2,O
+Trades,Data,Order,Equity and Index Options,USD,CRDO 13FEB26 128 P,"2026-02-13, 09:54:29",1,8.3,6.56,-830,-1.1431375,192.853276,-638.289862,-174,C
+Trades,SubTotal,,Equity and Index Options,USD,CRDO 13FEB26 128 P,,0,,,-636,-2.2898611,-0.0000004,-638.289862,-227.2,
+Trades,Data,Order,Equity and Index Options,USD,CRDO 13MAR26 119 P,"2026-02-13, 09:54:29",-1,13.86,12.6583,1386,-1.1467236,-1384.8532764,0,120.17,O
+Trades,Data,Order,Equity and Index Options,USD,CRDO 13MAR26 119 P,"2026-03-03, 10:24:43",1,25.68,22.1699,-2568,-1.1422655,1384.853276,-1184.28899,-351.01,C
+Trades,SubTotal,,Equity and Index Options,USD,CRDO 13MAR26 119 P,,0,,,-1182,-2.2889891,-0.0000004,-1184.28899,-230.84,
+Trades,Data,Order,Equity and Index Options,USD,CRDO 08MAY26 135 P,"2026-04-16, 11:54:56",-1,4.52,4.05,452,-1.15600081,-450.84399919,0,47,O
+Trades,SubTotal,,Equity and Index Options,USD,CRDO 08MAY26 135 P,,-1,,,452,-1.15600081,-450.84399919,0,47,
+Trades,Data,Order,Equity and Index Options,USD,CROX 12DEC25 70 P,"2025-11-17, 10:02:11",-1,1.4,1.0704,140,-0.2710721,-139.7289279,0,32.96,O
+Trades,Data,Order,Equity and Index Options,USD,CROX 12DEC25 70 P,"2025-11-28, 12:32:11",1,0.1,0.3848,-10,-0.050031,139.728928,129.678897,28.48,C
+Trades,SubTotal,,Equity and Index Options,USD,CROX 12DEC25 70 P,,0,,,130,-0.3211031,0.0000001,129.678897,61.44,
+Trades,Data,Order,Equity and Index Options,USD,CRWV 20MAR26 60 P,"2026-01-06, 09:44:13",-1,5.3,4.925,530,-1.1467236,-528.8532764,0,37.5,O
+Trades,Data,Order,Equity and Index Options,USD,CRWV 20MAR26 60 P,"2026-03-19, 09:44:44",1,0.04,0.0291,-4,-1.0768655,528.853276,523.77641,-1.09,C
+Trades,SubTotal,,Equity and Index Options,USD,CRWV 20MAR26 60 P,,0,,,526,-2.2235891,-0.0000004,523.77641,36.41,
+Trades,Data,Order,Equity and Index Options,USD,CRWV 02APR26 65 P,"2026-03-09, 11:19:49",-1,4.21,3.4305,421,-1.1458516,-419.8541484,0,77.95,O
+Trades,Data,Order,Equity and Index Options,USD,CRWV 02APR26 65 P,"2026-03-24, 09:32:49",1,0.42,0.427,-42,-0.8697655,419.854148,376.984383,0.7,C
+Trades,SubTotal,,Equity and Index Options,USD,CRWV 02APR26 65 P,,0,,,379,-2.0156171,-0.0000004,376.984383,78.65,
+Trades,Data,Order,Equity and Index Options,USD,LULU 12DEC25 170 P,"2025-11-28, 12:49:08",-1,5.69,5.8,569,-1.1430721,-567.8569279,0,-11,O
+Trades,Data,Order,Equity and Index Options,USD,LULU 12DEC25 170 P,"2025-12-12, 16:20:00",1,0,0,0,0,567.856928,567.856928,0,C;Ep
+Trades,SubTotal,,Equity and Index Options,USD,LULU 12DEC25 170 P,,0,,,569,-1.1430721,0.0000001,567.856928,-11,
+Trades,Data,Order,Equity and Index Options,USD,LULU 02JAN26 190 P,"2025-12-15, 11:28:54",-1,2.28,1.5349,228,-1.1084101,-226.8915899,0,74.51,O
+Trades,Data,Order,Equity and Index Options,USD,LULU 02JAN26 190 P,"2026-01-02, 16:20:00",1,0,0,0,0,226.89159,226.89159,0,C;Ep
+Trades,SubTotal,,Equity and Index Options,USD,LULU 02JAN26 190 P,,0,,,228,-1.1084101,0.0000001,226.89159,74.51,
+Trades,Data,Order,Equity and Index Options,USD,LULU 23JAN26 192.5 P,"2026-01-09, 10:26:21",-1,2.1,2.6456,210,-1.1494486,-208.8505514,0,-54.56,O
+Trades,Data,Order,Equity and Index Options,USD,LULU 23JAN26 192.5 P,"2026-01-23, 16:20:00",1,0,1.43,0,0,208.850551,0,143,A;C
+Trades,SubTotal,,Equity and Index Options,USD,LULU 23JAN26 192.5 P,,0,,,210,-1.1494486,-0.0000004,0,88.44,
+Trades,Data,Order,Equity and Index Options,USD,LULU 06FEB26 197.5 C,"2026-01-26, 09:32:26",-1,2.91,3.13,291,-1.1494486,-289.8505514,0,-22,O
+Trades,Data,Order,Equity and Index Options,USD,LULU 06FEB26 197.5 C,"2026-02-06, 16:20:00",1,0,0,0,0,289.850551,289.850551,0,C;Ep
+Trades,SubTotal,,Equity and Index Options,USD,LULU 06FEB26 197.5 C,,0,,,291,-1.1494486,-0.0000004,289.850551,-22,
+Trades,Data,Order,Equity and Index Options,USD,LULU 20FEB26 190 C,"2026-02-19, 11:12:28",-1,0.35,0.395,35,-1.1494486,-33.8505514,0,-4.5,O
+Trades,Data,Order,Equity and Index Options,USD,LULU 20FEB26 190 C,"2026-02-19, 11:24:32",1,0.31,0.395,-31,-1.1431375,33.850551,1.707414,8.5,C
+Trades,SubTotal,,Equity and Index Options,USD,LULU 20FEB26 190 C,,0,,,4,-2.2925861,-0.0000004,1.707414,4,
+Trades,Data,Order,Equity and Index Options,USD,LULU 27FEB26 190 C,"2026-02-19, 11:12:28",-1,2.28,2.565,228,-1.1494486,-226.8505514,0,-28.5,O
+Trades,Data,Order,Equity and Index Options,USD,LULU 27FEB26 190 C,"2026-02-27, 16:20:00",1,0,0,0,0,226.850551,226.850551,0,C;Ep
+Trades,SubTotal,,Equity and Index Options,USD,LULU 27FEB26 190 C,,0,,,228,-1.1494486,-0.0000004,226.850551,-28.5,
+Trades,Data,Order,Equity and Index Options,USD,LULU 27FEB26 200 C,"2026-02-06, 10:46:57",-1,0.87,0.8991,87,-1.1494486,-85.8505514,0,-2.91,O
+Trades,Data,Order,Equity and Index Options,USD,LULU 27FEB26 200 C,"2026-02-19, 11:33:53",1,0.57,0.8416,-57,-0.8706375,85.850551,27.979913,27.16,C
+Trades,SubTotal,,Equity and Index Options,USD,LULU 27FEB26 200 C,,0,,,30,-2.0200861,-0.0000004,27.979913,24.25,
+Trades,Data,Order,Equity and Index Options,USD,LULU 13MAR26 180 P,"2026-02-19, 10:14:22",-1,7.98,6.6351,798,-1.1494486,-796.8505514,0,134.49,O
+Trades,Data,Order,Equity and Index Options,USD,LULU 13MAR26 180 P,"2026-02-19, 10:30:09",1,7.45,6.6351,-745,-0.8706375,796.850551,50.979914,-81.49,C
+Trades,SubTotal,,Equity and Index Options,USD,LULU 13MAR26 180 P,,0,,,53,-2.0200861,-0.0000004,50.979914,53,
+Trades,Data,Order,Equity and Index Options,USD,LULU 20MAR26 187.5 C,"2026-03-05, 10:15:25",-1,4.8,5.1184,480,-1.1458516,-478.8541484,0,-31.84,O
+Trades,Data,Order,Equity and Index Options,USD,LULU 20MAR26 187.5 C,"2026-03-19, 09:56:15",1,0.06,0.0015,-6,-1.1422655,478.854148,471.711883,-5.85,C
+Trades,SubTotal,,Equity and Index Options,USD,LULU 20MAR26 187.5 C,,0,,,474,-2.2881171,-0.0000004,471.711883,-37.69,
+Trades,Data,Order,Equity and Index Options,USD,LULU 20MAR26 180 P,"2026-02-19, 10:14:22",-1,11.29,10.4237,1129,-1.1494486,-1127.8505514,0,86.63,O
+Trades,Data,Order,Equity and Index Options,USD,LULU 20MAR26 180 P,"2026-03-05, 11:26:15",1,15.17,14.3865,-1517,-1.1449905,1127.850551,-390.294439,-78.35,C
+Trades,SubTotal,,Equity and Index Options,USD,LULU 20MAR26 180 P,,0,,,-388,-2.2944391,-0.0000004,-390.294439,8.28,
+Trades,Data,Order,Equity and Index Options,USD,LULU 24APR26 180 C,"2026-03-24, 09:39:00",-1,2.98,2.2,298,-1.1485766,-296.8514234,0,78,O
+Trades,Data,Order,Equity and Index Options,USD,LULU 24APR26 180 C,"2026-03-31, 10:55:55",1,0.56,0.7572,-56,-1.1449905,296.851423,239.706433,19.72,C
+Trades,SubTotal,,Equity and Index Options,USD,LULU 24APR26 180 C,,0,,,242,-2.2935671,-0.0000004,239.706433,97.72,
+Trades,Data,Order,Equity and Index Options,USD,LULU 08MAY26 165 C,"2026-03-31, 11:12:11",-1,3.9,4.475,390,-0.8733516,-389.1266484,0,-57.5,O
+Trades,SubTotal,,Equity and Index Options,USD,LULU 08MAY26 165 C,,-1,,,390,-0.8733516,-389.1266484,0,-57.5,
+Trades,Data,Order,Equity and Index Options,USD,LULU 18JUN26 150 P,"2026-03-17, 11:28:04",1,11,11.6821,-1100,-0.8697655,1100.8697655,0,68.21,O
+Trades,Data,Order,Equity and Index Options,USD,LULU 18JUN26 150 P,"2026-03-20, 10:00:02",-1,8.38,9.15,838,-0.9278516,-1100.869765,-263.797617,-77,C
+Trades,SubTotal,,Equity and Index Options,USD,LULU 18JUN26 150 P,,0,,,-262,-1.7976171,0.0000005,-263.797617,-8.79,
+Trades,Data,Order,Equity and Index Options,USD,LULU 18JUN26 170 P,"2026-03-05, 11:26:15",-1,17.85,17.875,1785,-1.1485766,-1783.8514234,0,-2.5,O
+Trades,SubTotal,,Equity and Index Options,USD,LULU 18JUN26 170 P,,-1,,,1785,-1.1485766,-1783.8514234,0,-2.5,
+Trades,Data,Order,Equity and Index Options,USD,MDB 13MAR26 247.5 P,"2026-03-05, 10:24:04",-1,4.24,4.05,424,-1.1458516,-422.8541484,0,19,O
+Trades,Data,Order,Equity and Index Options,USD,MDB 13MAR26 247.5 P,"2026-03-13, 16:20:00",1,0,0,0,0,422.854148,422.854148,0,C;Ep
+Trades,SubTotal,,Equity and Index Options,USD,MDB 13MAR26 247.5 P,,0,,,424,-1.1458516,-0.0000004,422.854148,19,
+Trades,Data,Order,Equity and Index Options,USD,MDB 27MAR26 260 P,"2026-03-17, 11:44:00",-1,5.83,6.0943,583,-0.9278516,-582.0721484,0,-26.43,O
+Trades,Data,Order,Equity and Index Options,USD,MDB 27MAR26 260 P,"2026-03-25, 10:11:14",1,10.17,14.3636,-1017,-1.1449905,582.072148,-436.072842,419.36,C
+Trades,SubTotal,,Equity and Index Options,USD,MDB 27MAR26 260 P,,0,,,-434,-2.0728421,-0.0000004,-436.072842,392.93,
+Trades,Data,Order,Equity and Index Options,USD,MDB 02APR26 240 P,"2026-03-25, 09:59:09",-1,4.4,5.4561,440,-0.8733516,-439.1266484,0,-105.61,O
+Trades,Data,Order,Equity and Index Options,USD,MDB 02APR26 240 P,"2026-03-25, 12:54:56",1,8.26,5.4561,-826,-1.1422655,439.126648,-388.015617,-280.39,C
+Trades,SubTotal,,Equity and Index Options,USD,MDB 02APR26 240 P,,0,,,-386,-2.0156171,-0.0000004,-388.015617,-386,
+Trades,Data,Order,Equity and Index Options,USD,MDB 18JUN26 220 P,"2026-03-25, 12:54:56",-1,21.55,19.325,2155,-1.1458516,-2153.8541484,0,222.5,O
+Trades,SubTotal,,Equity and Index Options,USD,MDB 18JUN26 220 P,,-1,,,2155,-1.1458516,-2153.8541484,0,222.5,
+Trades,Data,Order,Equity and Index Options,USD,MDB 18JUN26 230 P,"2026-03-25, 10:11:14",-1,20.61,23.05,2061,-1.1485766,-2059.8514234,0,-244,O
+Trades,SubTotal,,Equity and Index Options,USD,MDB 18JUN26 230 P,,-1,,,2061,-1.1485766,-2059.8514234,0,-244,
+Trades,Data,Order,Equity and Index Options,USD,META 25MAR26 587.5 P,"2026-03-23, 13:28:46",-1,2.67,1.755,267,-0.7643516,-266.2356484,0,91.5,O
+Trades,Data,Order,Equity and Index Options,USD,META 25MAR26 587.5 P,"2026-03-23, 13:50:00",1,2.48,1.755,-248,-1.1422655,266.235648,17.093383,-72.5,C
+Trades,SubTotal,,Equity and Index Options,USD,META 25MAR26 587.5 P,,0,,,19,-1.9066171,-0.0000004,17.093383,19,
+Trades,Data,Order,Equity and Index Options,USD,META 25MAR26 667.5 P,"2026-03-23, 13:14:01",-1,64.55,63.44,6455,-0.8406516,-6454.1593484,0,111,O
+Trades,Data,Order,Equity and Index Options,USD,META 25MAR26 667.5 P,"2026-03-23, 13:23:12",1,66.67,63.44,-6667,-1.1422655,6454.159348,-213.982917,-323,C
+Trades,SubTotal,,Equity and Index Options,USD,META 25MAR26 667.5 P,,0,,,-212,-1.9829171,-0.0000004,-213.982917,-212,
+Trades,Data,Order,Equity and Index Options,USD,META 27MAR26 587.5 P,"2026-03-23, 13:28:46",-1,4.67,3.725,467,-0.7643516,-466.2356484,0,94.5,O
+Trades,Data,Order,Equity and Index Options,USD,META 27MAR26 587.5 P,"2026-03-23, 13:33:29",1,4.45,3.725,-445,-1.1422655,466.235648,20.093383,-72.5,C
+Trades,SubTotal,,Equity and Index Options,USD,META 27MAR26 587.5 P,,0,,,22,-1.9066171,-0.0000004,20.093383,22,
+Trades,Data,Order,Equity and Index Options,USD,META 17APR26 555 P,"2026-03-23, 13:28:46",-1,6.7,6.2249,670,-0.7643516,-669.2356484,0,47.51,O
+Trades,Data,Order,Equity and Index Options,USD,META 17APR26 555 P,"2026-03-26, 10:48:39",1,17.68,24.5675,-1768,-1.1449905,669.235648,-1099.909343,688.75,C
+Trades,SubTotal,,Equity and Index Options,USD,META 17APR26 555 P,,0,,,-1098,-1.9093421,-0.0000004,-1099.909343,736.26,
+Trades,Data,Order,Equity and Index Options,USD,META 01MAY26 535 P,"2026-03-26, 10:48:39",-1,20.07,25.925,2007,-1.1485766,-2005.8514234,0,-585.5,O
+Trades,Data,Order,Equity and Index Options,USD,META 01MAY26 535 P,"2026-04-14, 11:26:32",1,1.6,1.5961,-160,-1.1422655,2005.851423,1844.709158,-0.39,C
+Trades,SubTotal,,Equity and Index Options,USD,META 01MAY26 535 P,,0,,,1847,-2.2908421,-0.0000004,1844.709158,-585.89,
+Trades,Data,Order,Equity and Index Options,USD,MRK 26DEC25 89 P,"2025-11-18, 10:03:39",-1,1.2,1.0401,120,-1.1430721,-118.8569279,0,15.99,O
+Trades,Data,Order,Equity and Index Options,USD,MRK 26DEC25 89 P,"2025-11-26, 12:10:16",1,0.2,0.2165,-20,-1.140031,118.856928,97.716897,1.65,C
+Trades,SubTotal,,Equity and Index Options,USD,MRK 26DEC25 89 P,,0,,,100,-2.2831031,0.0000001,97.716897,17.64,
+Trades,Data,Order,Equity and Index Options,USD,MRK 26DEC25 101 P,"2025-11-26, 12:07:51",1,1.53,1.5688,-153,-1.142756,154.142756,0,3.88,O
+Trades,Data,Order,Equity and Index Options,USD,MRK 26DEC25 101 P,"2025-11-28, 09:48:02",-1,1.59,1.42,159,-1.1430721,-154.142756,3.714172,17,C
+Trades,Data,Order,Equity and Index Options,USD,MRK 26DEC25 101 P,"2025-11-28, 10:25:30",-1,1.57,1.42,157,-1.1430721,-155.8569279,0,15,O
+Trades,Data,Order,Equity and Index Options,USD,MRK 26DEC25 101 P,"2025-12-26, 16:20:00",1,0,0,0,0,155.856928,155.856928,0,C;Ep
+Trades,SubTotal,,Equity and Index Options,USD,MRK 26DEC25 101 P,,0,,,163,-3.4289002,0.0000001,159.5711,35.88,
+Trades,Data,Order,Equity and Index Options,USD,MRK 27FEB26 115 P,"2026-02-11, 11:00:07",-1,1.19,0.98,119,-1.1467236,-117.8532764,0,21,O
+Trades,Data,Order,Equity and Index Options,USD,MRK 27FEB26 115 P,"2026-02-27, 16:20:00",1,0,0,0,0,117.853276,117.853276,0,C;Ep
+Trades,SubTotal,,Equity and Index Options,USD,MRK 27FEB26 115 P,,0,,,119,-1.1467236,-0.0000004,117.853276,21,
+Trades,Data,Order,Equity and Index Options,USD,MRK 20MAR26 120 P,"2026-02-19, 11:31:27",-1,3.35,3.1,335,-1.1494486,-333.8505514,0,25,O
+Trades,Data,Order,Equity and Index Options,USD,MRK 20MAR26 120 P,"2026-03-16, 10:31:54",1,4.96,4.8215,-496,-1.1449905,333.850551,-163.29444,-13.85,C
+Trades,SubTotal,,Equity and Index Options,USD,MRK 20MAR26 120 P,,0,,,-161,-2.2944391,-0.0000004,-163.29444,11.15,
+Trades,Data,Order,Equity and Index Options,USD,MRK 27MAR26 117 P,"2026-03-04, 11:26:49",-1,2.31,2.1055,231,-1.1458516,-229.8541484,0,20.45,O
+Trades,Data,Order,Equity and Index Options,USD,MRK 27MAR26 117 P,"2026-03-25, 10:53:27",1,0.66,0.475,-66,-0.8697655,229.854148,162.984383,-18.5,C
+Trades,SubTotal,,Equity and Index Options,USD,MRK 27MAR26 117 P,,0,,,165,-2.0156171,-0.0000004,162.984383,1.95,
+Trades,Data,Order,Equity and Index Options,USD,MRK 17APR26 118 P,"2026-03-26, 09:56:17",-1,2.68,2.9891,268,-1.1485766,-266.8514234,0,-30.91,O
+Trades,Data,Order,Equity and Index Options,USD,MRK 17APR26 118 P,"2026-04-08, 11:12:54",1,0.99,0.5707,-99,-1.1422655,266.851423,166.709158,-41.93,C
+Trades,SubTotal,,Equity and Index Options,USD,MRK 17APR26 118 P,,0,,,169,-2.2908421,-0.0000004,166.709158,-72.84,
+Trades,Data,Order,Equity and Index Options,USD,MRK 17APR26 120 P,"2026-03-16, 10:31:54",-1,6.57,6.6275,657,-1.1485766,-655.8514234,0,-5.75,O
+Trades,Data,Order,Equity and Index Options,USD,MRK 17APR26 120 P,"2026-03-26, 09:56:17",1,3.57,3.8433,-357,-1.1449905,655.851423,297.706432,27.33,C
+Trades,SubTotal,,Equity and Index Options,USD,MRK 17APR26 120 P,,0,,,300,-2.2935671,-0.0000004,297.706432,21.58,
+Trades,Data,Order,Equity and Index Options,USD,MS 23JAN26 175 P,"2026-01-07, 10:12:35",-1,1.72,1.755,172,-1.1467236,-170.8532764,0,-3.5,O
+Trades,Data,Order,Equity and Index Options,USD,MS 23JAN26 175 P,"2026-01-23, 16:20:00",1,0,0,0,0,170.853276,170.853276,0,C;Ep
+Trades,SubTotal,,Equity and Index Options,USD,MS 23JAN26 175 P,,0,,,172,-1.1467236,-0.0000004,170.853276,-3.5,
+Trades,Data,Order,Equity and Index Options,USD,MS 24APR26 145 P,"2026-03-16, 10:58:42",-1,3.78,3.9251,378,-1.1485766,-376.8514234,0,-14.51,O
+Trades,Data,Order,Equity and Index Options,USD,MS 24APR26 145 P,"2026-04-07, 12:12:16",1,1,0.965,-100,-1.1422655,376.851423,275.709158,-3.5,C
+Trades,SubTotal,,Equity and Index Options,USD,MS 24APR26 145 P,,0,,,278,-2.2908421,-0.0000004,275.709158,-18.01,
+Trades,Data,Order,Equity and Index Options,USD,MSFT 13MAR26 390 P,"2026-02-26, 09:44:40",-1,3.79,4.3,379,-1.1494486,-377.8505514,0,-51,O
+Trades,Data,Order,Equity and Index Options,USD,MSFT 13MAR26 390 P,"2026-03-13, 16:20:00",1,0,0,0,0,377.850551,377.850551,0,C;Ep
+Trades,SubTotal,,Equity and Index Options,USD,MSFT 13MAR26 390 P,,0,,,379,-1.1494486,-0.0000004,377.850551,-51,
+Trades,Data,Order,Equity and Index Options,USD,MSFT 24APR26 370 P,"2026-03-16, 11:22:27",-1,5.03,4.575,503,-0.8733516,-502.1266484,0,45.5,O
+Trades,Data,Order,Equity and Index Options,USD,MSFT 24APR26 370 P,"2026-04-16, 09:39:38",1,0.25,0.1851,-25,-1.1422655,502.126648,475.984382,-6.49,C
+Trades,SubTotal,,Equity and Index Options,USD,MSFT 24APR26 370 P,,0,,,478,-2.0156171,-0.0000004,475.984382,39.01,
+Trades,Data,Order,Equity and Index Options,USD,MU 06MAR26 357.5 P,"2026-03-04, 09:44:04",-1,2.63,1.08,263,-1.1458516,-261.8541484,0,155,O
+Trades,Data,Order,Equity and Index Options,USD,MU 06MAR26 357.5 P,"2026-03-06, 16:20:00",1,0,0,0,0,261.854148,261.854148,0,C;Ep
+Trades,SubTotal,,Equity and Index Options,USD,MU 06MAR26 357.5 P,,0,,,263,-1.1458516,-0.0000004,261.854148,155,
+Trades,Data,Order,Equity and Index Options,USD,MU 10APR26 390 P,"2026-04-08, 11:46:01",-1,4.34,3.45,434,-1.15559664,-432.84440336,0,89,O
+Trades,Data,Order,Equity and Index Options,USD,MU 10APR26 390 P,"2026-04-10, 16:20:00",1,0,0,0,0,432.844403,432.844403,0,C;Ep
+Trades,SubTotal,,Equity and Index Options,USD,MU 10APR26 390 P,,0,,,434,-1.15559664,-0.00000036,432.844403,89,
+Trades,Data,Order,Equity and Index Options,USD,MU 17APR26 397.5 P,"2026-04-13, 11:00:40",-1,6.39,3.631,639,-0.88769971,-638.11230029,0,275.9,O
+Trades,Data,Order,Equity and Index Options,USD,MU 17APR26 397.5 P,"2026-04-16, 09:48:58",1,0.19,0.0759,-19,-1.1422655,638.1123,617.970034,-11.41,C
+Trades,SubTotal,,Equity and Index Options,USD,MU 17APR26 397.5 P,,0,,,620,-2.02996521,-0.00000029,617.970034,264.49,
+Trades,Data,Order,Equity and Index Options,USD,MU 24APR26 430 P,"2026-04-16, 10:50:49",-1,8.88,8.1706,888,-1.16579075,-886.83420925,0,70.94,O
+Trades,SubTotal,,Equity and Index Options,USD,MU 24APR26 430 P,,-1,,,888,-1.16579075,-886.83420925,0,70.94,
+Trades,Data,Order,Equity and Index Options,USD,NOW 30JAN26 141 P,"2026-01-05, 10:02:37",-1,3.22,3.7959,322,-1.1467236,-320.8532764,0,-57.59,O
+Trades,Data,Order,Equity and Index Options,USD,NOW 30JAN26 141 P,"2026-01-29, 16:20:00",1,0,24.27,0,0,320.853276,0,2427,A;C
+Trades,SubTotal,,Equity and Index Options,USD,NOW 30JAN26 141 P,,0,,,322,-1.1467236,-0.0000004,0,2369.41,
+Trades,Data,Order,Equity and Index Options,USD,NOW 13FEB26 98 P,"2026-02-11, 10:35:35",-1,1.45,0.9509,145,-2.0732236,-142.9267764,0,49.91,O
+Trades,Data,Order,Equity and Index Options,USD,NOW 13FEB26 98 P,"2026-02-13, 16:20:00",1,0,0,0,0,142.926776,142.926776,0,C;Ep
+Trades,SubTotal,,Equity and Index Options,USD,NOW 13FEB26 98 P,,0,,,145,-2.0732236,-0.0000004,142.926776,49.91,
+Trades,Data,Order,Equity and Index Options,USD,NOW 13FEB26 100 P,"2026-02-04, 09:40:23",-1,1.47,0.8498,147,-1.1467236,-145.8532764,0,62.02,O
+Trades,Data,Order,Equity and Index Options,USD,NOW 13FEB26 100 P,"2026-02-13, 16:20:00",1,0,0,0,0,145.853276,145.853276,0,C;Ep
+Trades,SubTotal,,Equity and Index Options,USD,NOW 13FEB26 100 P,,0,,,147,-1.1467236,-0.0000004,145.853276,62.02,
+Trades,Data,Order,Equity and Index Options,USD,NOW 27FEB26 135 C,"2026-01-30, 09:53:08",-1,0.9,0.9,90,-1.1467236,-88.8532764,0,0,O
+Trades,Data,Order,Equity and Index Options,USD,NOW 27FEB26 135 C,"2026-02-27, 16:20:00",1,0,0,0,0,88.853276,88.853276,0,C;Ep
+Trades,SubTotal,,Equity and Index Options,USD,NOW 27FEB26 135 C,,0,,,90,-1.1467236,-0.0000004,88.853276,0,
+Trades,Data,Order,Equity and Index Options,USD,NOW 20MAR26 125 C,"2026-03-03, 11:33:16",-1,1.21,1.3044,121,-1.1458516,-119.8541484,0,-9.44,O
+Trades,Data,Order,Equity and Index Options,USD,NOW 20MAR26 125 C,"2026-03-19, 11:07:31",1,0.08,0.0025,-8,-1.1422655,119.854148,110.711883,-7.75,C
+Trades,SubTotal,,Equity and Index Options,USD,NOW 20MAR26 125 C,,0,,,113,-2.2881171,-0.0000004,110.711883,-17.19,
+Trades,Data,Order,Equity and Index Options,USD,NOW 02APR26 122 C,"2026-03-19, 11:38:29",-1,1.4,1.3912,140,-0.0558516,-139.9441484,0,0.88,O
+Trades,Data,Order,Equity and Index Options,USD,NOW 02APR26 122 C,"2026-03-19, 11:46:55",-1,1.4,1.3912,140,-0.0558516,-139.9441484,0,0.88,O
+Trades,Data,Order,Equity and Index Options,USD,NOW 02APR26 122 C,"2026-03-25, 11:00:31",2,0.12,0.1135,-24,-1.521531,279.888296,254.366766,-1.3,C;P
+Trades,SubTotal,,Equity and Index Options,USD,NOW 02APR26 122 C,,0,,,256,-1.6332342,-0.0000008,254.366766,0.46,
+Trades,Data,Order,Equity and Index Options,USD,NOW 17APR26 99 P,"2026-03-26, 09:55:06",-1,2.98,3.0311,298,-0.2738516,-297.7261484,0,-5.11,O
+Trades,Data,Order,Equity and Index Options,USD,NOW 17APR26 99 P,"2026-04-14, 10:55:48",1,9.07,11.2472,-907,-0.2702655,297.726148,-609.544117,217.72,C
+Trades,SubTotal,,Equity and Index Options,USD,NOW 17APR26 99 P,,0,,,-609,-0.5441171,-0.0000004,-609.544117,212.61,
+Trades,Data,Order,Equity and Index Options,USD,NOW 17APR26 105 P,"2026-03-17, 11:49:13",-1,1.98,2.125,198,-1.1458516,-196.8541484,0,-14.5,O
+Trades,Data,Order,Equity and Index Options,USD,NOW 17APR26 105 P,"2026-03-26, 09:55:06",1,5.15,5.5002,-515,-0.2702655,196.854148,-318.416117,35.02,C
+Trades,SubTotal,,Equity and Index Options,USD,NOW 17APR26 105 P,,0,,,-317,-1.4161171,-0.0000004,-318.416117,20.52,
+Trades,Data,Order,Equity and Index Options,USD,NOW 18JUN26 124 C,"2026-03-25, 11:31:28",-1,3.75,3.8914,375,-0.0013516,-374.9986484,0,-14.14,O
+Trades,SubTotal,,Equity and Index Options,USD,NOW 18JUN26 124 C,,-1,,,375,-0.0013516,-374.9986484,0,-14.14,
+Trades,Data,Order,Equity and Index Options,USD,NOW 18JUN26 88 P,"2026-04-14, 10:55:48",-1,7.76,8.85,776,-0.2912759,-775.7087241,0,-109,O
+Trades,SubTotal,,Equity and Index Options,USD,NOW 18JUN26 88 P,,-1,,,776,-0.2912759,-775.7087241,0,-109,
+Trades,Data,Order,Equity and Index Options,USD,NVDA 02JAN26 160 P,"2025-12-17, 10:58:52",1,1.56,1.67,-156,-1.108094,157.108094,0,11,O
+Trades,Data,Order,Equity and Index Options,USD,NVDA 02JAN26 160 P,"2026-01-02, 16:20:00",-1,0,0,0,0,-157.108094,-157.108094,0,C;Ep
+Trades,SubTotal,,Equity and Index Options,USD,NVDA 02JAN26 160 P,,0,,,-156,-1.108094,0,-157.108094,11,
+Trades,Data,Order,Equity and Index Options,USD,NVDA 02JAN26 170 P,"2025-12-10, 09:52:18",-1,2.07,2.035,207,-1.1084101,-205.8915899,0,3.5,O
+Trades,Data,Order,Equity and Index Options,USD,NVDA 02JAN26 170 P,"2026-01-02, 16:20:00",1,0,0,0,0,205.89159,205.89159,0,C;Ep
+Trades,SubTotal,,Equity and Index Options,USD,NVDA 02JAN26 170 P,,0,,,207,-1.1084101,0.0000001,205.89159,3.5,
+Trades,Data,Order,Equity and Index Options,USD,NVDA 30JAN26 175 P,"2026-01-05, 10:31:40",-1,2.37,2.75,237,-1.1494486,-235.8505514,0,-38,O
+Trades,Data,Order,Equity and Index Options,USD,NVDA 30JAN26 175 P,"2026-01-30, 16:20:00",1,0,0,0,0,235.850551,235.850551,0,C;Ep
+Trades,SubTotal,,Equity and Index Options,USD,NVDA 30JAN26 175 P,,0,,,237,-1.1494486,-0.0000004,235.850551,-38,
+Trades,Data,Order,Equity and Index Options,USD,NVDA 06FEB26 175 P,"2026-01-05, 10:31:40",-1,3.12,3.575,312,-1.1494486,-310.8505514,0,-45.5,O
+Trades,Data,Order,Equity and Index Options,USD,NVDA 06FEB26 175 P,"2026-01-05, 12:45:27",1,3.73,3.575,-373,-1.1431375,310.850551,-63.292586,-15.5,C
+Trades,SubTotal,,Equity and Index Options,USD,NVDA 06FEB26 175 P,,0,,,-61,-2.2925861,-0.0000004,-63.292586,-61,
+Trades,Data,Order,Equity and Index Options,USD,NVDA 06FEB26 177.5 P,"2026-01-27, 11:10:57",-1,1.51,1.55,151,-0.6889236,-150.3110764,0,-4,O
+Trades,Data,Order,Equity and Index Options,USD,NVDA 06FEB26 177.5 P,"2026-02-05, 10:43:10",1,5.36,6.0426,-536,-1.1458625,150.311076,-386.834787,68.26,C
+Trades,SubTotal,,Equity and Index Options,USD,NVDA 06FEB26 177.5 P,,0,,,-385,-1.8347861,-0.0000004,-386.834787,64.26,
+Trades,Data,Order,Equity and Index Options,USD,NVDA 13FEB26 177.5 P,"2026-02-05, 10:43:10",-1,7.57,8.293,757,-1.1494486,-755.8505514,0,-72.3,O
+Trades,Data,Order,Equity and Index Options,USD,NVDA 13FEB26 177.5 P,"2026-02-13, 16:20:00",1,0,0,0,0,755.850551,755.850551,0,C;Ep
+Trades,SubTotal,,Equity and Index Options,USD,NVDA 13FEB26 177.5 P,,0,,,757,-1.1494486,-0.0000004,755.850551,-72.3,
+Trades,Data,Order,Equity and Index Options,USD,NVDA 20FEB26 177.5 P,"2026-01-30, 10:36:20",-1,2.35,2.52,235,-1.1467236,-233.8532764,0,-17,O
+Trades,Data,Order,Equity and Index Options,USD,NVDA 20FEB26 177.5 P,"2026-02-20, 16:20:00",1,0,0,0,0,233.853276,233.853276,0,C;Ep
+Trades,SubTotal,,Equity and Index Options,USD,NVDA 20FEB26 177.5 P,,0,,,235,-1.1467236,-0.0000004,233.853276,-17,
+Trades,Data,Order,Equity and Index Options,USD,NVDA 27FEB26 182.5 P,"2026-02-23, 10:11:09",-1,2.49,2.655,249,-0.6235236,-248.3764764,0,-16.5,O
+Trades,Data,Order,Equity and Index Options,USD,NVDA 27FEB26 182.5 P,"2026-02-27, 10:22:56",1,1.92,5.31,-192,-1.1458625,248.376476,55.230613,339,C
+Trades,SubTotal,,Equity and Index Options,USD,NVDA 27FEB26 182.5 P,,0,,,57,-1.7693861,-0.0000004,55.230613,322.5,
+Trades,Data,Order,Equity and Index Options,USD,NVDA 04MAR26 180 P,"2026-02-27, 10:22:56",-1,3.05,5.2495,305,-1.1494486,-303.8505514,0,-219.95,O
+Trades,Data,Order,Equity and Index Options,USD,NVDA 04MAR26 180 P,"2026-02-27, 11:15:19",1,2.74,5.2495,-274,-1.1431375,303.850551,28.707414,250.95,C
+Trades,SubTotal,,Equity and Index Options,USD,NVDA 04MAR26 180 P,,0,,,31,-2.2925861,-0.0000004,28.707414,31,
+Trades,Data,Order,Equity and Index Options,USD,NVDA 20MAR26 165 P,"2026-03-02, 09:53:35",-1,3.04,2.3,304,-1.1485766,-302.8514234,0,74,O
+Trades,Data,Order,Equity and Index Options,USD,NVDA 20MAR26 165 P,"2026-03-19, 09:38:34",1,0.13,0.045,-13,-1.5673655,302.851423,288.284058,-8.5,C
+Trades,SubTotal,,Equity and Index Options,USD,NVDA 20MAR26 165 P,,0,,,291,-2.7159421,-0.0000004,288.284058,65.5,
+Trades,Data,Order,Equity and Index Options,USD,ON 21NOV25 46 P,"2025-11-12, 09:53:06",-1,0.52,0.53,52,-1.1457971,-50.8542029,0,-1,O
+Trades,Data,Order,Equity and Index Options,USD,ON 21NOV25 46 P,"2025-11-21, 09:34:30",1,1.09,0,-109,-1.142756,50.854203,-59.288553,-109,C
+Trades,SubTotal,,Equity and Index Options,USD,ON 21NOV25 46 P,,0,,,-57,-2.2885531,0.0000001,-59.288553,-110,
+Trades,Data,Order,Equity and Index Options,USD,ON 02JAN26 44 P,"2025-11-21, 09:34:30",-1,2.55,1.9879,255,-1.1457971,-253.8542029,0,56.21,O
+Trades,Data,Order,Equity and Index Options,USD,ON 02JAN26 44 P,"2025-12-15, 10:20:20",1,0.07,0.0088,-7,-1.105369,253.854203,245.748834,-6.12,C
+Trades,SubTotal,,Equity and Index Options,USD,ON 02JAN26 44 P,,0,,,248,-2.2511661,0.0000001,245.748834,50.09,
+Trades,Data,Order,Equity and Index Options,USD,ON 09JAN26 50 P,"2025-12-18, 12:40:43",-1,0.72,0.7292,72,-1.1084101,-70.8915899,0,-0.92,O
+Trades,Data,Order,Equity and Index Options,USD,ON 09JAN26 50 P,"2026-01-09, 16:20:00",1,0,0,0,0,70.89159,70.89159,0,C;Ep
+Trades,SubTotal,,Equity and Index Options,USD,ON 09JAN26 50 P,,0,,,72,-1.1084101,0.0000001,70.89159,-0.92,
+Trades,Data,Order,Equity and Index Options,USD,ON 30JAN26 56 P,"2026-01-07, 13:56:45",-1,1.02,0.8203,102,-1.1467236,-100.8532764,0,19.97,O
+Trades,Data,Order,Equity and Index Options,USD,ON 30JAN26 56 P,"2026-01-30, 16:20:00",1,0,0,0,0,100.853276,100.853276,0,C;Ep
+Trades,SubTotal,,Equity and Index Options,USD,ON 30JAN26 56 P,,0,,,102,-1.1467236,-0.0000004,100.853276,19.97,
+Trades,Data,Order,Equity and Index Options,USD,ORCL 20FEB26 149 P,"2026-02-10, 10:06:23",-1,2.14,2.3453,214,-1.1467236,-212.8532764,0,-20.53,O
+Trades,Data,Order,Equity and Index Options,USD,ORCL 20FEB26 149 P,"2026-02-20, 16:20:00",1,0,0.92,0,0,212.853276,0,92,A;C
+Trades,SubTotal,,Equity and Index Options,USD,ORCL 20FEB26 149 P,,0,,,214,-1.1467236,-0.0000004,0,71.47,
+Trades,Data,Order,Equity and Index Options,USD,ORCL 27FEB26 150 C,"2026-02-23, 09:47:35",-1,1.75,1.4628,175,-1.1494486,-173.8505514,0,28.72,O
+Trades,Data,Order,Equity and Index Options,USD,ORCL 27FEB26 150 C,"2026-02-27, 16:20:00",1,0,0,0,0,173.850551,173.850551,0,C;Ep
+Trades,SubTotal,,Equity and Index Options,USD,ORCL 27FEB26 150 C,,0,,,175,-1.1494486,-0.0000004,173.850551,28.72,
+Trades,Data,Order,Equity and Index Options,USD,ORCL 06MAR26 147 C,"2026-03-03, 10:09:36",-1,3.15,4.9143,315,-1.1485766,-313.8514234,0,-176.43,O
+Trades,Data,Order,Equity and Index Options,USD,ORCL 06MAR26 147 C,"2026-03-06, 16:20:00",1,0,5.96,0,0,313.851423,0,596,A;C
+Trades,SubTotal,,Equity and Index Options,USD,ORCL 06MAR26 147 C,,0,,,315,-1.1485766,-0.0000004,0,419.57,
+Trades,Data,Order,Equity and Index Options,USD,ORCL 06MAR26 147 P,"2026-02-19, 11:52:42",-1,3.61,3.8696,361,-1.1467236,-359.8532764,0,-25.96,O
+Trades,Data,Order,Equity and Index Options,USD,ORCL 06MAR26 147 P,"2026-03-03, 09:56:26",1,5.73,2.805,-573,-1.1422655,359.853276,-214.28899,-292.5,C
+Trades,SubTotal,,Equity and Index Options,USD,ORCL 06MAR26 147 P,,0,,,-212,-2.2889891,-0.0000004,-214.28899,-318.46,
+Trades,Data,Order,Equity and Index Options,USD,ORCL 20MAR26 137 P,"2026-03-03, 09:56:26",-1,7.85,5.8449,785,-1.1458516,-783.8541484,0,200.51,O
+Trades,Data,Order,Equity and Index Options,USD,ORCL 20MAR26 137 P,"2026-03-19, 09:47:15",1,0.1,0.04,-10,-1.1422655,783.854148,772.711883,-6,C
+Trades,SubTotal,,Equity and Index Options,USD,ORCL 20MAR26 137 P,,0,,,775,-2.2881171,-0.0000004,772.711883,194.51,
+Trades,Data,Order,Equity and Index Options,USD,PANW 06MAR26 149 P,"2026-02-20, 10:03:00",-1,2.07,4.9074,207,-1.1467236,-205.8532764,0,-283.74,O
+Trades,Data,Order,Equity and Index Options,USD,PANW 06MAR26 149 P,"2026-03-06, 16:20:00",1,0,0,0,0,205.853276,205.853276,0,C;Ep
+Trades,SubTotal,,Equity and Index Options,USD,PANW 06MAR26 149 P,,0,,,207,-1.1467236,-0.0000004,205.853276,-283.74,
+Trades,Data,Order,Equity and Index Options,USD,PANW 15MAY26 150 P,"2026-04-16, 12:52:38",-1,2.47,2.475,247,-1.15139774,-245.84860226,0,-0.5,O
+Trades,SubTotal,,Equity and Index Options,USD,PANW 15MAY26 150 P,,-1,,,247,-1.15139774,-245.84860226,0,-0.5,
+Trades,Data,Order,Equity and Index Options,USD,PLTR 12DEC25 180 P,"2025-12-10, 12:00:44",-1,0.91,0.51,91,-1.1084101,-89.8915899,0,40,O
+Trades,Data,Order,Equity and Index Options,USD,PLTR 12DEC25 180 P,"2025-12-12, 11:50:03",-1,1.99,0,199,-1.1084101,-197.8915899,0,199,O
+Trades,Data,Order,Equity and Index Options,USD,PLTR 12DEC25 180 P,"2025-12-12, 16:20:00",2,0,0,0,0,287.78318,287.78318,0,C;Ep
+Trades,SubTotal,,Equity and Index Options,USD,PLTR 12DEC25 180 P,,0,,,290,-2.2168202,0.0000002,287.78318,239,
+Trades,Data,Order,Equity and Index Options,USD,PLTR 09JAN26 185 P,"2025-12-24, 10:13:37",-1,2.84,2.75,284,-1.1084101,-282.8915899,0,9,O
+Trades,Data,Order,Equity and Index Options,USD,PLTR 09JAN26 185 P,"2025-12-31, 10:59:05",1,7.05,8.5266,-705,-0.723869,282.89159,-422.832279,147.66,C
+Trades,SubTotal,,Equity and Index Options,USD,PLTR 09JAN26 185 P,,0,,,-421,-1.8322791,0.0000001,-422.832279,156.66,
+Trades,Data,Order,Equity and Index Options,USD,PLTR 30JAN26 180 P,"2025-12-31, 10:59:05",-1,8.3,9.3508,830,-0.7269101,-829.2730899,0,-105.08,O
+Trades,Data,Order,Equity and Index Options,USD,PLTR 30JAN26 180 P,"2026-01-29, 16:20:00",1,0,28.14,0,0,829.27309,0,2814,A;C
+Trades,SubTotal,,Equity and Index Options,USD,PLTR 30JAN26 180 P,,0,,,830,-0.7269101,0.0000001,0,2708.92,
+Trades,Data,Order,Equity and Index Options,USD,PLTR 06MAR26 185 C,"2026-01-30, 09:46:20",-1,2.01,1.6949,201,-1.1467236,-199.8532764,0,31.51,O
+Trades,Data,Order,Equity and Index Options,USD,PLTR 06MAR26 185 C,"2026-03-06, 16:20:00",1,0,0,0,0,199.853276,199.853276,0,C;Ep
+Trades,SubTotal,,Equity and Index Options,USD,PLTR 06MAR26 185 C,,0,,,201,-1.1467236,-0.0000004,199.853276,31.51,
+Trades,Data,Order,Equity and Index Options,USD,PLTR 20MAR26 147 P,"2026-03-09, 11:58:29",-1,3.33,2.685,333,-1.1458516,-331.8541484,0,64.5,O
+Trades,Data,Order,Equity and Index Options,USD,PLTR 20MAR26 147 P,"2026-03-20, 16:20:00",1,0,0,0,0,331.854148,331.854148,0,C;Ep
+Trades,SubTotal,,Equity and Index Options,USD,PLTR 20MAR26 147 P,,0,,,333,-1.1458516,-0.0000004,331.854148,64.5,
+Trades,Data,Order,Equity and Index Options,USD,PLTR 17APR26 170 C,"2026-03-12, 10:27:18",-1,4.25,4.05,425,-0.7643516,-424.2356484,0,20,O
+Trades,Data,Order,Equity and Index Options,USD,PLTR 17APR26 170 C,"2026-03-31, 10:09:20",1,0.3,0.49,-30,-0.8370655,424.235648,393.398583,19,C
+Trades,SubTotal,,Equity and Index Options,USD,PLTR 17APR26 170 C,,0,,,395,-1.6014171,-0.0000004,393.398583,39,
+Trades,Data,Order,Equity and Index Options,USD,PLTR 24APR26 155 C,"2026-03-31, 10:23:29",-1,2.88,3.85,288,-0.8406516,-287.1593484,0,-97,O
+Trades,SubTotal,,Equity and Index Options,USD,PLTR 24APR26 155 C,,-1,,,288,-0.8406516,-287.1593484,0,-97,
+Trades,Data,Order,Equity and Index Options,USD,QCOM 06FEB26 165 P,"2026-01-05, 10:20:28",-1,3.12,3.425,312,-1.1467236,-310.8532764,0,-30.5,O
+Trades,Data,Order,Equity and Index Options,USD,QCOM 06FEB26 165 P,"2026-02-05, 16:20:00",1,0,28.7857,0,0,310.853276,0,2878.57,A;C
+Trades,SubTotal,,Equity and Index Options,USD,QCOM 06FEB26 165 P,,0,,,312,-1.1467236,-0.0000004,0,2848.07,
+Trades,Data,Order,Equity and Index Options,USD,QCOM 13MAR26 160 C,"2026-02-06, 10:38:50",-1,0.49,0.575,49,-1.1494486,-47.8505514,0,-8.5,O
+Trades,Data,Order,Equity and Index Options,USD,QCOM 13MAR26 160 C,"2026-02-09, 09:50:45",1,0.47,0.515,-47,-0.8706375,47.850551,-0.020086,4.5,C
+Trades,SubTotal,,Equity and Index Options,USD,QCOM 13MAR26 160 C,,0,,,2,-2.0200861,-0.0000004,-0.020086,-4,
+Trades,Data,Order,Equity and Index Options,USD,QCOM 20MAR26 165 C,"2026-02-06, 10:38:50",-1,0.52,0.53,52,-1.1494486,-50.8505514,0,-1,O
+Trades,Data,Order,Equity and Index Options,USD,QCOM 20MAR26 165 C,"2026-02-09, 09:49:25",1,0.5,0.545,-50,-1.1431375,50.850551,-0.292586,4.5,C
+Trades,SubTotal,,Equity and Index Options,USD,QCOM 20MAR26 165 C,,0,,,2,-2.2925861,-0.0000004,-0.292586,3.5,
+Trades,Data,Order,Equity and Index Options,USD,QCOM 27MAR26 165 C,"2026-02-06, 10:38:50",-1,0.87,0.6531,87,-1.1494486,-85.8505514,0,21.69,O
+Trades,Data,Order,Equity and Index Options,USD,QCOM 27MAR26 165 C,"2026-03-19, 09:43:54",1,0.03,0.0001,-3,-1.1449905,85.850551,81.70556,-2.99,C
+Trades,SubTotal,,Equity and Index Options,USD,QCOM 27MAR26 165 C,,0,,,84,-2.2944391,-0.0000004,81.70556,18.7,
+Trades,Data,Order,Equity and Index Options,USD,QCOM 17APR26 140 C,"2026-03-19, 11:56:17",-1,1.99,1.93,199,-0.8733516,-198.1266484,0,6,O
+Trades,Data,Order,Equity and Index Options,USD,QCOM 17APR26 140 C,"2026-04-07, 11:52:59",1,0.07,0.0785,-7,-0.8697655,198.126648,190.256882,0.85,C
+Trades,SubTotal,,Equity and Index Options,USD,QCOM 17APR26 140 C,,0,,,192,-1.7431171,-0.0000004,190.256882,6.85,
+Trades,Data,Order,Equity and Index Options,USD,QCOM 01MAY26 131 C,"2026-04-08, 09:52:24",-1,4.1,4.3135,410,-0.88255774,-409.11744226,0,-21.35,O
+Trades,SubTotal,,Equity and Index Options,USD,QCOM 01MAY26 131 C,,-1,,,410,-0.88255774,-409.11744226,0,-21.35,
+Trades,Data,Order,Equity and Index Options,USD,SMCI 21NOV25 35 P,"2025-11-11, 10:04:57",-1,0.52,0.55,52,-1.1430721,-50.8569279,0,-3,O
+Trades,Data,Order,Equity and Index Options,USD,SMCI 21NOV25 35 P,"2025-11-20, 10:21:12",1,0.92,3.4746,-92,-1.142756,50.856928,-42.285828,255.46,C
+Trades,SubTotal,,Equity and Index Options,USD,SMCI 21NOV25 35 P,,0,,,-40,-2.2858281,0.0000001,-42.285828,252.46,
+Trades,Data,Order,Equity and Index Options,USD,SMCI 12DEC25 33 P,"2025-11-20, 10:21:12",-1,1.59,3.2042,159,-1.1457971,-157.8542029,0,-161.42,O
+Trades,Data,Order,Equity and Index Options,USD,SMCI 12DEC25 33 P,"2025-12-12, 12:49:56",1,0.13,0.67,-13,-1.105369,157.854203,143.748834,54,C
+Trades,SubTotal,,Equity and Index Options,USD,SMCI 12DEC25 33 P,,0,,,146,-2.2511661,0.0000001,143.748834,-107.42,
+Trades,Data,Order,Equity and Index Options,USD,SNPS 17APR26 400 P,"2026-03-18, 11:02:12",-1,9.55,10.9,955,-0.2738516,-954.7261484,0,-135,O
+Trades,Data,Order,Equity and Index Options,USD,SNPS 17APR26 400 P,"2026-04-15, 11:40:44",1,0.83,0.5508,-83,-0.2702655,954.726148,871.455882,-27.92,C
+Trades,SubTotal,,Equity and Index Options,USD,SNPS 17APR26 400 P,,0,,,872,-0.5441171,-0.0000004,871.455882,-162.92,
+Trades,Data,Order,Equity and Index Options,USD,TSLA 30JAN26 417.5 P,"2026-01-27, 10:46:16",-1,5.35,6.85,535,-0.7652236,-534.2347764,0,-150,O
+Trades,Data,Order,Equity and Index Options,USD,TSLA 30JAN26 417.5 P,"2026-01-30, 16:20:00",1,0,0,0,0,534.234776,534.234776,0,C;Ep
+Trades,SubTotal,,Equity and Index Options,USD,TSLA 30JAN26 417.5 P,,0,,,535,-0.7652236,-0.0000004,534.234776,-150,
+Trades,Data,Order,Equity and Index Options,USD,TSLA 06FEB26 407.5 P,"2026-02-02, 10:47:35",-1,3.24,2.96,324,-1.1467236,-322.8532764,0,28,O
+Trades,Data,Order,Equity and Index Options,USD,TSLA 06FEB26 407.5 P,"2026-02-05, 10:26:51",1,19.07,11.7764,-1907,-1.1458625,322.853276,-1585.292586,-729.36,C
+Trades,SubTotal,,Equity and Index Options,USD,TSLA 06FEB26 407.5 P,,0,,,-1583,-2.2925861,-0.0000004,-1585.292586,-701.36,
+Trades,Data,Order,Equity and Index Options,USD,TSLA 13FEB26 407.5 P,"2026-02-05, 10:26:51",-1,23.27,17.6606,2327,-1.1494486,-2325.8505514,0,560.94,O
+Trades,Data,Order,Equity and Index Options,USD,TSLA 13FEB26 407.5 P,"2026-02-13, 16:20:00",1,0,0,0,0,2325.850551,2325.850551,0,C;Ep
+Trades,SubTotal,,Equity and Index Options,USD,TSLA 13FEB26 407.5 P,,0,,,2327,-1.1494486,-0.0000004,2325.850551,560.94,
+Trades,Data,Order,Equity and Index Options,USD,TSLA 18FEB26 397.5 P,"2026-02-13, 10:22:30",-1,2.19,1.3,219,-1.1467236,-217.8532764,0,89,O
+Trades,Data,Order,Equity and Index Options,USD,TSLA 18FEB26 397.5 P,"2026-02-17, 10:41:55",1,4.15,0.805,-415,-1.1458625,217.853276,-198.292586,-334.5,C
+Trades,SubTotal,,Equity and Index Options,USD,TSLA 18FEB26 397.5 P,,0,,,-196,-2.2925861,-0.0000004,-198.292586,-245.5,
+Trades,Data,Order,Equity and Index Options,USD,TSLA 25FEB26 397.5 P,"2026-02-17, 10:41:55",-1,9.74,5.525,974,-1.1494486,-972.8505514,0,421.5,O
+Trades,Data,Order,Equity and Index Options,USD,TSLA 25FEB26 397.5 P,"2026-02-25, 16:20:00",1,0,0,0,0,972.850551,972.850551,0,C;Ep
+Trades,SubTotal,,Equity and Index Options,USD,TSLA 25FEB26 397.5 P,,0,,,974,-1.1494486,-0.0000004,972.850551,421.5,
+Trades,Data,Order,Equity and Index Options,USD,TSLA 04MAR26 392.5 P,"2026-02-24, 11:03:56",-1,4.85,3.7,485,-1.1467236,-483.8532764,0,115,O
+Trades,Data,Order,Equity and Index Options,USD,TSLA 04MAR26 392.5 P,"2026-03-03, 09:36:46",1,4.77,4.0288,-477,-1.1422655,483.853276,5.71101,-74.12,C
+Trades,SubTotal,,Equity and Index Options,USD,TSLA 04MAR26 392.5 P,,0,,,8,-2.2889891,-0.0000004,5.71101,40.88,
+Trades,Data,Order,Equity and Index Options,USD,TSLA 13MAR26 377.5 P,"2026-03-02, 10:04:22",-1,5.45,3.65,545,-1.1458516,-543.8541484,0,180,O
+Trades,Data,Order,Equity and Index Options,USD,TSLA 13MAR26 377.5 P,"2026-03-13, 16:20:00",1,0,0,0,0,543.854148,543.854148,0,C;Ep
+Trades,SubTotal,,Equity and Index Options,USD,TSLA 13MAR26 377.5 P,,0,,,545,-1.1458516,-0.0000004,543.854148,180,
+Trades,Data,Order,Equity and Index Options,USD,TSLA 27MAR26 370 P,"2026-03-03, 09:36:46",-1,9.14,9.05,914,-1.1458516,-912.8541484,0,9,O
+Trades,Data,Order,Equity and Index Options,USD,TSLA 27MAR26 370 P,"2026-03-24, 09:45:44",1,2.71,2.22,-271,-1.1422655,912.854148,640.711883,-49,C
+Trades,SubTotal,,Equity and Index Options,USD,TSLA 27MAR26 370 P,,0,,,643,-2.2881171,-0.0000004,640.711883,-40,
+Trades,Data,Order,Equity and Index Options,USD,TSLA 01MAY26 340 P,"2026-03-24, 11:30:31",-1,7.58,7.8,758,-1.1458516,-756.8541484,0,-22,O
+Trades,SubTotal,,Equity and Index Options,USD,TSLA 01MAY26 340 P,,-1,,,758,-1.1458516,-756.8541484,0,-22,
+Trades,Data,Order,Equity and Index Options,USD,WDAY 02APR26 135 P,"2026-03-04, 11:09:21",-1,4.21,3.9,421,-1.1485766,-419.8514234,0,31,O
+Trades,Data,Order,Equity and Index Options,USD,WDAY 02APR26 135 P,"2026-03-25, 12:11:27",1,8.79,8.8939,-879,-0.2702655,419.851423,-459.418842,10.39,C
+Trades,SubTotal,,Equity and Index Options,USD,WDAY 02APR26 135 P,,0,,,-458,-1.4188421,-0.0000004,-459.418842,41.39,
+Trades,Data,Order,Equity and Index Options,USD,WDAY 18JUN26 115 P,"2026-03-25, 11:40:19",-1,8.1,8.3,810,-0.0558516,-809.9441484,0,-20,O
+Trades,SubTotal,,Equity and Index Options,USD,WDAY 18JUN26 115 P,,-1,,,810,-0.0558516,-809.9441484,0,-20,
+Trades,Data,Order,Equity and Index Options,USD,WDAY 18SEP26 120 P,"2026-03-25, 12:11:27",-1,15.21,15.15,1521,-0.2738516,-1520.7261484,0,6,O
+Trades,SubTotal,,Equity and Index Options,USD,WDAY 18SEP26 120 P,,-1,,,1521,-0.2738516,-1520.7261484,0,6,
+Trades,Data,Order,Equity and Index Options,USD,XOM 27MAR26 147 P,"2026-03-09, 10:15:51",-1,2.8,2.9096,280,-0.8733516,-279.1266484,0,-10.96,O
+Trades,Data,Order,Equity and Index Options,USD,XOM 27MAR26 147 P,"2026-03-24, 11:33:30",1,0.03,0.0266,-3,-0.6190655,279.126648,275.507583,-0.34,C
+Trades,SubTotal,,Equity and Index Options,USD,XOM 27MAR26 147 P,,0,,,277,-1.4924171,-0.0000004,275.507583,-11.3,
+Trades,Data,Order,Equity and Index Options,USD,ZS 20MAR26 145 P,"2026-03-04, 12:09:54",-1,3.18,3.2286,318,-1.1458516,-316.8541484,0,-4.86,O
+Trades,Data,Order,Equity and Index Options,USD,ZS 20MAR26 145 P,"2026-03-19, 09:40:29",1,0.12,0.1436,-12,-1.1449905,316.854148,303.709158,2.36,C
+Trades,SubTotal,,Equity and Index Options,USD,ZS 20MAR26 145 P,,0,,,306,-2.2908421,-0.0000004,303.709158,-2.5,
+Trades,Data,Order,Equity and Index Options,USD,ZS 17APR26 140 P,"2026-03-19, 13:56:02",-1,3.7,3.6,370,-1.1485766,-368.8514234,0,10,O
+Trades,Data,Order,Equity and Index Options,USD,ZS 17APR26 140 P,"2026-04-17, 12:12:14",1,5.41,5.32,-541,-1.1449905,368.851423,-173.293567,-9,C
+Trades,SubTotal,,Equity and Index Options,USD,ZS 17APR26 140 P,,0,,,-171,-2.2935671,-0.0000004,-173.293567,1,
+Trades,Data,Order,Equity and Index Options,USD,ZS 29MAY26 131 P,"2026-04-17, 12:12:14",-1,10.73,10.9073,1073,-1.17266974,-1071.82733026,0,-17.73,O
+Trades,SubTotal,,Equity and Index Options,USD,ZS 29MAY26 131 P,,-1,,,1073,-1.17266974,-1071.82733026,0,-17.73,
+Trades,Total,,Equity and Index Options,USD,,,,,,31047,-198.72977381,-15316.31856439,13100.563505,9897.01, 
+Trades,Header,DataDiscriminator,Asset Category,Currency,Symbol,Date/Time,Quantity,T. Price,,Proceeds,Comm in USD,,,MTM in USD,Code
+Trades,Data,Order,Forex,SGD,USD.SGD,"2025-11-10, 22:54:59","7,675.83",1.30305,,-10001.9902815,-2,,,-11.89977,
+Trades,Data,Order,Forex,SGD,USD.SGD,"2025-11-12, 09:06:59","2,302.46",1.30295,,-2999.990257,-2,,,-1.382518,
+Trades,Data,Order,Forex,SGD,USD.SGD,"2025-11-13, 01:44:59","7,679.01",1.30225,,-9999.9907725,-2,,,-9.882905,
+Trades,Data,Order,Forex,SGD,USD.SGD,"2025-11-17, 18:03:09",0.022,1.30345,,-0.0286759,0,,,-0.000027,
+Trades,Data,Order,Forex,SGD,USD.SGD,"2025-11-18, 08:01:42","7,680.19",1.30205,,-9999.9913895,-2,,,-1.103386,
+Trades,Data,Order,Forex,SGD,USD.SGD,"2025-11-20, 18:02:11",0.0066,1.30785,,-0.00863181,0,,,-0.000006,
+Trades,Data,Order,Forex,SGD,USD.SGD,"2025-11-28, 13:10:58","7,715.45",1.2961,,-9999.994745,-2,,,0.254054,
+Trades,Data,Order,Forex,SGD,USD.SGD,"2025-12-03, 18:02:07",0.0041,1.29375,,-0.005304375,0,,,0.000007,
+Trades,Data,Order,Forex,SGD,USD.SGD,"2025-12-15, 14:35:42","11,623.85",1.29045,,-14999.9972325,-2,,,-6.697854,
+Trades,Data,Order,Forex,SGD,USD.SGD,"2026-01-25, 21:42:03","27,605.35",1.26787,,-34999.9951045,-2,,,40.403856,
+Trades,Data,Order,Forex,SGD,USD.SGD,"2026-01-27, 01:33:04","7,091.91",1.26905,,-8999.9883855,-2,,,-52.55078,
+Trades,Data,Order,Forex,SGD,USD.SGD,"2026-01-29, 18:02:40",0.0152,1.26455,,-0.01922116,0,,,0.000094,
+Trades,Data,Order,Forex,SGD,USD.SGD,"2026-02-02, 06:31:58","24,403.29",1.27032,,-30999.9873528,-2,,,40.709939,
+Trades,Data,Order,Forex,SGD,USD.SGD,"2026-02-05, 07:30:42","17,274.54",1.27355,,-21999.990417,-2,,,24.787514,
+Trades,Data,Order,Forex,SGD,USD.SGD,"2026-02-09, 18:02:35",0.3653,1.26535,,-0.462232355,0,,,-0.000164,
+Trades,Data,Order,Forex,SGD,USD.SGD,"2026-02-27, 11:07:35","15,811.52",1.2649,,-19999.991648,-2,,,1.326602,
+Trades,Data,Order,Forex,SGD,USD.SGD,"2026-03-06, 18:02:46",0.3036,1.27925,,-0.3883803,0,,,-0.001108,
+Trades,Data,Order,Forex,SGD,USD.SGD,"2026-04-02, 08:07:25","7,769.7",1.28705,,-9999.992385,-2,,,-8.394077,
+Trades,Data,Order,Forex,SGD,USD.SGD,"2026-04-08, 18:03:03",0.053,1.27405,,-0.06752465,0,,,-0.000043,
+Trades,Data,Order,Forex,SGD,USD.SGD,"2026-04-09, 10:41:36","7,845.29",1.27465,,-9999.9988985,-2,,,-10.109135,
+Trades,SubTotal,,Forex,SGD,USD.SGD,,152479.1598,,,-195002.87883985,-26,,,5.460293,
+Trades,Total,,Forex,SGD,,,,,,-195002.87883985,-26,,,5.460293, 
+Trades,Total,,Forex,USD,,,,,,-152473.699506796,-26,,,5.460293, 
+Transaction Fees,Header,Asset Category,Currency,Date/Time,Symbol,Description,Quantity,Trade Price,Amount,Code
+Transaction Fees,Data,Stocks,USD,"2026-02-03, 09:30:01",NOW,SERVICENOW INC,30,113.89,0,
+Transaction Fees,Data,Stocks,USD,"2026-03-04, 10:05:10",NOW,SERVICENOW INC,-100,114.2,0,
+Transaction Fees,Data,Stocks,USD,"2026-03-04, 10:07:12",NOW,SERVICENOW INC,70,113.79,0,
+Transaction Fees,Data,Stocks,USD,"2026-03-06, 16:20:00",ORCL,ORACLE CORP,-100,147,0,
+Transaction Fees,Data,Total,,,,,,,0,
+Transaction Fees,Data,Equity and Index Options,USD,"2025-11-11, 10:04:57",SMCI  251121P00035000,SMCI 21NOV25 35 P,-1,0.52,0,
+Transaction Fees,Data,Equity and Index Options,USD,"2025-11-12, 09:53:06",ON    251121P00046000,ON 21NOV25 46 P,-1,0.52,0,
+Transaction Fees,Data,Equity and Index Options,USD,"2025-11-17, 10:02:11",CROX  251212P00070000,CROX 12DEC25 70 P,-1,1.4,0,
+Transaction Fees,Data,Equity and Index Options,USD,"2025-11-18, 10:03:39",MRK   251226P00089000,MRK 26DEC25 89 P,-1,1.2,0,
+Transaction Fees,Data,Equity and Index Options,USD,"2025-11-20, 10:21:12",SMCI  251121P00035000,SMCI 21NOV25 35 P,1,0.92,0,
+Transaction Fees,Data,Equity and Index Options,USD,"2025-11-20, 10:21:12",SMCI  251212P00033000,SMCI 12DEC25 33 P,-1,1.59,0,
+Transaction Fees,Data,Equity and Index Options,USD,"2025-11-21, 09:34:30",ON    251121P00046000,ON 21NOV25 46 P,1,1.09,0,
+Transaction Fees,Data,Equity and Index Options,USD,"2025-11-21, 09:34:30",ON    260102P00044000,ON 02JAN26 44 P,-1,2.55,0,
+Transaction Fees,Data,Equity and Index Options,USD,"2025-11-26, 12:07:51",MRK   251226P00101000,MRK 26DEC25 101 P,1,1.53,0,
+Transaction Fees,Data,Equity and Index Options,USD,"2025-11-26, 12:10:16",MRK   251226P00089000,MRK 26DEC25 89 P,1,0.2,0,
+Transaction Fees,Data,Equity and Index Options,USD,"2025-11-28, 09:48:02",MRK   251226P00101000,MRK 26DEC25 101 P,-1,1.59,0,
+Transaction Fees,Data,Equity and Index Options,USD,"2025-11-28, 10:25:30",MRK   251226P00101000,MRK 26DEC25 101 P,-1,1.57,0,
+Transaction Fees,Data,Equity and Index Options,USD,"2025-11-28, 12:32:11",CROX  251212P00070000,CROX 12DEC25 70 P,1,0.1,0,
+Transaction Fees,Data,Equity and Index Options,USD,"2025-11-28, 12:49:08",LULU  251212P00170000,LULU 12DEC25 170 P,-1,5.69,0,
+Transaction Fees,Data,Equity and Index Options,USD,"2025-12-10, 09:52:18",NVDA  260102P00170000,NVDA 02JAN26 170 P,-1,2.07,0,
+Transaction Fees,Data,Equity and Index Options,USD,"2025-12-10, 12:00:44",PLTR  251212P00180000,PLTR 12DEC25 180 P,-1,0.91,0,
+Transaction Fees,Data,Equity and Index Options,USD,"2025-12-12, 11:50:03",PLTR  251212P00180000,PLTR 12DEC25 180 P,-1,1.99,0,
+Transaction Fees,Data,Equity and Index Options,USD,"2025-12-12, 12:49:56",SMCI  251212P00033000,SMCI 12DEC25 33 P,1,0.13,0,
+Transaction Fees,Data,Equity and Index Options,USD,"2025-12-15, 10:20:20",ON    260102P00044000,ON 02JAN26 44 P,1,0.07,0,
+Transaction Fees,Data,Equity and Index Options,USD,"2025-12-15, 11:28:54",LULU  260102P00190000,LULU 02JAN26 190 P,-1,2.28,0,
+Transaction Fees,Data,Equity and Index Options,USD,"2025-12-17, 10:58:52",NVDA  260102P00160000,NVDA 02JAN26 160 P,1,1.56,0,
+Transaction Fees,Data,Equity and Index Options,USD,"2025-12-18, 12:40:43",ON    260109P00050000,ON 09JAN26 50 P,-1,0.72,0,
+Transaction Fees,Data,Equity and Index Options,USD,"2025-12-24, 10:13:37",PLTR  260109P00185000,PLTR 09JAN26 185 P,-1,2.84,0,
+Transaction Fees,Data,Equity and Index Options,USD,"2025-12-31, 10:59:05",PLTR  260109P00185000,PLTR 09JAN26 185 P,1,7.05,0,
+Transaction Fees,Data,Equity and Index Options,USD,"2025-12-31, 10:59:05",PLTR  260130P00180000,PLTR 30JAN26 180 P,-1,8.3,0,
+Transaction Fees,Data,Equity and Index Options,USD,"2026-01-05, 10:02:37",NOW   260130P00141000,NOW 30JAN26 141 P,-1,3.22,0,
+Transaction Fees,Data,Equity and Index Options,USD,"2026-01-05, 10:20:28",QCOM  260206P00165000,QCOM 06FEB26 165 P,-1,3.12,0,
+Transaction Fees,Data,Equity and Index Options,USD,"2026-01-05, 10:31:40",NVDA  260130P00175000,NVDA 30JAN26 175 P,-1,2.37,0,
+Transaction Fees,Data,Equity and Index Options,USD,"2026-01-05, 10:31:40",NVDA  260206P00175000,NVDA 06FEB26 175 P,-1,3.12,0,
+Transaction Fees,Data,Equity and Index Options,USD,"2026-01-05, 12:45:27",NVDA  260206P00175000,NVDA 06FEB26 175 P,1,3.73,0,
+Transaction Fees,Data,Equity and Index Options,USD,"2026-01-06, 09:44:13",CRWV  260320P00060000,CRWV 20MAR26 60 P,-1,5.3,0,
+Transaction Fees,Data,Equity and Index Options,USD,"2026-01-07, 10:12:35",MS    260123P00175000,MS 23JAN26 175 P,-1,1.72,0,
+Transaction Fees,Data,Equity and Index Options,USD,"2026-01-07, 13:56:45",ON    260130P00056000,ON 30JAN26 56 P,-1,1.02,0,
+Transaction Fees,Data,Equity and Index Options,USD,"2026-01-09, 10:26:21",LULU  260123P00192500,LULU 23JAN26 192.5 P,-1,2.1,0,
+Transaction Fees,Data,Equity and Index Options,USD,"2026-01-26, 09:32:26",LULU  260206C00197500,LULU 06FEB26 197.5 C,-1,2.91,0,
+Transaction Fees,Data,Equity and Index Options,USD,"2026-01-27, 10:46:16",TSLA  260130P00417500,TSLA 30JAN26 417.5 P,-1,5.35,0,
+Transaction Fees,Data,Equity and Index Options,USD,"2026-01-27, 11:10:57",NVDA  260206P00177500,NVDA 06FEB26 177.5 P,-1,1.51,0,
+Transaction Fees,Data,Equity and Index Options,USD,"2026-01-30, 09:46:20",PLTR  260306C00185000,PLTR 06MAR26 185 C,-1,2.01,0,
+Transaction Fees,Data,Equity and Index Options,USD,"2026-01-30, 09:53:08",NOW   260227C00135000,NOW 27FEB26 135 C,-1,0.9,0,
+Transaction Fees,Data,Equity and Index Options,USD,"2026-01-30, 10:36:20",NVDA  260220P00177500,NVDA 20FEB26 177.5 P,-1,2.35,0,
+Transaction Fees,Data,Equity and Index Options,USD,"2026-02-02, 10:47:35",TSLA  260206P00407500,TSLA 06FEB26 407.5 P,-1,3.24,0,
+Transaction Fees,Data,Equity and Index Options,USD,"2026-02-02, 11:19:49",AMZN  260209P00225000,AMZN 09FEB26 225 P,-1,2.36,0,
+Transaction Fees,Data,Equity and Index Options,USD,"2026-02-03, 10:26:27",AMZN  260206P00222500,AMZN 06FEB26 222.5 P,-1,3.2,0,
+Transaction Fees,Data,Equity and Index Options,USD,"2026-02-04, 09:40:23",NOW   260213P00100000,NOW 13FEB26 100 P,-1,1.47,0,
+Transaction Fees,Data,Equity and Index Options,USD,"2026-02-05, 10:26:51",TSLA  260206P00407500,TSLA 06FEB26 407.5 P,1,19.07,0,
+Transaction Fees,Data,Equity and Index Options,USD,"2026-02-05, 10:26:51",TSLA  260213P00407500,TSLA 13FEB26 407.5 P,-1,23.27,0,
+Transaction Fees,Data,Equity and Index Options,USD,"2026-02-05, 10:43:10",NVDA  260206P00177500,NVDA 06FEB26 177.5 P,1,5.36,0,
+Transaction Fees,Data,Equity and Index Options,USD,"2026-02-05, 10:43:10",NVDA  260213P00177500,NVDA 13FEB26 177.5 P,-1,7.57,0,
+Transaction Fees,Data,Equity and Index Options,USD,"2026-02-06, 09:48:46",AMZN  260206P00222500,AMZN 06FEB26 222.5 P,1,18.2,0,
+Transaction Fees,Data,Equity and Index Options,USD,"2026-02-06, 09:48:46",AMZN  260306P00225000,AMZN 06MAR26 225 P,-1,21.81,0,
+Transaction Fees,Data,Equity and Index Options,USD,"2026-02-06, 10:05:49",AMZN  260218C00225000,AMZN 18FEB26 225 C,-1,0.4,0,
+Transaction Fees,Data,Equity and Index Options,USD,"2026-02-06, 10:05:49",AMZN  260227C00230000,AMZN 27FEB26 230 C,-1,0.58,0,
+Transaction Fees,Data,Equity and Index Options,USD,"2026-02-06, 10:05:49",AMZN  260306C00225000,AMZN 06MAR26 225 C,-1,1.29,0,
+Transaction Fees,Data,Equity and Index Options,USD,"2026-02-06, 10:38:50",QCOM  260313C00160000,QCOM 13MAR26 160 C,-1,0.49,0,
+Transaction Fees,Data,Equity and Index Options,USD,"2026-02-06, 10:38:50",QCOM  260320C00165000,QCOM 20MAR26 165 C,-1,0.52,0,
+Transaction Fees,Data,Equity and Index Options,USD,"2026-02-06, 10:38:50",QCOM  260327C00165000,QCOM 27MAR26 165 C,-1,0.87,0,
+Transaction Fees,Data,Equity and Index Options,USD,"2026-02-06, 10:46:57",LULU  260227C00200000,LULU 27FEB26 200 C,-1,0.87,0,
+Transaction Fees,Data,Equity and Index Options,USD,"2026-02-09, 09:36:22",AMZN  260227C00230000,AMZN 27FEB26 230 C,1,0.62,0,
+Transaction Fees,Data,Equity and Index Options,USD,"2026-02-09, 09:47:26",AMZN  260306C00225000,AMZN 06MAR26 225 C,1,1.59,0,
+Transaction Fees,Data,Equity and Index Options,USD,"2026-02-09, 09:49:25",QCOM  260320C00165000,QCOM 20MAR26 165 C,1,0.5,0,
+Transaction Fees,Data,Equity and Index Options,USD,"2026-02-09, 09:50:45",QCOM  260313C00160000,QCOM 13MAR26 160 C,1,0.47,0,
+Transaction Fees,Data,Equity and Index Options,USD,"2026-02-10, 10:06:23",ORCL  260220P00149000,ORCL 20FEB26 149 P,-1,2.14,0,
+Transaction Fees,Data,Equity and Index Options,USD,"2026-02-10, 11:10:10",CRDO  260213P00128000,CRDO 13FEB26 128 P,-1,1.94,0,
+Transaction Fees,Data,Equity and Index Options,USD,"2026-02-11, 10:35:35",NOW   260213P00098000,NOW 13FEB26 98 P,-1,1.45,0,
+Transaction Fees,Data,Equity and Index Options,USD,"2026-02-11, 11:00:07",MRK   260227P00115000,MRK 27FEB26 115 P,-1,1.19,0,
+Transaction Fees,Data,Equity and Index Options,USD,"2026-02-13, 09:54:29",CRDO  260213P00128000,CRDO 13FEB26 128 P,1,8.3,0,
+Transaction Fees,Data,Equity and Index Options,USD,"2026-02-13, 09:54:29",CRDO  260313P00119000,CRDO 13MAR26 119 P,-1,13.86,0,
+Transaction Fees,Data,Equity and Index Options,USD,"2026-02-13, 10:22:30",TSLA  260218P00397500,TSLA 18FEB26 397.5 P,-1,2.19,0,
+Transaction Fees,Data,Equity and Index Options,USD,"2026-02-17, 10:41:55",TSLA  260218P00397500,TSLA 18FEB26 397.5 P,1,4.15,0,
+Transaction Fees,Data,Equity and Index Options,USD,"2026-02-17, 10:41:55",TSLA  260225P00397500,TSLA 25FEB26 397.5 P,-1,9.74,0,
+Transaction Fees,Data,Equity and Index Options,USD,"2026-02-19, 10:14:22",LULU  260313P00180000,LULU 13MAR26 180 P,-1,7.98,0,
+Transaction Fees,Data,Equity and Index Options,USD,"2026-02-19, 10:14:22",LULU  260320P00180000,LULU 20MAR26 180 P,-1,11.29,0,
+Transaction Fees,Data,Equity and Index Options,USD,"2026-02-19, 10:30:09",LULU  260313P00180000,LULU 13MAR26 180 P,1,7.45,0,
+Transaction Fees,Data,Equity and Index Options,USD,"2026-02-19, 11:12:28",LULU  260220C00190000,LULU 20FEB26 190 C,-1,0.35,0,
+Transaction Fees,Data,Equity and Index Options,USD,"2026-02-19, 11:12:28",LULU  260227C00190000,LULU 27FEB26 190 C,-1,2.28,0,
+Transaction Fees,Data,Equity and Index Options,USD,"2026-02-19, 11:24:32",LULU  260220C00190000,LULU 20FEB26 190 C,1,0.31,0,
+Transaction Fees,Data,Equity and Index Options,USD,"2026-02-19, 11:31:27",MRK   260320P00120000,MRK 20MAR26 120 P,-1,3.35,0,
+Transaction Fees,Data,Equity and Index Options,USD,"2026-02-19, 11:33:53",LULU  260227C00200000,LULU 27FEB26 200 C,1,0.57,0,
+Transaction Fees,Data,Equity and Index Options,USD,"2026-02-19, 11:52:42",ORCL  260306P00147000,ORCL 06MAR26 147 P,-1,3.61,0,
+Transaction Fees,Data,Equity and Index Options,USD,"2026-02-20, 09:57:50",AMZN  260313C00215000,AMZN 13MAR26 215 C,-1,2.93,0,
+Transaction Fees,Data,Equity and Index Options,USD,"2026-02-20, 10:03:00",PANW  260306P00149000,PANW 06MAR26 149 P,-1,2.07,0,
+Transaction Fees,Data,Equity and Index Options,USD,"2026-02-20, 11:31:16",ARM   260227P00123000,ARM 27FEB26 123 P,-1,1.63,0,
+Transaction Fees,Data,Equity and Index Options,USD,"2026-02-23, 09:47:35",ORCL  260227C00150000,ORCL 27FEB26 150 C,-1,1.75,0,
+Transaction Fees,Data,Equity and Index Options,USD,"2026-02-23, 10:11:09",NVDA  260227P00182500,NVDA 27FEB26 182.5 P,-1,2.49,0,
+Transaction Fees,Data,Equity and Index Options,USD,"2026-02-24, 11:03:56",TSLA  260304P00392500,TSLA 04MAR26 392.5 P,-1,4.85,0,
+Transaction Fees,Data,Equity and Index Options,USD,"2026-02-26, 09:44:40",MSFT  260313P00390000,MSFT 13MAR26 390 P,-1,3.79,0,
+Transaction Fees,Data,Equity and Index Options,USD,"2026-02-27, 10:22:56",NVDA  260227P00182500,NVDA 27FEB26 182.5 P,1,1.92,0,
+Transaction Fees,Data,Equity and Index Options,USD,"2026-02-27, 10:22:56",NVDA  260304P00180000,NVDA 04MAR26 180 P,-1,3.05,0,
+Transaction Fees,Data,Equity and Index Options,USD,"2026-02-27, 11:15:19",NVDA  260304P00180000,NVDA 04MAR26 180 P,1,2.74,0,
+Transaction Fees,Data,Equity and Index Options,USD,"2026-03-02, 09:53:35",NVDA  260320P00165000,NVDA 20MAR26 165 P,-1,3.04,0,
+Transaction Fees,Data,Equity and Index Options,USD,"2026-03-02, 10:04:22",TSLA  260313P00377500,TSLA 13MAR26 377.5 P,-1,5.45,0,
+Transaction Fees,Data,Equity and Index Options,USD,"2026-03-03, 09:36:46",TSLA  260304P00392500,TSLA 04MAR26 392.5 P,1,4.77,0,
+Transaction Fees,Data,Equity and Index Options,USD,"2026-03-03, 09:36:46",TSLA  260327P00370000,TSLA 27MAR26 370 P,-1,9.14,0,
+Transaction Fees,Data,Equity and Index Options,USD,"2026-03-03, 09:56:26",ORCL  260306P00147000,ORCL 06MAR26 147 P,1,5.73,0,
+Transaction Fees,Data,Equity and Index Options,USD,"2026-03-03, 09:56:26",ORCL  260320P00137000,ORCL 20MAR26 137 P,-1,7.85,0,
+Transaction Fees,Data,Equity and Index Options,USD,"2026-03-03, 10:09:36",ORCL  260306C00147000,ORCL 06MAR26 147 C,-1,3.15,0,
+Transaction Fees,Data,Equity and Index Options,USD,"2026-03-03, 10:24:43",CRDO  260313P00119000,CRDO 13MAR26 119 P,1,25.68,0,
+Transaction Fees,Data,Equity and Index Options,USD,"2026-03-03, 11:07:03",AMZN  260306P00225000,AMZN 06MAR26 225 P,1,19.95,0,
+Transaction Fees,Data,Equity and Index Options,USD,"2026-03-03, 11:07:03",AMZN  260417P00195000,AMZN 17APR26 195 P,-1,6,0,
+Transaction Fees,Data,Equity and Index Options,USD,"2026-03-03, 11:33:16",NOW   260320C00125000,NOW 20MAR26 125 C,-1,1.21,0,
+Transaction Fees,Data,Equity and Index Options,USD,"2026-03-04, 09:44:04",MU    260306P00357500,MU 06MAR26 357.5 P,-1,2.63,0,
+Transaction Fees,Data,Equity and Index Options,USD,"2026-03-04, 11:09:21",WDAY  260402P00135000,WDAY 02APR26 135 P,-1,4.21,0,
+Transaction Fees,Data,Equity and Index Options,USD,"2026-03-04, 11:26:49",MRK   260327P00117000,MRK 27MAR26 117 P,-1,2.31,0,
+Transaction Fees,Data,Equity and Index Options,USD,"2026-03-04, 12:09:54",ZS    260320P00145000,ZS 20MAR26 145 P,-1,3.18,0,
+Transaction Fees,Data,Equity and Index Options,USD,"2026-03-05, 10:15:25",LULU  260320C00187500,LULU 20MAR26 187.5 C,-1,4.8,0,
+Transaction Fees,Data,Equity and Index Options,USD,"2026-03-05, 10:24:04",MDB   260313P00247500,MDB 13MAR26 247.5 P,-1,4.24,0,
+Transaction Fees,Data,Equity and Index Options,USD,"2026-03-05, 11:26:15",LULU  260320P00180000,LULU 20MAR26 180 P,1,15.17,0,
+Transaction Fees,Data,Equity and Index Options,USD,"2026-03-05, 11:26:15",LULU  260618P00170000,LULU 18JUN26 170 P,-1,17.85,0,
+Transaction Fees,Data,Equity and Index Options,USD,"2026-03-09, 10:15:51",XOM   260327P00147000,XOM 27MAR26 147 P,-1,2.8,0,
+Transaction Fees,Data,Equity and Index Options,USD,"2026-03-09, 11:19:49",CRWV  260402P00065000,CRWV 02APR26 65 P,-1,4.21,0,
+Transaction Fees,Data,Equity and Index Options,USD,"2026-03-09, 11:58:29",PLTR  260320P00147000,PLTR 20MAR26 147 P,-1,3.33,0,
+Transaction Fees,Data,Equity and Index Options,USD,"2026-03-12, 10:27:18",PLTR  260417C00170000,PLTR 17APR26 170 C,-1,4.25,0,
+Transaction Fees,Data,Equity and Index Options,USD,"2026-03-12, 10:36:51",AAPL  260417P00235000,AAPL 17APR26 235 P,-1,3.36,0,
+Transaction Fees,Data,Equity and Index Options,USD,"2026-03-13, 10:57:54",AMZN  260501P00200000,AMZN 01MAY26 200 P,-1,8.5,0,
+Transaction Fees,Data,Equity and Index Options,USD,"2026-03-16, 09:53:11",ADBE  260417P00230000,ADBE 17APR26 230 P,-1,5.2,0,
+Transaction Fees,Data,Equity and Index Options,USD,"2026-03-16, 10:02:42",AMZN  260417C00225000,AMZN 17APR26 225 C,-1,2.26,0,
+Transaction Fees,Data,Equity and Index Options,USD,"2026-03-16, 10:31:54",MRK   260320P00120000,MRK 20MAR26 120 P,1,4.96,0,
+Transaction Fees,Data,Equity and Index Options,USD,"2026-03-16, 10:31:54",MRK   260417P00120000,MRK 17APR26 120 P,-1,6.57,0,
+Transaction Fees,Data,Equity and Index Options,USD,"2026-03-16, 10:58:42",MS    260424P00145000,MS 24APR26 145 P,-1,3.78,0,
+Transaction Fees,Data,Equity and Index Options,USD,"2026-03-16, 11:22:27",MSFT  260424P00370000,MSFT 24APR26 370 P,-1,5.03,0,
+Transaction Fees,Data,Equity and Index Options,USD,"2026-03-17, 11:28:04",LULU  260618P00150000,LULU 18JUN26 150 P,1,11,0,
+Transaction Fees,Data,Equity and Index Options,USD,"2026-03-17, 11:44:00",MDB   260327P00260000,MDB 27MAR26 260 P,-1,5.83,0,
+Transaction Fees,Data,Equity and Index Options,USD,"2026-03-17, 11:49:13",NOW   260417P00105000,NOW 17APR26 105 P,-1,1.98,0,
+Transaction Fees,Data,Equity and Index Options,USD,"2026-03-18, 11:02:12",SNPS  260417P00400000,SNPS 17APR26 400 P,-1,9.55,0,
+Transaction Fees,Data,Equity and Index Options,USD,"2026-03-19, 09:38:34",NVDA  260320P00165000,NVDA 20MAR26 165 P,1,0.13,0,
+Transaction Fees,Data,Equity and Index Options,USD,"2026-03-19, 09:40:29",ZS    260320P00145000,ZS 20MAR26 145 P,1,0.12,0,
+Transaction Fees,Data,Equity and Index Options,USD,"2026-03-19, 09:43:54",QCOM  260327C00165000,QCOM 27MAR26 165 C,1,0.03,0,
+Transaction Fees,Data,Equity and Index Options,USD,"2026-03-19, 09:44:44",CRWV  260320P00060000,CRWV 20MAR26 60 P,1,0.04,0,
+Transaction Fees,Data,Equity and Index Options,USD,"2026-03-19, 09:47:15",ORCL  260320P00137000,ORCL 20MAR26 137 P,1,0.1,0,
+Transaction Fees,Data,Equity and Index Options,USD,"2026-03-19, 09:56:15",LULU  260320C00187500,LULU 20MAR26 187.5 C,1,0.06,0,
+Transaction Fees,Data,Equity and Index Options,USD,"2026-03-19, 11:07:31",NOW   260320C00125000,NOW 20MAR26 125 C,1,0.08,0,
+Transaction Fees,Data,Equity and Index Options,USD,"2026-03-19, 11:38:29",NOW   260402C00122000,NOW 02APR26 122 C,-1,1.4,0,
+Transaction Fees,Data,Equity and Index Options,USD,"2026-03-19, 11:46:55",NOW   260402C00122000,NOW 02APR26 122 C,-1,1.4,0,
+Transaction Fees,Data,Equity and Index Options,USD,"2026-03-19, 11:56:17",QCOM  260417C00140000,QCOM 17APR26 140 C,-1,1.99,0,
+Transaction Fees,Data,Equity and Index Options,USD,"2026-03-19, 13:56:02",ZS    260417P00140000,ZS 17APR26 140 P,-1,3.7,0,
+Transaction Fees,Data,Equity and Index Options,USD,"2026-03-20, 10:00:02",LULU  260618P00150000,LULU 18JUN26 150 P,-1,8.38,0,
+Transaction Fees,Data,Equity and Index Options,USD,"2026-03-23, 13:14:01",META  260325P00667500,META 25MAR26 667.5 P,-1,64.55,0,
+Transaction Fees,Data,Equity and Index Options,USD,"2026-03-23, 13:23:12",META  260325P00667500,META 25MAR26 667.5 P,1,66.67,0,
+Transaction Fees,Data,Equity and Index Options,USD,"2026-03-23, 13:28:46",META  260325P00587500,META 25MAR26 587.5 P,-1,2.67,0,
+Transaction Fees,Data,Equity and Index Options,USD,"2026-03-23, 13:28:46",META  260327P00587500,META 27MAR26 587.5 P,-1,4.67,0,
+Transaction Fees,Data,Equity and Index Options,USD,"2026-03-23, 13:28:46",META  260417P00555000,META 17APR26 555 P,-1,6.7,0,
+Transaction Fees,Data,Equity and Index Options,USD,"2026-03-23, 13:33:29",META  260327P00587500,META 27MAR26 587.5 P,1,4.45,0,
+Transaction Fees,Data,Equity and Index Options,USD,"2026-03-23, 13:50:00",META  260325P00587500,META 25MAR26 587.5 P,1,2.48,0,
+Transaction Fees,Data,Equity and Index Options,USD,"2026-03-24, 09:32:49",CRWV  260402P00065000,CRWV 02APR26 65 P,1,0.42,0,
+Transaction Fees,Data,Equity and Index Options,USD,"2026-03-24, 09:39:00",LULU  260424C00180000,LULU 24APR26 180 C,-1,2.98,0,
+Transaction Fees,Data,Equity and Index Options,USD,"2026-03-24, 09:45:44",TSLA  260327P00370000,TSLA 27MAR26 370 P,1,2.71,0,
+Transaction Fees,Data,Equity and Index Options,USD,"2026-03-24, 11:30:31",TSLA  260501P00340000,TSLA 01MAY26 340 P,-1,7.58,0,
+Transaction Fees,Data,Equity and Index Options,USD,"2026-03-24, 11:33:30",XOM   260327P00147000,XOM 27MAR26 147 P,1,0.03,0,
+Transaction Fees,Data,Equity and Index Options,USD,"2026-03-25, 09:59:09",MDB   260402P00240000,MDB 02APR26 240 P,-1,4.4,0,
+Transaction Fees,Data,Equity and Index Options,USD,"2026-03-25, 10:11:14",MDB   260327P00260000,MDB 27MAR26 260 P,1,10.17,0,
+Transaction Fees,Data,Equity and Index Options,USD,"2026-03-25, 10:11:14",MDB   260618P00230000,MDB 18JUN26 230 P,-1,20.61,0,
+Transaction Fees,Data,Equity and Index Options,USD,"2026-03-25, 10:53:27",MRK   260327P00117000,MRK 27MAR26 117 P,1,0.66,0,
+Transaction Fees,Data,Equity and Index Options,USD,"2026-03-25, 11:00:31",NOW   260402C00122000,NOW 02APR26 122 C,1,0.12,0,
+Transaction Fees,Data,Equity and Index Options,USD,"2026-03-25, 11:00:31",NOW   260402C00122000,NOW 02APR26 122 C,1,0.12,0,
+Transaction Fees,Data,Equity and Index Options,USD,"2026-03-25, 11:31:28",NOW   260618C00124000,NOW 18JUN26 124 C,-1,3.75,0,
+Transaction Fees,Data,Equity and Index Options,USD,"2026-03-25, 11:40:19",WDAY  260618P00115000,WDAY 18JUN26 115 P,-1,8.1,0,
+Transaction Fees,Data,Equity and Index Options,USD,"2026-03-25, 12:11:27",WDAY  260402P00135000,WDAY 02APR26 135 P,1,8.79,0,
+Transaction Fees,Data,Equity and Index Options,USD,"2026-03-25, 12:11:27",WDAY  260918P00120000,WDAY 18SEP26 120 P,-1,15.21,0,
+Transaction Fees,Data,Equity and Index Options,USD,"2026-03-25, 12:54:56",MDB   260402P00240000,MDB 02APR26 240 P,1,8.26,0,
+Transaction Fees,Data,Equity and Index Options,USD,"2026-03-25, 12:54:56",MDB   260618P00220000,MDB 18JUN26 220 P,-1,21.55,0,
+Transaction Fees,Data,Equity and Index Options,USD,"2026-03-26, 09:55:06",NOW   260417P00099000,NOW 17APR26 99 P,-1,2.98,0,
+Transaction Fees,Data,Equity and Index Options,USD,"2026-03-26, 09:55:06",NOW   260417P00105000,NOW 17APR26 105 P,1,5.15,0,
+Transaction Fees,Data,Equity and Index Options,USD,"2026-03-26, 09:56:17",MRK   260417P00118000,MRK 17APR26 118 P,-1,2.68,0,
+Transaction Fees,Data,Equity and Index Options,USD,"2026-03-26, 09:56:17",MRK   260417P00120000,MRK 17APR26 120 P,1,3.57,0,
+Transaction Fees,Data,Equity and Index Options,USD,"2026-03-26, 10:48:39",META  260417P00555000,META 17APR26 555 P,1,17.68,0,
+Transaction Fees,Data,Equity and Index Options,USD,"2026-03-26, 10:48:39",META  260501P00535000,META 01MAY26 535 P,-1,20.07,0,
+Transaction Fees,Data,Equity and Index Options,USD,"2026-03-31, 10:09:20",PLTR  260417C00170000,PLTR 17APR26 170 C,1,0.3,0,
+Transaction Fees,Data,Equity and Index Options,USD,"2026-03-31, 10:23:29",PLTR  260424C00155000,PLTR 24APR26 155 C,-1,2.88,0,
+Transaction Fees,Data,Equity and Index Options,USD,"2026-03-31, 10:48:11",AMZN  260417C00225000,AMZN 17APR26 225 C,1,0.62,0,
+Transaction Fees,Data,Equity and Index Options,USD,"2026-03-31, 10:53:13",AMZN  260501C00225000,AMZN 01MAY26 225 C,-1,3.4,0,
+Transaction Fees,Data,Equity and Index Options,USD,"2026-03-31, 10:55:55",LULU  260424C00180000,LULU 24APR26 180 C,1,0.56,0,
+Transaction Fees,Data,Equity and Index Options,USD,"2026-03-31, 11:12:11",LULU  260508C00165000,LULU 08MAY26 165 C,-1,3.9,0,
+Transaction Fees,Data,Equity and Index Options,USD,"2026-03-31, 13:03:13",ARM   260508P00135000,ARM 08MAY26 135 P,-1,6.33,0,
+Transaction Fees,Data,Equity and Index Options,USD,"2026-04-01, 11:13:30",AAPL  260417P00235000,AAPL 17APR26 235 P,1,1,0,
+Transaction Fees,Data,Equity and Index Options,USD,"2026-04-06, 10:38:18",AMZN  260417P00195000,AMZN 17APR26 195 P,1,0.75,0,
+Transaction Fees,Data,Equity and Index Options,USD,"2026-04-07, 11:52:59",QCOM  260417C00140000,QCOM 17APR26 140 C,1,0.07,0,
+Transaction Fees,Data,Equity and Index Options,USD,"2026-04-07, 12:12:16",MS    260424P00145000,MS 24APR26 145 P,1,1,0,
+Transaction Fees,Data,Equity and Index Options,USD,"2026-04-08, 09:52:24",QCOM  260501C00131000,QCOM 01MAY26 131 C,-1,4.1,0,
+Transaction Fees,Data,Equity and Index Options,USD,"2026-04-08, 11:12:54",MRK   260417P00118000,MRK 17APR26 118 P,1,0.99,0,
+Transaction Fees,Data,Equity and Index Options,USD,"2026-04-08, 11:46:01",MU    260410P00390000,MU 10APR26 390 P,-1,4.34,0,
+Transaction Fees,Data,Equity and Index Options,USD,"2026-04-13, 11:00:40",MU    260417P00397500,MU 17APR26 397.5 P,-1,6.39,0,
+Transaction Fees,Data,Equity and Index Options,USD,"2026-04-13, 11:21:08",AMZN  260501P00200000,AMZN 01MAY26 200 P,1,1.11,0,
+Transaction Fees,Data,Equity and Index Options,USD,"2026-04-13, 11:24:39",AMZN  260515P00215000,AMZN 15MAY26 215 P,-1,3.7,0,
+Transaction Fees,Data,Equity and Index Options,USD,"2026-04-14, 10:55:48",NOW   260417P00099000,NOW 17APR26 99 P,1,9.07,0,
+Transaction Fees,Data,Equity and Index Options,USD,"2026-04-14, 10:55:48",NOW   260618P00088000,NOW 18JUN26 88 P,-1,7.76,0,
+Transaction Fees,Data,Equity and Index Options,USD,"2026-04-14, 11:26:32",META  260501P00535000,META 01MAY26 535 P,1,1.6,0,
+Transaction Fees,Data,Equity and Index Options,USD,"2026-04-15, 11:40:44",SNPS  260417P00400000,SNPS 17APR26 400 P,1,0.83,0,
+Transaction Fees,Data,Equity and Index Options,USD,"2026-04-16, 09:39:38",MSFT  260424P00370000,MSFT 24APR26 370 P,1,0.25,0,
+Transaction Fees,Data,Equity and Index Options,USD,"2026-04-16, 09:48:58",MU    260417P00397500,MU 17APR26 397.5 P,1,0.19,0,
+Transaction Fees,Data,Equity and Index Options,USD,"2026-04-16, 10:28:53",ADBE  260417P00230000,ADBE 17APR26 230 P,1,0.14,0,
+Transaction Fees,Data,Equity and Index Options,USD,"2026-04-16, 10:50:49",MU    260424P00430000,MU 24APR26 430 P,-1,8.88,0,
+Transaction Fees,Data,Equity and Index Options,USD,"2026-04-16, 11:54:56",CRDO  260508P00135000,CRDO 08MAY26 135 P,-1,4.52,0,
+Transaction Fees,Data,Equity and Index Options,USD,"2026-04-16, 12:52:38",PANW  260515P00150000,PANW 15MAY26 150 P,-1,2.47,0,
+Transaction Fees,Data,Equity and Index Options,USD,"2026-04-17, 12:12:14",ZS    260417P00140000,ZS 17APR26 140 P,1,5.41,0,
+Transaction Fees,Data,Equity and Index Options,USD,"2026-04-17, 12:12:14",ZS    260529P00131000,ZS 29MAY26 131 P,-1,10.73,0,
+Transaction Fees,Data,Total,,,,,,,0,
+Deposits & Withdrawals,Header,Currency,Settle Date,Description,Amount
+Deposits & Withdrawals,Data,SGD,2025-11-10,Electronic Fund Transfer,5000
+Deposits & Withdrawals,Data,SGD,2025-11-11,Electronic Fund Transfer,5000
+Deposits & Withdrawals,Data,SGD,2025-11-12,Electronic Fund Transfer,3000
+Deposits & Withdrawals,Data,SGD,2025-11-13,Electronic Fund Transfer,10000
+Deposits & Withdrawals,Data,SGD,2025-11-18,Electronic Fund Transfer,10000
+Deposits & Withdrawals,Data,SGD,2025-11-29,Electronic Fund Transfer,10000
+Deposits & Withdrawals,Data,SGD,2025-12-16,Electronic Fund Transfer,15000
+Deposits & Withdrawals,Data,SGD,2026-01-26,Electronic Fund Transfer,35000
+Deposits & Withdrawals,Data,SGD,2026-01-27,Electronic Fund Transfer,9000
+Deposits & Withdrawals,Data,SGD,2026-02-02,Electronic Fund Transfer,31000
+Deposits & Withdrawals,Data,SGD,2026-02-05,Electronic Fund Transfer,22000
+Deposits & Withdrawals,Data,SGD,2026-02-27,Electronic Fund Transfer,20000
+Deposits & Withdrawals,Data,SGD,2026-04-02,Electronic Fund Transfer,10000
+Deposits & Withdrawals,Data,SGD,2026-04-09,Electronic Fund Transfer,10000
+Deposits & Withdrawals,Data,Total,,,195000
+Deposits & Withdrawals,Data,Total in USD,,,152466.12
+Fees,Header,Subtitle,Currency,Date,Description,Amount
+Fees,Data,Other Fees,USD,2025-11-19,a*******64:AMEX Level I for Nov 2025,-1.5
+Fees,Data,Other Fees,USD,2025-11-19,a*******64:NASDAQ Level I for Nov 2025,-1.5
+Fees,Data,Other Fees,USD,2025-11-19,a*******64:NYSE Level I for Nov 2025,-1.5
+Fees,Data,Other Fees,USD,2025-11-19,A*******64:OPRA NP L1 for Nov 2025,-1.5
+Fees,Data,Other Fees,USD,2025-12-02,a*******64:AMEX Level I for Dec 2025,-1.5
+Fees,Data,Other Fees,USD,2025-12-02,a*******64:NASDAQ Level I for Dec 2025,-1.5
+Fees,Data,Other Fees,USD,2025-12-02,a*******64:NYSE Level I for Dec 2025,-1.5
+Fees,Data,Other Fees,USD,2025-12-02,A*******64:OPRA NP L1 for Dec 2025,-1.5
+Fees,Data,Other Fees,USD,2025-12-02,Cancel[A*******64:OPRA NP L1] FOR NOV 2025,1.5
+Fees,Data,Other Fees,USD,2026-01-05,a*******64:AMEX Level I for Jan 2026,-1.5
+Fees,Data,Other Fees,USD,2026-01-05,a*******64:NASDAQ Level I for Jan 2026,-1.5
+Fees,Data,Other Fees,USD,2026-01-05,a*******64:NYSE Level I for Jan 2026,-1.5
+Fees,Data,Other Fees,USD,2026-01-05,A*******64:OPRA NP L1 for Jan 2026,-1.5
+Fees,Data,Other Fees,USD,2026-02-04,a*******64:AMEX Level I for Feb 2026,-1.5
+Fees,Data,Other Fees,USD,2026-02-04,a*******64:NASDAQ Level I for Feb 2026,-1.5
+Fees,Data,Other Fees,USD,2026-02-04,a*******64:NYSE Level I for Feb 2026,-1.5
+Fees,Data,Other Fees,USD,2026-02-04,A*******64:OPRA NP L1 for Feb 2026,-1.5
+Fees,Data,Other Fees,USD,2026-03-03,a*******64:AMEX Level I for Mar 2026,-1.5
+Fees,Data,Other Fees,USD,2026-03-03,a*******64:NASDAQ Level I for Mar 2026,-1.5
+Fees,Data,Other Fees,USD,2026-03-03,a*******64:NYSE Level I for Mar 2026,-1.5
+Fees,Data,Other Fees,USD,2026-03-03,A*******64:OPRA NP L1 for Mar 2026,-1.5
+Fees,Data,Other Fees,USD,2026-03-03,Cancel[A*******64:OPRA NP L1] FOR FEB 2026,1.5
+Fees,Data,Other Fees,USD,2026-04-02,a*******64:AMEX Level I for Apr 2026,-1.5
+Fees,Data,Other Fees,USD,2026-04-02,a*******64:NASDAQ Level I for Apr 2026,-1.5
+Fees,Data,Other Fees,USD,2026-04-02,a*******64:NYSE Level I for Apr 2026,-1.5
+Fees,Data,Other Fees,USD,2026-04-02,A*******64:OPRA NP L1 for Apr 2026,-1.5
+Fees,Data,Other Fees,USD,2026-04-02,Cancel[A*******64:OPRA NP L1] FOR MAR 2026,1.5
+Fees,Data,Total,,,,-31.5
+Fees,Notes,"Market data is provided by Global Financial Information Services (GmbH). Your local broker collects amounts owed for fees and tax for such data on behalf of Global Financial Information Services (GmbH). Note, you are responsible for any applicable taxes relating to the provision of these services."
+Dividends,Header,Currency,Date,Description,Amount
+Dividends,Data,USD,2026-03-26,QCOM(US7475251036) Cash Dividend USD 0.89 per Share (Ordinary Dividend),89
+Dividends,Data,Total,,,89
+Withholding Tax,Header,Currency,Date,Description,Amount,Code
+Withholding Tax,Data,USD,2026-03-26,QCOM(US7475251036) Cash Dividend USD 0.89 per Share - US Tax,-26.7,
+Withholding Tax,Data,Total,,,-26.7,
+Interest,Header,Currency,Date,Description,Amount
+Interest,Data,SGD,2026-02-04,SGD Credit Interest for Jan-2026,0.44
+Interest,Data,SGD,2026-03-04,SGD Credit Interest for Feb-2026,0.38
+Interest,Data,SGD,2026-04-06,SGD Credit Interest for Mar-2026,0.06
+Interest,Data,Total,,,0.88
+Interest,Data,Total in USD,,,0.6903844
+Interest,Data,USD,2025-12-03,USD Credit Interest for Nov-2025,4.98
+Interest,Data,USD,2026-01-06,USD Credit Interest for Dec-2025,34.51
+Interest,Data,USD,2026-02-04,USD Credit Interest for Jan-2026,50.35
+Interest,Data,USD,2026-03-04,USD Credit Interest for Feb-2026,56.16
+Interest,Data,USD,2026-04-06,USD Credit Interest for Mar-2026,133.79
+Interest,Data,Total,,,279.79
+Interest,Data,Total Interest in USD,,,280.4803844
+Interest Accruals,Header,Currency,Field Name,Field Value
+Interest Accruals,Data,Base Currency Summary,Starting Accrual Balance,0
+Interest Accruals,Data,Base Currency Summary,Interest Accrued,380.280972
+Interest Accruals,Data,Base Currency Summary,Accrual Reversal,-280.4803844
+Interest Accruals,Data,Base Currency Summary,FX Translation,-0.0005876
+Interest Accruals,Data,Base Currency Summary,Ending Accrual Balance,99.8
+Interest Accruals,Data,SGD,Starting Accrual Balance,0
+Interest Accruals,Data,SGD,Interest Accrued,0.88
+Interest Accruals,Data,SGD,Accrual Reversal,-0.88
+Interest Accruals,Data,SGD,Ending Accrual Balance,0
+Interest Accruals,Data,SGD,Ending Accrual Balance in USD,0
+Interest Accruals,Data,USD,Starting Accrual Balance,0
+Interest Accruals,Data,USD,Interest Accrued,379.59
+Interest Accruals,Data,USD,Accrual Reversal,-279.79
+Interest Accruals,Data,USD,Ending Accrual Balance,99.8
+Change in Dividend Accruals,Header,Asset Category,Currency,Symbol,Date,Ex Date,Pay Date,Quantity,Tax,Fee,Gross Rate,Gross Amount,Net Amount,Code
+Change in Dividend Accruals,Data,Starting Dividend Accruals in USD,,,,,,,,,,,0,
+Change in Dividend Accruals,Data,Stocks,USD,QCOM,2026-03-04,2026-03-05,2026-03-26,100,26.7,0,0.89,89,62.3,Po
+Change in Dividend Accruals,Data,Stocks,USD,QCOM,2026-03-26,2026-03-05,2026-03-26,100,-26.7,0,0.89,-89,-62.3,Re
+Change in Dividend Accruals,Data,Total,,,,,,,0,0,,0,0,
+Change in Dividend Accruals,Data,Ending Dividend Accruals in USD,,,,,,,,,,,0,
+Financial Instrument Information,Header,Asset Category,Symbol,Description,Conid,Security ID,Underlying,Listing Exch,Multiplier,Type,Code
+Financial Instrument Information,Data,Stocks,AMZN,AMAZON.COM INC,3691937,US0231351067,AMZN,NASDAQ,1,COMMON,
+Financial Instrument Information,Data,Stocks,LULU,LULULEMON ATHLETICA INC,45157951,US5500211090,LULU,NASDAQ,1,COMMON,
+Financial Instrument Information,Data,Stocks,NOW,SERVICENOW INC,109911821,US81762P1021,NOW,NYSE,1,COMMON,
+Financial Instrument Information,Data,Stocks,ORCL,ORACLE CORP,272800,US68389X1054,ORCL,NYSE,1,COMMON,
+Financial Instrument Information,Data,Stocks,PLTR,PALANTIR TECHNOLOGIES INC-A,444857009,US69608A1088,PLTR,NASDAQ,1,COMMON,
+Financial Instrument Information,Data,Stocks,QCOM,QUALCOMM INC,273544,US7475251036,QCOM,NASDAQ,1,COMMON,
+Financial Instrument Information,Header,Asset Category,Symbol,Description,Conid,Underlying,Listing Exch,Multiplier,Expiry,Delivery Month,Type,Strike,Code
+Financial Instrument Information,Data,Equity and Index Options,AAPL  260417P00235000,AAPL 17APR26 235 P,806745737,AAPL,CBOE,100,2026-04-17,2026-04,P,235,
+Financial Instrument Information,Data,Equity and Index Options,ADBE  260417P00230000,ADBE 17APR26 230 P,808515178,ADBE,CBOE,100,2026-04-17,2026-04,P,230,
+Financial Instrument Information,Data,Equity and Index Options,AMZN  260206P00222500,AMZN 06FEB26 222.5 P,847160024,AMZN,CBOE,100,2026-02-06,2026-02,P,222.5,
+Financial Instrument Information,Data,Equity and Index Options,AMZN  260209P00225000,AMZN 09FEB26 225 P,849256549,AMZN,CBOE,100,2026-02-09,2026-02,P,225,
+Financial Instrument Information,Data,Equity and Index Options,AMZN  260218C00225000,AMZN 18FEB26 225 C,851576731,AMZN,CBOE,100,2026-02-18,2026-02,C,225,
+Financial Instrument Information,Data,Equity and Index Options,AMZN  260227C00230000,AMZN 27FEB26 230 C,844256175,AMZN,CBOE,100,2026-02-27,2026-02,C,230,
+Financial Instrument Information,Data,Equity and Index Options,AMZN  260306C00225000,AMZN 06MAR26 225 C,848341536,AMZN,CBOE,100,2026-03-06,2026-03,C,225,
+Financial Instrument Information,Data,Equity and Index Options,AMZN  260306P00225000,AMZN 06MAR26 225 P,848343266,AMZN,CBOE,100,2026-03-06,2026-03,P,225,
+Financial Instrument Information,Data,Equity and Index Options,AMZN  260313C00215000,AMZN 13MAR26 215 C,850428372,AMZN,CBOE,100,2026-03-13,2026-03,C,215,
+Financial Instrument Information,Data,Equity and Index Options,AMZN  260417C00225000,AMZN 17APR26 225 C,806764904,AMZN,CBOE,100,2026-04-17,2026-04,C,225,
+Financial Instrument Information,Data,Equity and Index Options,AMZN  260417P00195000,AMZN 17APR26 195 P,806767364,AMZN,CBOE,100,2026-04-17,2026-04,P,195,
+Financial Instrument Information,Data,Equity and Index Options,AMZN  260501C00225000,AMZN 01MAY26 225 C,863343236,AMZN,CBOE,100,2026-05-01,2026-05,C,225,
+Financial Instrument Information,Data,Equity and Index Options,AMZN  260501P00200000,AMZN 01MAY26 200 P,863344683,AMZN,CBOE,100,2026-05-01,2026-05,P,200,
+Financial Instrument Information,Data,Equity and Index Options,AMZN  260515P00215000,AMZN 15MAY26 215 P,793740054,AMZN,CBOE,100,2026-05-15,2026-05,P,215,
+Financial Instrument Information,Data,Equity and Index Options,ARM   260227P00123000,ARM 27FEB26 123 P,844259889,ARM,CBOE,100,2026-02-27,2026-02,P,123,
+Financial Instrument Information,Data,Equity and Index Options,ARM   260508P00135000,ARM 08MAY26 135 P,868999572,ARM,CBOE,100,2026-05-08,2026-05,P,135,
+Financial Instrument Information,Data,Equity and Index Options,CRDO  260213P00128000,CRDO 13FEB26 128 P,848360712,CRDO,CBOE,100,2026-02-13,2026-02,P,128,
+Financial Instrument Information,Data,Equity and Index Options,CRDO  260313P00119000,CRDO 13MAR26 119 P,850442356,CRDO,CBOE,100,2026-03-13,2026-03,P,119,
+Financial Instrument Information,Data,Equity and Index Options,CRDO  260508P00135000,CRDO 08MAY26 135 P,869013085,CRDO,CBOE,100,2026-05-08,2026-05,P,135,
+Financial Instrument Information,Data,Equity and Index Options,CROX  251212P00070000,CROX 12DEC25 70 P,827901590,CROX,CBOE,100,2025-12-12,2025-12,P,70,
+Financial Instrument Information,Data,Equity and Index Options,CRWV  260320P00060000,CRWV 20MAR26 60 P,785477554,CRWV,CBOE,100,2026-03-20,2026-03,P,60,
+Financial Instrument Information,Data,Equity and Index Options,CRWV  260402P00065000,CRWV 02APR26 65 P,854627934,CRWV,CBOE,100,2026-04-02,2026-04,P,65,
+Financial Instrument Information,Data,Equity and Index Options,LULU  251212P00170000,LULU 12DEC25 170 P,827455591,LULU,CBOE,100,2025-12-12,2025-12,P,170,
+Financial Instrument Information,Data,Equity and Index Options,LULU  260102P00190000,LULU 02JAN26 190 P,830949431,LULU,CBOE,100,2026-01-02,2026-01,P,190,
+Financial Instrument Information,Data,Equity and Index Options,LULU  260123P00192500,LULU 23JAN26 192.5 P,843262075,LULU,CBOE,100,2026-01-23,2026-01,P,192.5,
+Financial Instrument Information,Data,Equity and Index Options,LULU  260206C00197500,LULU 06FEB26 197.5 C,847277802,LULU,CBOE,100,2026-02-06,2026-02,C,197.5,
+Financial Instrument Information,Data,Equity and Index Options,LULU  260220C00190000,LULU 20FEB26 190 C,807049317,LULU,CBOE,100,2026-02-20,2026-02,C,190,
+Financial Instrument Information,Data,Equity and Index Options,LULU  260227C00190000,LULU 27FEB26 190 C,844319439,LULU,CBOE,100,2026-02-27,2026-02,C,190,
+Financial Instrument Information,Data,Equity and Index Options,LULU  260227C00200000,LULU 27FEB26 200 C,844319558,LULU,CBOE,100,2026-02-27,2026-02,C,200,
+Financial Instrument Information,Data,Equity and Index Options,LULU  260313P00180000,LULU 13MAR26 180 P,850478658,LULU,CBOE,100,2026-03-13,2026-03,P,180,
+Financial Instrument Information,Data,Equity and Index Options,LULU  260320C00187500,LULU 20MAR26 187.5 C,857370856,LULU,CBOE,100,2026-03-20,2026-03,C,187.5,
+Financial Instrument Information,Data,Equity and Index Options,LULU  260320P00180000,LULU 20MAR26 180 P,766223252,LULU,CBOE,100,2026-03-20,2026-03,P,180,
+Financial Instrument Information,Data,Equity and Index Options,LULU  260424C00180000,LULU 24APR26 180 C,861060621,LULU,CBOE,100,2026-04-24,2026-04,C,180,
+Financial Instrument Information,Data,Equity and Index Options,LULU  260508C00165000,LULU 08MAY26 165 C,868667934,LULU,CBOE,100,2026-05-08,2026-05,C,165,
+Financial Instrument Information,Data,Equity and Index Options,LULU  260618P00150000,LULU 18JUN26 150 P,772813864,LULU,CBOE,100,2026-06-18,2026-06,P,150,
+Financial Instrument Information,Data,Equity and Index Options,LULU  260618P00170000,LULU 18JUN26 170 P,767316310,LULU,CBOE,100,2026-06-18,2026-06,P,170,
+Financial Instrument Information,Data,Equity and Index Options,MDB   260313P00247500,MDB 13MAR26 247.5 P,859132633,MDB,CBOE,100,2026-03-13,2026-03,P,247.5,
+Financial Instrument Information,Data,Equity and Index Options,MDB   260327P00260000,MDB 27MAR26 260 P,852299625,MDB,CBOE,100,2026-03-27,2026-03,P,260,
+Financial Instrument Information,Data,Equity and Index Options,MDB   260402P00240000,MDB 02APR26 240 P,854703129,MDB,CBOE,100,2026-04-02,2026-04,P,240,
+Financial Instrument Information,Data,Equity and Index Options,MDB   260618P00220000,MDB 18JUN26 220 P,767661296,MDB,CBOE,100,2026-06-18,2026-06,P,220,
+Financial Instrument Information,Data,Equity and Index Options,MDB   260618P00230000,MDB 18JUN26 230 P,767661347,MDB,CBOE,100,2026-06-18,2026-06,P,230,
+Financial Instrument Information,Data,Equity and Index Options,META  260325P00587500,META 25MAR26 587.5 P,863435181,META,CBOE,100,2026-03-25,2026-03,P,587.5,
+Financial Instrument Information,Data,Equity and Index Options,META  260325P00667500,META 25MAR26 667.5 P,863436118,META,CBOE,100,2026-03-25,2026-03,P,667.5,
+Financial Instrument Information,Data,Equity and Index Options,META  260327P00587500,META 27MAR26 587.5 P,863439273,META,CBOE,100,2026-03-27,2026-03,P,587.5,
+Financial Instrument Information,Data,Equity and Index Options,META  260417P00555000,META 17APR26 555 P,848543947,META,CBOE,100,2026-04-17,2026-04,P,555,
+Financial Instrument Information,Data,Equity and Index Options,META  260501P00535000,META 01MAY26 535 P,863973297,META,CBOE,100,2026-05-01,2026-05,P,535,
+Financial Instrument Information,Data,Equity and Index Options,MRK   251226P00089000,MRK 26DEC25 89 P,829111593,MRK,CBOE,100,2025-12-26,2025-12,P,89,
+Financial Instrument Information,Data,Equity and Index Options,MRK   251226P00101000,MRK 26DEC25 101 P,830929053,MRK,CBOE,100,2025-12-26,2025-12,P,101,
+Financial Instrument Information,Data,Equity and Index Options,MRK   260227P00115000,MRK 27FEB26 115 P,844312830,MRK,CBOE,100,2026-02-27,2026-02,P,115,
+Financial Instrument Information,Data,Equity and Index Options,MRK   260320P00120000,MRK 20MAR26 120 P,756996297,MRK,CBOE,100,2026-03-20,2026-03,P,120,
+Financial Instrument Information,Data,Equity and Index Options,MRK   260327P00117000,MRK 27MAR26 117 P,852309971,MRK,CBOE,100,2026-03-27,2026-03,P,117,
+Financial Instrument Information,Data,Equity and Index Options,MRK   260417P00118000,MRK 17APR26 118 P,867114892,MRK,CBOE,100,2026-04-17,2026-04,P,118,
+Financial Instrument Information,Data,Equity and Index Options,MRK   260417P00120000,MRK 17APR26 120 P,807087317,MRK,CBOE,100,2026-04-17,2026-04,P,120,
+Financial Instrument Information,Data,Equity and Index Options,MS    260123P00175000,MS 23JAN26 175 P,836485822,MS,CBOE,100,2026-01-23,2026-01,P,175,
+Financial Instrument Information,Data,Equity and Index Options,MS    260424P00145000,MS 24APR26 145 P,861095905,MS,CBOE,100,2026-04-24,2026-04,P,145,
+Financial Instrument Information,Data,Equity and Index Options,MSFT  260313P00390000,MSFT 13MAR26 390 P,850984811,MSFT,CBOE,100,2026-03-13,2026-03,P,390,
+Financial Instrument Information,Data,Equity and Index Options,MSFT  260424P00370000,MSFT 24APR26 370 P,861088642,MSFT,CBOE,100,2026-04-24,2026-04,P,370,
+Financial Instrument Information,Data,Equity and Index Options,MU    260306P00357500,MU 06MAR26 357.5 P,856793338,MU,CBOE,100,2026-03-06,2026-03,P,357.5,
+Financial Instrument Information,Data,Equity and Index Options,MU    260410P00390000,MU 10APR26 390 P,858635272,MU,CBOE,100,2026-04-10,2026-04,P,390,
+Financial Instrument Information,Data,Equity and Index Options,MU    260417P00397500,MU 17APR26 397.5 P,869053717,MU,CBOE,100,2026-04-17,2026-04,P,397.5,
+Financial Instrument Information,Data,Equity and Index Options,MU    260424P00430000,MU 24APR26 430 P,861088455,MU,CBOE,100,2026-04-24,2026-04,P,430,
+Financial Instrument Information,Data,Equity and Index Options,NOW   260130P00141000,NOW 30JAN26 141 P,838437518,NOW,CBOE,100,2026-01-30,2026-01,P,141,
+Financial Instrument Information,Data,Equity and Index Options,NOW   260213P00098000,NOW 13FEB26 98 P,850919096,NOW,CBOE,100,2026-02-13,2026-02,P,98,
+Financial Instrument Information,Data,Equity and Index Options,NOW   260213P00100000,NOW 13FEB26 100 P,842705208,NOW,CBOE,100,2026-02-13,2026-02,P,100,
+Financial Instrument Information,Data,Equity and Index Options,NOW   260227C00135000,NOW 27FEB26 135 C,844391366,NOW,CBOE,100,2026-02-27,2026-02,C,135,
+Financial Instrument Information,Data,Equity and Index Options,NOW   260320C00125000,NOW 20MAR26 125 C,840334107,NOW,CBOE,100,2026-03-20,2026-03,C,125,
+Financial Instrument Information,Data,Equity and Index Options,NOW   260402C00122000,NOW 02APR26 122 C,864399346,NOW,CBOE,100,2026-04-02,2026-04,C,122,
+Financial Instrument Information,Data,Equity and Index Options,NOW   260417P00099000,NOW 17APR26 99 P,868658014,NOW,CBOE,100,2026-04-17,2026-04,P,99,
+Financial Instrument Information,Data,Equity and Index Options,NOW   260417P00105000,NOW 17APR26 105 P,840336004,NOW,CBOE,100,2026-04-17,2026-04,P,105,
+Financial Instrument Information,Data,Equity and Index Options,NOW   260618C00124000,NOW 18JUN26 124 C,755006759,NOW,CBOE,100,2026-06-18,2026-06,C,124,
+Financial Instrument Information,Data,Equity and Index Options,NOW   260618P00088000,NOW 18JUN26 88 P,767628092,NOW,CBOE,100,2026-06-18,2026-06,P,88,
+Financial Instrument Information,Data,Equity and Index Options,NVDA  260102P00160000,NVDA 02JAN26 160 P,830936780,NVDA,CBOE,100,2026-01-02,2026-01,P,160,
+Financial Instrument Information,Data,Equity and Index Options,NVDA  260102P00170000,NVDA 02JAN26 170 P,830936882,NVDA,CBOE,100,2026-01-02,2026-01,P,170,
+Financial Instrument Information,Data,Equity and Index Options,NVDA  260130P00175000,NVDA 30JAN26 175 P,838038628,NVDA,CBOE,100,2026-01-30,2026-01,P,175,
+Financial Instrument Information,Data,Equity and Index Options,NVDA  260206P00175000,NVDA 06FEB26 175 P,841759030,NVDA,CBOE,100,2026-02-06,2026-02,P,175,
+Financial Instrument Information,Data,Equity and Index Options,NVDA  260206P00177500,NVDA 06FEB26 177.5 P,847261592,NVDA,CBOE,100,2026-02-06,2026-02,P,177.5,
+Financial Instrument Information,Data,Equity and Index Options,NVDA  260213P00177500,NVDA 13FEB26 177.5 P,849301793,NVDA,CBOE,100,2026-02-13,2026-02,P,177.5,
+Financial Instrument Information,Data,Equity and Index Options,NVDA  260220P00177500,NVDA 20FEB26 177.5 P,847263268,NVDA,CBOE,100,2026-02-20,2026-02,P,177.5,
+Financial Instrument Information,Data,Equity and Index Options,NVDA  260227P00182500,NVDA 27FEB26 182.5 P,853200558,NVDA,CBOE,100,2026-02-27,2026-02,P,182.5,
+Financial Instrument Information,Data,Equity and Index Options,NVDA  260304P00180000,NVDA 04MAR26 180 P,855031581,NVDA,CBOE,100,2026-03-04,2026-03,P,180,
+Financial Instrument Information,Data,Equity and Index Options,NVDA  260320P00165000,NVDA 20MAR26 165 P,754444730,NVDA,CBOE,100,2026-03-20,2026-03,P,165,
+Financial Instrument Information,Data,Equity and Index Options,ON    251121P00046000,ON 21NOV25 46 P,815572020,ON,CBOE,100,2025-11-21,2025-11,P,46,
+Financial Instrument Information,Data,Equity and Index Options,ON    260102P00044000,ON 02JAN26 44 P,830966527,ON,CBOE,100,2026-01-02,2026-01,P,44,
+Financial Instrument Information,Data,Equity and Index Options,ON    260109P00050000,ON 09JAN26 50 P,834781273,ON,CBOE,100,2026-01-09,2026-01,P,50,
+Financial Instrument Information,Data,Equity and Index Options,ON    260130P00056000,ON 30JAN26 56 P,838056003,ON,CBOE,100,2026-01-30,2026-01,P,56,
+Financial Instrument Information,Data,Equity and Index Options,ORCL  260220P00149000,ORCL 20FEB26 149 P,853164365,ORCL,CBOE,100,2026-02-20,2026-02,P,149,
+Financial Instrument Information,Data,Equity and Index Options,ORCL  260227C00150000,ORCL 27FEB26 150 C,844347356,ORCL,CBOE,100,2026-02-27,2026-02,C,150,
+Financial Instrument Information,Data,Equity and Index Options,ORCL  260306C00147000,ORCL 06MAR26 147 C,855033099,ORCL,CBOE,100,2026-03-06,2026-03,C,147,
+Financial Instrument Information,Data,Equity and Index Options,ORCL  260306P00147000,ORCL 06MAR26 147 P,855033489,ORCL,CBOE,100,2026-03-06,2026-03,P,147,
+Financial Instrument Information,Data,Equity and Index Options,ORCL  260320P00137000,ORCL 20MAR26 137 P,857794799,ORCL,CBOE,100,2026-03-20,2026-03,P,137,
+Financial Instrument Information,Data,Equity and Index Options,PANW  260306P00149000,PANW 06MAR26 149 P,856344220,PANW,CBOE,100,2026-03-06,2026-03,P,149,
+Financial Instrument Information,Data,Equity and Index Options,PANW  260515P00150000,PANW 15MAY26 150 P,798877219,PANW,CBOE,100,2026-05-15,2026-05,P,150,
+Financial Instrument Information,Data,Equity and Index Options,PLTR  251212P00180000,PLTR 12DEC25 180 P,827460153,PLTR,CBOE,100,2025-12-12,2025-12,P,180,
+Financial Instrument Information,Data,Equity and Index Options,PLTR  260109P00185000,PLTR 09JAN26 185 P,834792180,PLTR,CBOE,100,2026-01-09,2026-01,P,185,
+Financial Instrument Information,Data,Equity and Index Options,PLTR  260130P00180000,PLTR 30JAN26 180 P,838093679,PLTR,CBOE,100,2026-01-30,2026-01,P,180,
+Financial Instrument Information,Data,Equity and Index Options,PLTR  260306C00185000,PLTR 06MAR26 185 C,848557326,PLTR,CBOE,100,2026-03-06,2026-03,C,185,
+Financial Instrument Information,Data,Equity and Index Options,PLTR  260320P00147000,PLTR 20MAR26 147 P,857348703,PLTR,CBOE,100,2026-03-20,2026-03,P,147,
+Financial Instrument Information,Data,Equity and Index Options,PLTR  260417C00170000,PLTR 17APR26 170 C,809297334,PLTR,CBOE,100,2026-04-17,2026-04,C,170,
+Financial Instrument Information,Data,Equity and Index Options,PLTR  260424C00155000,PLTR 24APR26 155 C,861099933,PLTR,CBOE,100,2026-04-24,2026-04,C,155,
+Financial Instrument Information,Data,Equity and Index Options,QCOM  260206P00165000,QCOM 06FEB26 165 P,841768102,QCOM,CBOE,100,2026-02-06,2026-02,P,165,
+Financial Instrument Information,Data,Equity and Index Options,QCOM  260313C00160000,QCOM 13MAR26 160 C,850531630,QCOM,CBOE,100,2026-03-13,2026-03,C,160,
+Financial Instrument Information,Data,Equity and Index Options,QCOM  260320C00165000,QCOM 20MAR26 165 C,719028693,QCOM,CBOE,100,2026-03-20,2026-03,C,165,
+Financial Instrument Information,Data,Equity and Index Options,QCOM  260327C00165000,QCOM 27MAR26 165 C,852378750,QCOM,CBOE,100,2026-03-27,2026-03,C,165,
+Financial Instrument Information,Data,Equity and Index Options,QCOM  260417C00140000,QCOM 17APR26 140 C,807137167,QCOM,CBOE,100,2026-04-17,2026-04,C,140,
+Financial Instrument Information,Data,Equity and Index Options,QCOM  260501C00131000,QCOM 01MAY26 131 C,870690833,QCOM,CBOE,100,2026-05-01,2026-05,C,131,
+Financial Instrument Information,Data,Equity and Index Options,SMCI  251121P00035000,SMCI 21NOV25 35 P,770191677,SMCI,CBOE,100,2025-11-21,2025-11,P,35,
+Financial Instrument Information,Data,Equity and Index Options,SMCI  251212P00033000,SMCI 12DEC25 33 P,829111689,SMCI,CBOE,100,2025-12-12,2025-12,P,33,
+Financial Instrument Information,Data,Equity and Index Options,SNPS  260417P00400000,SNPS 17APR26 400 P,820332529,SNPS,CBOE,100,2026-04-17,2026-04,P,400,
+Financial Instrument Information,Data,Equity and Index Options,TSLA  260130P00417500,TSLA 30JAN26 417.5 P,848540858,TSLA,CBOE,100,2026-01-30,2026-01,P,417.5,
+Financial Instrument Information,Data,Equity and Index Options,TSLA  260206P00407500,TSLA 06FEB26 407.5 P,848543426,TSLA,CBOE,100,2026-02-06,2026-02,P,407.5,
+Financial Instrument Information,Data,Equity and Index Options,TSLA  260213P00407500,TSLA 13FEB26 407.5 P,850947477,TSLA,CBOE,100,2026-02-13,2026-02,P,407.5,
+Financial Instrument Information,Data,Equity and Index Options,TSLA  260218P00397500,TSLA 18FEB26 397.5 P,852397748,TSLA,CBOE,100,2026-02-18,2026-02,P,397.5,
+Financial Instrument Information,Data,Equity and Index Options,TSLA  260225P00397500,TSLA 25FEB26 397.5 P,853907547,TSLA,CBOE,100,2026-02-25,2026-02,P,397.5,
+Financial Instrument Information,Data,Equity and Index Options,TSLA  260304P00392500,TSLA 04MAR26 392.5 P,856811914,TSLA,CBOE,100,2026-03-04,2026-03,P,392.5,
+Financial Instrument Information,Data,Equity and Index Options,TSLA  260313P00377500,TSLA 13MAR26 377.5 P,859194019,TSLA,CBOE,100,2026-03-13,2026-03,P,377.5,
+Financial Instrument Information,Data,Equity and Index Options,TSLA  260327P00370000,TSLA 27MAR26 370 P,852399280,TSLA,CBOE,100,2026-03-27,2026-03,P,370,
+Financial Instrument Information,Data,Equity and Index Options,TSLA  260501P00340000,TSLA 01MAY26 340 P,863530134,TSLA,CBOE,100,2026-05-01,2026-05,P,340,
+Financial Instrument Information,Data,Equity and Index Options,WDAY  260402P00135000,WDAY 02APR26 135 P,854294011,WDAY,CBOE,100,2026-04-02,2026-04,P,135,
+Financial Instrument Information,Data,Equity and Index Options,WDAY  260618P00115000,WDAY 18JUN26 115 P,775184799,WDAY,CBOE,100,2026-06-18,2026-06,P,115,
+Financial Instrument Information,Data,Equity and Index Options,WDAY  260918P00120000,WDAY 18SEP26 120 P,794411820,WDAY,CBOE,100,2026-09-18,2026-09,P,120,
+Financial Instrument Information,Data,Equity and Index Options,XOM   260327P00147000,XOM 27MAR26 147 P,852357610,XOM,CBOE,100,2026-03-27,2026-03,P,147,
+Financial Instrument Information,Data,Equity and Index Options,ZS    260320P00145000,ZS 20MAR26 145 P,757012291,ZS,CBOE,100,2026-03-20,2026-03,P,145,
+Financial Instrument Information,Data,Equity and Index Options,ZS    260417P00140000,ZS 17APR26 140 P,856617530,ZS,CBOE,100,2026-04-17,2026-04,P,140,
+Financial Instrument Information,Data,Equity and Index Options,ZS    260529P00131000,ZS 29MAY26 131 P,872156534,ZS,CBOE,100,2026-05-29,2026-05,P,131,
+Codes,Header,Code,Meaning,Code (Cont.),Meaning (Cont.)
+Codes,Data,A,Assignment
+Codes,Data,ADR,ADR Fee Accrual
+Codes,Data,AEx,Automatic exercise for dividend-related recommendation.
+Codes,Data,AFx,AutoFX conversion resulting from trading
+Codes,Data,Adj,Adjustment
+Codes,Data,Al,Allocation
+Codes,Data,Aw,Away Trade
+Codes,Data,B,Automatic Buy-in
+Codes,Data,Bo,Direct Borrow
+Codes,Data,C,Closing Trade
+Codes,Data,CD,Cash Delivery
+Codes,Data,CF,Commission free Lite trade
+Codes,Data,CP,Complex Position
+Codes,Data,Ca,Cancelled
+Codes,Data,Co,Corrected Trade
+Codes,Data,Cx,Part or all of this transaction was a Crossing executed as dual agent by IB for two IB customers
+Codes,Data,DT,Discounted Trade
+Codes,Data,De,Delivery or Conversion Action
+Codes,Data,ETF,ETF Creation/Redemption
+Codes,Data,Ep,Resulted from an Expired Position
+Codes,Data,Ex,Exercise
+Codes,Data,FP,The fractional portion of this trade was executed against IB or an affiliate.
+Codes,Data,FPA,The fractional portion of this trade was executed against IB or an affiliate. IB acted as agent for the whole share portion of this trade.
+Codes,Data,G,Trade in Guaranteed Account Segment
+Codes,Data,GEA,Exercise or Assignment resulting from offsetting positions
+Codes,Data,HC,Highest Cost tax basis election
+Codes,Data,HFI,Investment Transferred to Hedge Fund
+Codes,Data,HFR,Redemption from Hedge Fund
+Codes,Data,I,Internal Transfer
+Codes,Data,IA,The transaction was executed against IB or an affiliate
+Codes,Data,IM,A portion of the order was executed against IB or an affiliate; IB acted as agent on a portion.
+Codes,Data,INV,Investment Transfer from Investor
+Codes,Data,IPO,This transaction was executed as part of an IPO in which IB was a member of the selling group and is classified as a Principal trade.
+Codes,Data,L,Ordered by IB (Margin Violation)
+Codes,Data,LD,Adjusted by Loss Disallowed from Wash Sale
+Codes,Data,LF,Liquidation of fractional position by IB
+Codes,Data,LI,"Last In, First Out (LIFO) tax basis election"
+Codes,Data,LT,Long Term P/L
+Codes,Data,Lo,Direct Loan
+Codes,Data,M,Entered manually by IB
+Codes,Data,MEx,Manual exercise for dividend-related recommendation.
+Codes,Data,ML,Maximize Losses tax basis election
+Codes,Data,MLG,Maximize Long Term Gain tax basis election
+Codes,Data,MLL,Maximize Long Term Loss tax basis election
+Codes,Data,MSG,Maximize Short Term Gain tax basis election
+Codes,Data,MSL,Maximize Short Term Loss tax basis election
+Codes,Data,O,Opening Trade
+Codes,Data,Off,Yes and No contracts offset to $1.00 cash settlement
+Codes,Data,P,Partial Execution
+Codes,Data,PE,Perpetual Investment
+Codes,Data,PI,Price Improvement
+Codes,Data,PTA,Post Trade Allocation
+Codes,Data,Po,Interest or Dividend Accrual Posting
+Codes,Data,Pr,Part or all of this transaction was executed by the Exchange as a Crossing by IB against an IB affiliate and is therefore classified as a Principal and not an agency trade
+Codes,Data,R,Dividend Reinvestment
+Codes,Data,RED,Redemption to Investor
+Codes,Data,RI,Recurring Investment
+Codes,Data,RP,"IB acted as agent for the fractional share portion of this trade, which was executed by an IB affiliate as riskless principal."
+Codes,Data,RPA,IB acted as agent for both the fractional share portion and the whole share portion of this trade; the fractional share portion was executed by an IB Affiliate as riskless principal.
+Codes,Data,Rb,Rebill
+Codes,Data,Re,Interest or Dividend Accrual Reversal
+Codes,Data,Ri,Reimbursement
+Codes,Data,S0,Contract settled to zero value
+Codes,Data,S1,Contract settled to $1.00
+Codes,Data,SF,Trade is subject to IBKR Lite Surcharge Fee if volume of such trades exceeds 10% of the total monthly commission free Lite trade volume
+Codes,Data,SI,This order was solicited by Interactive Brokers
+Codes,Data,SL,Specific Lot tax basis election
+Codes,Data,SO,This order was marked as solicited by your Introducing Broker
+Codes,Data,SS,Customer designated this trade for shortened settlement and so is subject to execution at prices above the prevailing market
+Codes,Data,ST,Short Term P/L
+Codes,Data,T,Transfer
+Codes,Data,Un,Unvested shares from stock grant
+Codes,Data,XCH,Mutual Fund Exchange Transaction
+Notes/Legal Notes,Header,Type,Note
+Notes/Legal Notes,Data,Notes,"Stock exchange transactions generally settle on the trade date plus one business or two business days (T+1 or T+2). Options, futures and US open-end mutual fund transactions also settle on trade date plus one business day. Some exchanges and other transaction types may have longer or shorter settlement periods. Ending settled cash reflects the cash that has actually settled."
+Notes/Legal Notes,Data,Notes,Initial and maintenance margin requirements are available within the Account Window of the Trader Workstation or the Margin Report available in Account Management.
+Notes/Legal Notes,Data,Notes,"Quantities preceded by a ""-"" sign indicate sell transactions. Other transactions are purchases. "
+Notes/Legal Notes,Data,Notes,"IB acts as agent in executing the fractional share portion of your order. In certain circumstances, IB routes the fractional portion of your order to an affiliate, which may execute the fractional portion of the order as principal. In such circumstances, this is indicated by the codes associated with the trade. If an IB affiliate acts as principal in executing any fractional share portion of your order, the order will be executed at the price displayed for the opposite side of the NBBO from your order (the offer if you are buying and the bid if you are selling) at the time of execution. If an IB affiliate is acting as riskless principal in connection with filling the fractional share portion of your order, the affiliate will execute the fractional share portion of your order at the price it receives for the execution of the whole share."
+Notes/Legal Notes,Data,Notes,"In case of partial executions, commissions are charged on the total quantity executed on the original order. The commission is displayed on the first partial execution only."
+Notes/Legal Notes,Data,Notes,Trade execution times are displayed in United States Eastern Time.
+Notes/Legal Notes,Data,Notes,"Borrow Fee Rate represents the cost to borrow stock expressed in percent per annum. It is applied to the collateral value on the stock borrow contract and is separate from any interest earned on credit cash balances. Similarly, Loan Fee Rate represents the benefit to lend stock. A positive rate indicates a cost to the borrower/benefit to the lender and a negative rate indicates a benefit to the borrower/cost to the lender. In general, the fee rates for hard-to-borrow stocks are higher than for normal availability stocks."
+Notes/Legal Notes,Data,Notes,Interest Rate on Customer Collateral represents the interest paid on the collateral posted to the customer's account and received from lending stock.  A positive rate indicates a benefit to the lender.
+Notes/Legal Notes,Data,Notes,"The closing prices on this Activity Statement are indicative and may come from third-party sources. Interactive Brokers does not warrant the accuracy of the prices provided by third-party sources. Due to time zone differences, certain non-US mutual funds may deliver closing prices after the Activity Statement has been produced and the closing prices for such funds will reflect the previous day's price."
+Notes/Legal Notes,Data,Notes,All Market Data and Research services are provided through Global Financial Information Services (GmbH).
+Notes/Legal Notes,Data,Notes,"Market data is provided by Global Financial Information Services (GmbH). Your local broker collects amounts owed for fees and tax for such data on behalf of Global Financial Information Services (GmbH). Note, you are responsible for any applicable taxes relating to the provision of these services."
+Notes/Legal Notes,Data,Notes,RUS denotes Ruble balances that have been restricted by Russian authorities.
+Notes/Legal Notes,Data,Mutual Fund Notes,"All purchase and sales of mutual funds are calculated against the published NAV (Net Asset Value) of the underlying fund and is displayed on this confirmation as the ""C. Price"" (Closing Price). Due to any fees charged by a fund and/or any share rounding, the net price you pay may vary from the published NAV and is shown on this confirmation as the ""T. Price"" (Trade Price)."
+Notes/Legal Notes,Data,Fixed Income Notes,"Call features for bonds or preferred stocks may affect the yield. For zero coupon, compound interest and multiplier securities, there are no periodic payments and securities may be callable below maturity value without notice to holder unless registered. For asset-backed securities, the actual yield may vary depending on the speed at which the underlying note is pre-paid. For additional information regarding bond yield, please contact the IB Help Desk at: ibkr.com/help. If this debt security is unrated by a nationally recognized statistical rating organization, it may pose a high risk of default. You should consult an independent advisor to determine whether unrated bonds are appropriate for your portfolio in light of your goals and your financial circumstances. Fees charged by bond trading centers are included in the cost of bond transactions."
+Notes/Legal Notes,Data,Legal Notes,"Please promptly report any inaccuracy or discrepancy in this statement, or in your account. Contact the IB Customer Service Department in writing using the form available on the IB website. You may also contact IB by phone, but if you report an error by phone, you should re-confirm such oral communication in writing in order to protect your rights. You may refer to www.ibkr.com for more information on the contact details of the relevant IB entity."
+Notes/Legal Notes,Data,Legal Notes,"Interactive Brokers Singapore Pte. Ltd. is located at 1 Harbourfront Place #12-01, Harbourfront Tower 1, Singapore 098633."
+Notes/Legal Notes,Data,Legal Notes,"Unless otherwise noted, Interactive Brokers acted as agent in the execution of the above transactions. For those exchanges where IB is not a direct clearing member or custodian, IB may use one of the following clearing agents or sub-custodians: Interactive Brokers LLC and Interactive Brokers (U.K.) Limited."
+Notes/Legal Notes,Data,Legal Notes,"IB acts as agent or riskless principal in foreign currency exchange transactions.  Such transactions are executed against an IB affiliate or a third party, which acts as principal in such transactions and may have a long or short position and may have profited or lost in connection with the transaction.  Foreign currency exchange transactions executed by Customer through IB are not regulated or overseen by the MAS."
+Notes/Legal Notes,Data,Legal Notes,"IB accepts liquidity rebates or other order flow payments from Alternative Trading Systems, market makers and exchanges for certain orders in stocks. IB receives payment for some option orders pursuant to exchange-mandated marketing fee programs or other arrangements. The source and nature of any compensation received by IB in connection with any transaction is available upon written request of the customer. For further information, check the IB website and the Order Routing and Payment for Order Flow Disclosure provided when you opened your account and annually or visit ibkr.com/help.  "
+Notes/Legal Notes,Data,Legal Notes,"For security futures trades, if not already indicated on this statement, information about the time of any transaction, the identity of the counterparty to the transaction, and whether IB is acting as agent or principal, as agent for the counterparty, as agent for both parties to the contract, or as principal, and if acting as principal, whether the transaction was a block transaction or an exchange for physicals transaction, will be available upon written request of the customer."
+Notes/Legal Notes,Data,Legal Notes,Customer is requested to promptly advise Interactive Brokers of any material change in Customer's investment objectives.
+Notes/Legal Notes,Data,Legal Notes,"For trades executed on the ASX market, the ASX 24 market and the Cboe Australia market, this confirmation is issued subject to: (i) the Applicable Laws, the directions, decisions and requirements of the relevant market operator, the operating rules of the relevant market, the clearing rules and where relevant, the relevant settlement rules, (ii) the customs and usages of the relevant financial market, and (iii) the correction of errors and omissions. Trades in Cash Market Products (as that term is defined in the relevant ASIC market integrity rules) on ASX market and Cboe Australia are cleared by BNP Paribas, ARBN 149 440 291, AFSL 402467, who is a participant of ASX Clear Pty Ltd and ASX Settlement Pty Ltd. Trades in Derivative Products on ASX and all products on ASX 24 are cleared by Interactive Brokers Australia (“IBA”) as a participant of ASX Clear Pty Ltd and ASX Clear (Futures) Pty Ltd. If your transaction was a crossing transaction, IBA may have either acted on behalf of (i) both the buyer and seller of this transaction, or (ii) on behalf of the buyer or seller on one side of the transaction and acted as Principal on the other side. Under the Corporations Act 2001, where IBA enters into an exchange traded derivative on a customer's behalf, IBA is regarded as having issued the derivative to the customer."
+Notes/Legal Notes,Data,Legal Notes,"For All Options Trades Executed on the Stock Exchange of Hong Kong (""SEHK""): (a) Options can involve a high degree of risk and may not be suitable for every investor. Investors should ensure they understand those risks before participating in the options market. (b) All options contracts executed on the SEHK were executed by Interactive Brokers Hong Kong Limited. (c) In the event of a default committed by Interactive Brokers resulting in the client suffering any pecuniary loss, the client shall have a right to claim under the Investor Compensation Fund established under the Hong Kong Securities and Futures Ordinance, subject to the terms of the Investor Compensation Fund from time to time. (d) All Exchange Traded Options Business made for or on behalf of a client shall be subject to the relevant provisions of the constitution, Rules of The Stock Exchange of Hong Kong Limited (""SEHK Rules""), regulations, the Articles, customs and usages of SEHK, the Options Trading Rules, the Clearing Rules of SEOCH, the CCASS Rules and the laws of Hong Kong, which shall be binding on both Interactive Brokers and the client."
